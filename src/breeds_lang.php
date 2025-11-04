@@ -1,6 +1,6 @@
 <?
 
-$lang["breeds_title"] = "Fajta és testdaganat";
+$lang["breeds_title"] = "Fajta és daganat";
 $lang["breeds_subtitle"] = "Bizonyos fajták hajlamosabbak a daganatos megbetegedésekre?";
 $lang["breeds_name"] = "Fajta";
 $lang["breeds_deathCount"] = "Összes elhalálozás (n)";
@@ -142,3 +142,4 @@ $lang["breeds_references"] =
 
 
 ?>
+
