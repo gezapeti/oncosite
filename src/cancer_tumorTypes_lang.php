@@ -1,0 +1,100 @@
+<?
+
+$lang["cancer_tumorTypes_title"] = "Daganattípusok";
+$lang["cancer_tumorTypes_subtitle"] = "Vannak különbségek a daganatok között?";
+$lang["cancer_tumorTypes_intro"] = 
+"<p>A rák viselkedése és kezelése daganattípusonként, a daganat stádiumától, valamint az azonos típusú és stádiumú daganattal rendelkező egyes betegeknél is eltérő lehet. Ahhoz, hogy hatékonyan lehessen küzdeni egy daganattal, specifikus információkra van szükség. Minél többet tudunk a daganatról, annál jobb lesz a kezelés.</p>
+<p>Például a kutyájánál előfordulhat egy ismeretlen eredetű csontdaganat. A daganat származhat a csontból (oszteoszarkóma), a porcból (chondroszarkóma), vagy akár áttétként is jelen lehet a csontban (például prosztatarák esetén).</p>
+<p>Az oszteoszarkóma viselkedése sokkal agresszívebb, mint a chondroszarkómáé, és eltérő kezelési megközelítést igényel. Éppen ezért fontos felismerni ezt a különbséget. A daganatok elkülöníthetők a szövettani vizsgálattal (histopatológia), amelyhez biopszia szükséges, vagy a sejtvizsgálattal (citológia), ahol tűt vezetnek a daganatba, és a kinyert sejteket mikroszkóp alatt vizsgálják.</p>
+<p>Az orvosi képalkotó vizsgálatokkal (röntgen, CT/MRI, ultrahang, endoszkópia stb.) pontos információ szerezhető arról, hol helyezkedik el a daganat. Ez megkönnyíti a sebészeti és/vagy egyéb kezelési tervek kidolgozását, ami csökkenti a kiújulás kockázatát.</p>";
+$lang["cancer_tumorTypes_goto"] = "Ugrás közvetlenül az adatlapra";
+$lang["cancer_tumorTypes_select"] = "választ";
+$lang["cancer_tumorTypes_backToOverview"] = "Vissza a áttekintéshez";
+$lang["cancer_tumorTypes_location"] = "Elhelyezkedés";
+$lang["cancer_tumorTypes_summary"] = "Összefoglaló";
+$lang["cancer_tumorTypes_behavior"] = "Viselkedés";
+$lang["cancer_tumorTypes_diagnosis"] = "Diagnosztika";
+$lang["cancer_tumorTypes_treatment"] = "Kezelés";
+$lang["cancer_tumorTypes_prognosis"] = "Kimenetel";
+$lang["cancer_tumorTypes_pictures"] = "Képek"; 
+$lang["cancer_tumorTypes_references"] = "Irodalom";
+$lang["cancer_tumorTypes_clinicalTrials"] = "Klinikai vizsgálatok";
+$lang["cancer_tumorTypes_characteristics"] = "Jellemzők";
+$lang["cancer_tumorTypes_showPictures"] = "Képek megtekintése";
+$lang["cancer_tumorTypes_sensitiveContent"] = "Itt találhatók képek a kutyákról, akiknél ez a daganattípus fordult elő. Ezek a képek érzékeny nézők számára nem megfelelőek lehetnek.";
+$lang["cancer_tumorTypes_noPicturesAvailable"] = "Ehhez a daganattípushoz nincs elérhető kép";
+$lang["cancer_tumorTypes_seeAllClinicalTrials"] = "Az összes klinikai vizsgálat megtekintése";
+
+$lang["cancer_tumorTypes_type_acanthomatousAmeloblastoma"] = "akantomatosus ameloblastoma";
+$lang["cancer_tumorTypes_type_adrenalTumor"] = "mellékvese daganat";
+$lang["cancer_tumorTypes_type_adrenalCortexTumor"] = "mellékvese kéregdaganat";
+$lang["cancer_tumorTypes_type_analSacAdenoCarcinoma"] = "anális mirigy adenokarcinóma";
+$lang["cancer_tumorTypes_type_bladderTumor"] = "húgyhólyag daganat";
+$lang["cancer_tumorTypes_type_brainTumor"] = "agydaganat";
+$lang["cancer_tumorTypes_type_chemodectoma"] = "kemodektóma";
+$lang["cancer_tumorTypes_type_chondrosarcoma"] = "chondroszarkóma";
+$lang["cancer_tumorTypes_type_cystadenocarcinoma"] = "cisztadenokarcinóma";
+$lang["cancer_tumorTypes_type_eyelidTumor"] = "szemhéjdaganat";
+$lang["cancer_tumorTypes_type_fibrosarcomaBone"] = "fibroszarkóma - csont";
+$lang["cancer_tumorTypes_type_fibrosarcomaOral"] = "fibroszarkóma - szájüreg";
+$lang["cancer_tumorTypes_type_fibrosarcomaSkin"] = "fibroszarkóma - bőr";
+$lang["cancer_tumorTypes_type_gastricCarcinoma"] = "gyomorrák";
+$lang["cancer_tumorTypes_type_glioma"] = "glioma (agydaganat)";
+$lang["cancer_tumorTypes_type_hemangioendothelioma"] = "hemangioendothelioma (érdaganat)";
+$lang["cancer_tumorTypes_type_hamarthroma"] = "hamartóma";
+$lang["cancer_tumorTypes_type_hemangiosarcomaSkin"] = "érdaganat - bőr";
+$lang["cancer_tumorTypes_type_hemangiosarcomaNonSkin"] = "érdaganat - egyéb";
+$lang["cancer_tumorTypes_type_hepatocellularCarcinoma"] = "májsejtes carcinoma";
+$lang["cancer_tumorTypes_type_histiocyticSarcoma"] = "hisztiocitás szarkóma";
+$lang["cancer_tumorTypes_type_histiocytoma"] = "hisztiocitóma";
+$lang["cancer_tumorTypes_type_insulinoma"] = "inzulinóma";
+$lang["cancer_tumorTypes_type_intestinalAdenoCarcinoma"] = "bél adenokarcinóma";
+$lang["cancer_tumorTypes_type_intestinalAdenoma"] = "bél adenóma";
+$lang["cancer_tumorTypes_type_keratoacanthoma"] = "keratoakantóma";
+$lang["cancer_tumorTypes_type_leiomyoma"] = "leiomioma";
+$lang["cancer_tumorTypes_type_leukemia"] = "leukémia";
+$lang["cancer_tumorTypes_type_lipoma"] = "lipóma";
+$lang["cancer_tumorTypes_type_lowerUrinaryTractCarcinoma"] = "alsó húgyúti carcinoma (húgyhólyag és/vagy húgycső daganat)";
+$lang["cancer_tumorTypes_type_lungTumor"] = "tüdődaganat";
+$lang["cancer_tumorTypes_type_lymphoma"] = "limfóma";
+$lang["cancer_tumorTypes_type_mammaryGlandTumor"] = "emlőmirigy daganat";
+$lang["cancer_tumorTypes_type_mastCellTumor"] = "túlműködő hízósejt daganat";
+$lang["cancer_tumorTypes_type_melanomaOral"] = "melanóma - szájüreg";
+$lang["cancer_tumorTypes_type_melanomaEye"] = "melanóma - szem";
+$lang["cancer_tumorTypes_type_melanomaSkin"] = "melanóma - bőr";
+$lang["cancer_tumorTypes_type_melanomaNailbed"] = "melanóma - körömágy";
+$lang["cancer_tumorTypes_type_meningioma"] = "meningióma";
+$lang["cancer_tumorTypes_type_mesothelioma"] = "mezotelioma";
+$lang["cancer_tumorTypes_type_myeloma"] = "mielóma";
+$lang["cancer_tumorTypes_type_myxoma"] = "mixóma";
+$lang["cancer_tumorTypes_type_nasalTumor"] = "orrdaganat";
+$lang["cancer_tumorTypes_type_oralEpulis"] = "szájüregi epulisz";
+$lang["cancer_tumorTypes_type_oralTumor"] = "szájüregi daganat";
+$lang["cancer_tumorTypes_type_osteosarcoma"] = "csontdaganat";
+$lang["cancer_tumorTypes_type_ovaryTumor"] = "petefészekdaganat";
+$lang["cancer_tumorTypes_type_paraganglioma"] = "paraganglioma (aorta daganat)";
+$lang["cancer_tumorTypes_type_perianalGlandTumor"] = "anális mirigy daganat";
+$lang["cancer_tumorTypes_type_peripheralNerveSheathTumor"] = "perifériás ideghüvely daganat";
+$lang["cancer_tumorTypes_type_pheochromocytoma"] = "pheochromocytoma";
+$lang["cancer_tumorTypes_type_pituitaryTumor"] = "hipofízis daganat";
+$lang["cancer_tumorTypes_type_plasmaCellTumor"] = "plazmasejt daganat";
+$lang["cancer_tumorTypes_type_prostateTumor"] = "prosztata daganat";
+$lang["cancer_tumorTypes_type_sebaceousGlandTumor"] = "zsírmirigy daganat";
+$lang["cancer_tumorTypes_type_seminoma"] = "szeminóma (here daganat)";
+$lang["cancer_tumorTypes_type_sertoliCellTumor"] = "Sertoli sejt daganat (here daganat)";
+$lang["cancer_tumorTypes_type_softTissueSarcoma"] = "lágyszöveti szarkóma";
+$lang["cancer_tumorTypes_type_squamousCellCarcinoma"] = "bőr - laphámrák";
+$lang["cancer_tumorTypes_type_stomachTumor"] = "gyomorrák";
+$lang["cancer_tumorTypes_type_sweatGlandTumor"] = "izzadtságmirigy daganat";
+$lang["cancer_tumorTypes_type_systemicHystocytosis"] = "szisztémás hisztiocitózis";
+$lang["cancer_tumorTypes_type_testicleTumor"] = "here daganat";
+$lang["cancer_tumorTypes_type_thymoma"] = "thymóma";
+$lang["cancer_tumorTypes_type_thyroidTumor"] = "pajzsmirigy daganat";
+$lang["cancer_tumorTypes_type_tongueTumor"] = "nyelvdaganat";
+$lang["cancer_tumorTypes_type_trachealTumor"] = "légcső és/vagy gége daganat";
+$lang["cancer_tumorTypes_type_transitionalCellCarcinoma"] = "urotélium carcinoma - húgyhólyag";
+$lang["cancer_tumorTypes_type_trichoepithelioma"] = "trichoepithelioma";
+$lang["cancer_tumorTypes_type_vaginaTumor"] = "hüvely/vulva daganat";
+$lang["cancer_tumorTypes_type_vertebralTumor"] = "csigolya daganat";
+
+?>
