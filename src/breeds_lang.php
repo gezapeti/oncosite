@@ -1,6 +1,6 @@
 <?
 
-$lang["breeds_title"] = "Fajta és daganat";
+$lang["breeds_title"] = "Fajta és testdaganat";
 $lang["breeds_subtitle"] = "Bizonyos fajták hajlamosabbak a daganatos megbetegedésekre?";
 $lang["breeds_name"] = "Fajta";
 $lang["breeds_deathCount"] = "Összes elhalálozás (n)";
@@ -139,5 +139,6 @@ $lang["breeds_references"] =
 <li>Dobson JM. Breed-Predispositions to Cancer in Pedigree Dogs. ISRN Veterinary Science Volume 2013 (2013), Article ID 941275, 23 oldal. http://dx.doi.org/10.1155/2013/941275.</li>
 <li>​Gough A. Breed predispositions to disease in Dogs and Cats. Wiley Blackwell, harmadik kiadás, 2018.</li>
 </ol>";
+
 
 ?>
