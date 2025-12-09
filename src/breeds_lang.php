@@ -18,8 +18,8 @@ $lang["breeds_intro"] =
 $lang["breeds_tableLegend"] =
 "<p>A táblázatban szereplő fogalmak</p>
 <p><ul>
-<li><strong>Halálozási arány:</strong> azt a százalékos arányt mutatja, hogy az adott fajta hány egyedénél volt a halál oka daganatos megbetegedés. Az adatok az Egyesült Királyságban végzett, fajtatiszta kutyákra irányuló tanulmányból származnak. Mivel viszonylag kis populációt vizsgáltak (15 881 haláleset), az adatokat óvatosan kell értelmezni. Népszerűbb fajták esetében több adat állt rendelkezésre a következtetésekhez, mint a ritkábbaknál. Ezért a második oszlopban az „összes elhalálozás” érték azt mutatja, hány kutya adatai alapján született a megállapítás.</li>
-<li><strong>Medián életkor halálkor:</strong> azt az életkort jelzi, amelynél a fajta kutyáinak fele daganatos betegség következtében elpusztult.</li>
+<li><strong>Halálozási arány:</strong> azt a százalékos arányt mutatja, hogy az adott fajta hány egyedénél volt a halál oka a daganatos megbetegedés. Az adatok az Egyesült Királyságban végzett, fajtatiszta kutyákra irányuló tanulmányból származnak. Mivel viszonylag kis populációt vizsgáltak (15 881 haláleset), az adatokat óvatosan kell értelmezni. Népszerűbb fajták esetében több adat állt rendelkezésre a következtetésekhez, mint a ritkábbaknál. Ezért a második oszlopban az „elpusztult egyedek száma” érték azt mutatja, hány kutya adatai alapján született a megállapítás.</li>
+<li><strong>Medián életkor halálkor:</strong> azt az életkort jelzi, amelynél a -vizsgálatban szereplő- fajta kutyáinak a fele daganatos betegség következtében elpusztult.</li>
 <li><strong>Daganattípus:</strong> az adott fajtánál leggyakrabban előforduló daganattípusokat tünteti fel.</li>
 </ul></p>";
 
@@ -45,11 +45,11 @@ $lang["breeds_name_NovaScotiaDuckTollingRetriever"] = "Nova Scotia retriever";
 $lang["breeds_name_BassetGriffonVendeen"] = "Basset griffon vendéen";
 $lang["breeds_name_Beagle"] = "Beagle";
 $lang["breeds_name_EnglishSetter"] = "Angol szetter";
-$lang["breeds_name_NorwegianElkhound"] = "Norvég jávorszarvas-kutya";
+$lang["breeds_name_NorwegianElkhound"] = "Norvég elkhund";
 $lang["breeds_name_SiberianHusky"] = "Szibériai husky";
 $lang["breeds_name_Wolfspitz"] = "Farkaspitz";
 $lang["breeds_name_TibetanTerrier"] = "Tibeti terrier";
-$lang["breeds_name_Basset"] = "Basset";
+$lang["breeds_name_Basset"] = "Basset hound";
 $lang["breeds_name_LabradorRetriever"] = "Labrador retriever";
 $lang["breeds_name_AfghanDog"] = "Afgán agár";
 $lang["breeds_name_RhodesianRidgeback"] = "Rhodesiai ridgeback";
@@ -142,6 +142,7 @@ $lang["breeds_references"] =
 
 
 ?>
+
 
 
 
