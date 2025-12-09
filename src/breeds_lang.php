@@ -1,19 +1,19 @@
 <?
 
-$lang["breeds_title"] = "Fajta és daganat";
-$lang["breeds_subtitle"] = "Bizonyos fajták hajlamosabbak a daganatos megbetegedésekre?";
+$lang["breeds_title"] = "Fajták és tumorok";
+$lang["breeds_subtitle"] = "Bizonyos kutya fajták hajlamosabbak a daganatos megbetegedésekre?";
 $lang["breeds_name"] = "Fajta";
-$lang["breeds_deathCount"] = "Összes elhalálozás (n)";
+$lang["breeds_deathCount"] = "Elpusztult egyedek száma (n)";
 $lang["breeds_deathPercent"] = "Halálozási arány (%)";
 $lang["breeds_deathAge"] = "Medián életkor halálkor";
 $lang["breeds_tumorTypes"] = "Daganattípus";
 $lang["breeds_unknown"] = "ismeretlen";
-$lang["breeds_noIncreasedRisk"] = "nem ismert fokozott kockázat";
+$lang["breeds_noIncreasedRisk"] = "nincs fokozott kockázat";
 
 $lang["breeds_intro"] =
-"<p>A daganatos megbetegedések előfordulását számos tényező befolyásolhatja, ezek közül az egyik a kutya genetikai felépítése.</p>
+"<p>A daganatos megbetegedések előfordulását számos tényező befolyásolhatja, ezek közül az egyik a kutya génjeiben tárolt információ.</p>
 <p>A kutyákat már hosszú ideje tenyésztik meghatározott, kívánatos tulajdonságok elérésére. Minden kutyafajtának sajátos génállománya van. Ha egy adott fajtán belül azok a gének öröklődnek újra és újra, amelyek bizonyos daganattípusok kialakulásáért felelősek, akkor ez a daganattípus gyakoribbá válhat az adott fajtában. Például ismert, hogy a limfómák gyakrabban fordulnak elő golden retrievereknél, míg a boxereknél gyakoriak a hízósejtes daganatok, a berni pásztorkutyáknál pedig a leukémia és a rosszindulatú hisztiocitás szarkóma.</p>
-<p>Az alábbi kereshető táblázatban áttekintést talál arról, hogy mely kutyafajták hajlamosabbak a daganatos megbetegedésekre, és hogy az adott fajtában mely daganattípus a leggyakoribb.</p>";
+<p>Az alábbi kereshető táblázatban áttekinthető, hogy mely kutyafajták hajlamosabbak a daganatos megbetegedésekre, és hogy az adott fajtában mely daganattípus a leggyakoribb.</p>";
 
 $lang["breeds_tableLegend"] =
 "<p>A táblázatban szereplő fogalmak</p>
@@ -142,6 +142,7 @@ $lang["breeds_references"] =
 
 
 ?>
+
 
 
 
