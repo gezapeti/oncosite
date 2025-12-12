@@ -3,11 +3,11 @@
 $lang["cancer_basics_title"] = "Alapfogalmak";
 $lang["cancer_basics_subTitle"] = "Mi az a rák?";
 $lang["cancer_basics_intro"] = 
-"<p>A testet sokféle építőelem alkotja, köztük sejtek is. A sejtek meghatározott számú alkalommal képesek osztódni, majd elpusztulnak. A régi sejteket új sejtek váltják fel.</p>
-<p>Minél többet osztódik egy sejt, annál nagyobb az esélye annak, hogy az osztódások során hibák vagy mutációk keletkeznek. Ezek a hibák vagy mutációk kialakulhatnak véletlenszerűen, de okozhatja őket környezeti hatás is, például UV-sugárzás vagy füst részecskéi.</p>
-<p>Normális esetben a sejt ellenőrző mechanizmusai felismerik ezeket a hibákat. A hibát kijavítják, vagy a sejt elpusztul. Előfordulhat azonban, hogy a sejt „kicsúszik” ezek alól a szabályozó folyamatok alól, és korlátlanul kezdi el az osztódást. Ekkor a sejt rákos sejtté válik.</p>
-<p>Amikor a rákos sejtek ellenőrizetlenül szaporodnak, daganat (tumor) alakul ki. Minél több sejt osztódik, annál nagyobb lesz a daganat. Minél gyorsabban osztódnak a sejtek, annál rosszindulatúbb (magasabb grádusú) a daganat.</p>
-<p>Amikor a daganat eléri az 1–2 milliméteres méretet, a rákos sejteknek vérellátásra van szükségük a további növekedéshez. Képesek befolyásolni a környező szöveteket úgy, hogy azok új ereket növesszenek a frissen kialakult daganatos sejttömeg irányába.</p>";
+"<p>A testet számos építőelem alkotja, melyeknek részei a sejtek. Ezen élő egységek meghatározott számú alkalommal képesek osztódni, majd elpusztulnak. Ennek során a régi sejteket új sejtek váltják fel.</p>
+<p>Minél többet osztódik egy sejt, annál nagyobb az esélye annak, hogy az osztódások során hibák vagy mutációk keletkeznek. Ezek a hibák vagy mutációk kialakulhatnak véletlenszerűen, de okozhatja őket környezeti hatás is, például UV-sugárzás vagy dohányfüst részecskéi.</p>
+<p>Fiziológiás esetben a sejt ellenőrző mechanizmusai felismerik ezeket a hibákat. Ezt követően más mechanizmusok a hibát kijavítják, vagy a sejt elpusztul. Előfordulhat azonban, hogy a sejt „kicsúszik” ezek alól a szabályozó folyamatok alól, és korlátlanul kezdi el az osztódást. Ekkor ez a sejt daganatos sejtté válik.</p>
+<p>Amikor a tumoros sejtek ellenőrizetlenül burjánzanak, kialakul a szövetszaporulat. Minél több sejt osztódik, annál nagyobb lesz a daganat. Minél gyorsabban osztódnak a sejtek, várhatóan annál rosszindulatúbb (magasabb grádusú) a tumor.</p>
+<p>Amikor a daganat eléri az 1–2 milliméteres átmérőt, a rákos sejteknek vérellátásra van szükségük a további túléléshez, növekedéshez. Képesek befolyásolni a környező szöveteket úgy, hogy azok új ereket növesszenek a frissen kialakult daganatos sejttömeg irányába.</p>";
 
 $lang["cancer_basics_terms_title"] = "Néhány alapfogalom";
 $lang["cancer_basics_terms_tumor_t"] = "Daganat (tumor)";
@@ -52,5 +52,6 @@ $lang["cancer_basics_terms_staging_d"] =
 <li>Csontszarkóma (oszteoszarkóma) esetén szükséges a regionális nyirokcsomók punkciója, a tüdő és a csontok röntgenfelvétele (szcintigráfiával is kiegészíthető), valamint vérvizsgálat. A CT-vizsgálat érzékenyebb a tüdőáttétek kimutatására, és manapság szélesebb körben elérhető, mint a szcintigráfia.</li>
 </ul>
 ";
+
 
 ?>
