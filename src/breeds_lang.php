@@ -110,13 +110,13 @@ $lang["breeds_name_FoxTerrier"] = "Foxterrier";
 $lang["breeds_name_IrishWolfhound"] = "Ír farkaskutya";
 $lang["breeds_name_MalteseDog"] = "Máltai selyemkutya";
 $lang["breeds_name_Pug"] = "Mopsz";
-$lang["breeds_name_SintBernard"] = "Szentbernáthegyi";
+$lang["breeds_name_SintBernard"] = "Bernáthegyi";
 $lang["breeds_name_Scottish"] = "Skót szarvasagár";
 $lang["breeds_name_SharPei"] = "Shar pei";
 $lang["breeds_name_WestHighlandWhiteTerrier"] = "West Highland white terrier";
 $lang["breeds_name_Greyhound"] = "Angol agár";
 $lang["breeds_name_YorkshireTerrier"] = "Yorkshire terrier";
-$lang["breeds_name_AustralianCattleDog"] = "Ausztrál marhakutya";
+$lang["breeds_name_AustralianCattleDog"] = "Ausztrál pásztorkutya";
 $lang["breeds_name_AustralianShepherd"] = "Ausztrál juhászkutya";
 $lang["breeds_name_Beauceron"] = "Beauceron";
 $lang["breeds_name_BouvierDeFlandres"] = "Flandriai pásztorkutya";
@@ -125,7 +125,7 @@ $lang["breeds_name_Puli"] = "Puli";
 $lang["breeds_name_ItalianGreyhound"] = "Olasz agár";
 $lang["breeds_name_AkitaInu"] = "Akita Inu";
 $lang["breeds_name_ShibaInu"] = "Shiba Inu";
-$lang["breeds_name_NorwegianElkhound"] = "Norvég jávorszarvas-kutya";
+$lang["breeds_name_NorwegianElkhound"] = "Norvég elkhund";
 $lang["breeds_name_NorwegianLundehund"] = "Norvég lundehund";
 $lang["breeds_name_OldEnglishSheepdog"] = "Bobtail (óangol juhászkutya)";
 $lang["breeds_name_Papillon"] = "Papillon";
@@ -142,6 +142,7 @@ $lang["breeds_references"] =
 
 
 ?>
+
 
 
 
