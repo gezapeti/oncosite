@@ -28,19 +28,19 @@ A funkcionális, kortizolt termelő mellékvesekéreg-daganatok általában csak
 
 $lang["cancer_tumorType_adrenalCortexTumor_diagnosis"] = 
 "
-<p>Az ADH gyanúját a kutya kórelőzménye, klinikai tünetei és laboratóriumi vizsgálatok (vér- és vizeletvizsgálat) alapján állítják fel. A hiperkortizolizmus diagnózisa a <a href='/Cancer/tumorInfo/pituitaryTumor'>hipofízisdaganatok</a> fejezetében ismertetett endokrin tesztekkel erősíthető meg, míg az ADH diagnózisa csak akkor állítható fel, ha az endogén ACTH-szint csökkent, és a képalkotás során mellékvesetömeg látható.</p>
+<p>Az ADH diagnózisát a kutya kórelőzménye, klinikai tünetei és laboratóriumi vizsgálatok (vér- és vizeletvizsgálat) alapján állítják fel. A hiperadrenokorticizmus gyanúja a <a href='/Cancer/tumorInfo/pituitaryTumor'>hipofízisdaganatok</a> fejezetben ismertetett endokrin tesztekkel erősíthető meg. Az ADH diagnózisa akkor állítható fel biztosan, ha az endogén ACTH-szint csökkent, és a képalkotás során mellékvesét érintő szövetszaporulat azonosítható.</p>
 
 <h3>Képalkotás</h3>
-<p>Hasi ultrahangvizsgálattal megítélhető a mellékvese szimmetriája, mérete, alakja, valamint a daganat erekbe vagy a környező szövetekbe való betörése.</p>
-<p>A legelőnyösebb diagnosztikai képalkotó módszer a CT-vizsgálat, amelynek ki kell terjednie a hasüregre (mindkét mellékvesére), a mellkasra (áttétek keresése céljából), valamint a fejre (esetleges hipofízisérintettség kizárására).</p>";
+<p>Hasi ultrahangvizsgálattal megítélhető a mellékvesék szimmetriája, mérete, alakja, valamint a daganat erekbe vagy a környező szövetekbe való betörése.</p>
+<p>A legmegbízhatóbb diagnosztikai képalkotó módszer a CT-vizsgálat, amely kiterjed a hasüregre (mindkét mellékvesére), a mellkasra (áttétek keresése céljából), valamint a fejre (esetleges hipofízisérintettség kizárására).</p>";
 
 $lang["cancer_tumorType_adrenalCortexTumor_treatment"] = 
 "<h3>Kortizolt termelő mellékvesekéreg-daganat</h3>
-<p>A kortizolt termelő mellékvesekéreg-daganatok kezelése sebészettel, sugárterápiával és/vagy gyógyszeres terápiával történhet.</p>
+<p>A kortizolt termelő mellékvesekéreg-daganatok kezelése műtéttel, sugárterápiával és/vagy gyógyszeres terápiával történhet.</p>
 
 <h4>Sebészet</h4>
-<p>A sebészi beavatkozás (adrenalectomia) az elsőként választandó kezelés, mivel eltávolítja a daganatot, és ezzel megszünteti a kortizoltúltermelést és annak következményeit. Ha a daganat csak az egyik mellékvesére korlátozódik, a műtét után nincs szükség élethosszig tartó gyógyszeres kezelésre. Egyoldali esetben azonban, a másik (nem daganatos) mellékvese kéregállományának sorvadása miatt, 6–8 hétig glükokortikoid-pótlásra van szükség. Ha mindkét mellékvesét el kell távolítani, az élethosszig tartó hormonpótlás (glükokortikoidok és mineralokortikoidok) elengedhetetlen.</p>
-<p>A mellékvese eltávolítása történhet hagyományos, „nyitott hasüregi” műtéttel vagy laparoszkópos („zárt hasüregi”, azaz kis metszéseken és kamerás vezetéssel végzett) technikával. A laparoszkópos műtét előnyei a rövidebb kórházi tartózkodás és a gyorsabb felépülés. 5 cm-nél nagyobb daganatok, illetve nagy érbe való betörés esetén azonban a „nyitott” műtéti megoldás az előnyösebb.</p>
+<p>A sebészi beavatkozás (adrenalektómia) az elsőként választandó kezelés. Ennek során eltávolítják a daganatot, és ezzel megszüntetik a kortizoltúltermelést és annak következményeit. Ha a daganat csak az egyik mellékvesére korlátozódik, a műtét után nincs szükség élethosszig tartó gyógyszeres kezelésre. Amennyiben a másik (nem daganatos) mellékvese kéregállományának sorvadása elindult, 6–8 hétig glükokortikoid-pótlásra van szükség. Ha mindkét mellékvesét el kell távolítani, az élethosszig tartó hormonpótlás (glükokortikoidok és mineralokortikoidok) elengedhetetlen.</p>
+<p>A mellékvese eltávolítása történhet hagyományos, „nyitott hasüregi” műtéttel vagy laparoszkópos („zárt hasüregi”, azaz kis metszéseken és kamerás vezetéssel végzett) technikával. A laparoszkópos műtét előnyei a rövidebb kórházi tartózkodás és a gyorsabb felépülés. Az 5 cm-nél nagyobb daganatok, illetve nagy érbe való betörés esetén azonban a „nyitott” műtéti megoldás az előnyösebb.</p>
 
 <h4>Sugárterápia</h4>
 <p>Nemrégiben kilenc kutyán alkalmaztak hipofrakcionált, sztereotaxiás, térfogat-modulált sugárterápiát invazív, kortizolt termelő mellékvesekéreg-daganat esetén. A kezelés a daganat térfogatának csökkenését és medián 1030 napos túlélést eredményezett. Az eredmények biztatóak, ugyanakkor ez az eljárás jelenleg csak néhány európai intézményben érhető el:</p>
@@ -92,6 +92,7 @@ $lang["cancer_tumorType_adrenalCortexTumor_references"] =
 $lang["cancer_tumorType_adrenalCortexTumor_carousel_1"] = "X";
 
 ?>
+
 
 
 
