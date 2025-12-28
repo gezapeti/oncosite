@@ -9,22 +9,22 @@ $lang["cancer_basics_intro"] =
 <p>Amikor a tumoros sejtek ellenőrizetlenül burjánzanak, kialakul a szövetszaporulat. Minél több sejt osztódik, annál nagyobb lesz a daganat. Minél gyorsabban osztódnak a sejtek, várhatóan annál rosszindulatúbb (magasabb grádusú) a tumor.</p>
 <p>Amikor a daganat eléri az 1–2 milliméteres átmérőt, a rákos sejteknek vérellátásra van szükségük a további túléléshez, növekedéshez. Képesek befolyásolni a környező szöveteket úgy, hogy azok új ereket növesszenek a frissen kialakult daganatos sejttömeg irányába.</p>";
 
-$lang["cancer_basics_terms_title"] = "Néhány alapfogalom";
+$lang["cancer_basics_terms_title"] = "Alapfogalmak";
 $lang["cancer_basics_terms_tumor_t"] = "Daganat (tumor)";
 $lang["cancer_basics_terms_tumor_d"] = 
-"<p>A daganatok (más néven rák vagy neoplázia) rákos sejtekből állnak, és lehetnek jóindulatúak vagy rosszindulatúak.</p>";
+"<p>A daganatok (más néven tumor vagy neoplázia) rákos sejtekből állnak, és lehetnek jóindulatúak vagy rosszindulatúak.</p>";
 
 $lang["cancer_basics_terms_benign_t"] = "Jóindulatú daganat";
 $lang["cancer_basics_terms_benign_d"] = 
-"<p>A jóindulatú daganatok olyan sejttömegek, amelyek rákos sejteket tartalmaznak, de általában nem hatolnak be a környező szövetekbe, és nem terjednek szét a test más részeibe (nem képeznek áttéteket). Ezek a daganatok általában csak a testben helyet foglalnak el, és akkor okoznak problémát, ha a méretük miatt nyomást gyakorolnak más szervekre vagy szövetekre. Például az idegekre nehezedő nyomás fájdalmat vagy az ideg által ellátott testrész működési zavarát okozhatja. A jóindulatú daganatok idővel rosszindulatúvá is válhatnak.</p>";
+"<p>A jóindulatú daganatok olyan szövetszaporulatok, amelyek rákos sejteket tartalmaznak, de általában nem hatolnak be a környező szövetekbe, és nem terjednek szét a test más szerveiben (nem képeznek áttéteket). Ezek a neopláziák akkor okoznak problémát, ha a méretük miatt nyomást gyakorolnak a környező szövetekre. Például az idegekre nehezedő nyomás miatt fájdalmat vagy az ideg által ellátott testrész működési zavarát okozhatják. A jóindulatú daganatok idővel rosszindulatúvá is válhatnak.</p>";
 
 $lang["cancer_basics_terms_malignant_t"] = "Rosszindulatú daganat";
 $lang["cancer_basics_terms_malignant_d"] = 
-"<p>A rosszindulatú daganatok olyan sejttömegek, amelyek rákos sejteket tartalmaznak, és jellemzően képesek behatolni a környező szövetekbe és továbbterjedni. Ennek érdekében a rákos sejtek olyan anyagokat (például növekedési faktorokat) bocsátanak ki, amelyek a daganat körüli egészséges szöveteket arra ösztönzik, hogy a daganat növekedését elősegítsék.</p>";
+"<p>A rosszindulatú daganatok olyan szövetszaporulatok, amelyek rákos sejteket tartalmaznak, és jellemzően képesek behatolni a környező szövetekbe és továbbterjedni más szervekbe. Ennek érdekében a tumoros sejtek olyan anyagokat (például növekedési faktorokat) termelnek, amelyek a daganat körüli egészséges szöveteket arra ösztönzik, hogy a rosszindulatú sejttömeg növekedését elősegítsék.</p>";
 
 $lang["cancer_basics_terms_metastases_t"] = "Áttétek (metasztázisok)";
 $lang["cancer_basics_terms_metastases_d"] = 
-"<p>Amikor a rákos sejtek behatolnak az egészséges környező szövetekbe, majd a vér- vagy nyirokkeringésen keresztül elhagyják az eredeti daganatot (elsődleges daganatot), és más szervekben új daganatot képeznek, ezt nevezzük áttétnek vagy másodlagos daganatnak. Az áttéti daganat sejtjei ugyanabból a sejttípusból állnak, mint az elsődleges daganat. Például egy csontrák áttétet képezhet a tüdőben, és ott csontszövetet termelhet.</p>";
+"<p>Amikor a rákos sejtek behatolnak az egészséges környező szövetekbe, majd a vér- vagy nyirokkeringésen keresztül elhagyják az eredeti daganatot (elsődleges/primer daganatot), és más szervekben új tumort képeznek. Ezt a szövetszaporulatot nevezzük áttétnek vagy másodlagos/szekunder daganatnak. Az formálódott áttét szövete ugyanabból a sejttípusból áll, mint az elsődleges daganat. Például a csontrák áttétet képezhet a tüdőben, és ott csontszövetet képezhet.</p>";
 
 $lang["cancer_basics_terms_remission_t"] = "Remisszió / regresszió";
 $lang["cancer_basics_terms_remission_d"] = 
@@ -55,3 +55,4 @@ $lang["cancer_basics_terms_staging_d"] =
 
 
 ?>
+
