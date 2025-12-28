@@ -27,21 +27,21 @@ $lang["cancer_faq_questions_3_a"] =
 <p>Állatoknál helyi sejtszóródás hajlamára példa a húgyhólyag átmeneti sejtes karcinómája, ahol a tumorsejtek kikenődésével való terjedés előfordulhat a hasüreg felé műtét után, ritkán pedig tűaspirációt követően is.</p>
 <p>Az onkológiai sebészet gondos technikái – például a műszerek és kesztyűk cseréje a seb lezárása előtt – tovább csökkenthetik a sejtszóródás kockázatát.</p>";
 
-$lang["cancer_faq_questions_4_q"] = "Megállítható a rák egy szénhidrátmentes diétával?";
+$lang["cancer_faq_questions_4_q"] = "Megállítható a rák terjedése szénhidrátmentes diétával?";
 $lang["cancer_faq_questions_4_a"] = 
-"<p>Valóban kimutatták, hogy a ráksejtek több glükózt használnak fel, és gyakrabban bontják azt le glikolízissel, mint az egészséges sejtek, de ezek a laboratóriumi megfigyelések nem támasztják alá, hogy a szénhidrátban szegény étrend lassítaná a rák növekedését emberekben.</p>
-<p>Emellett nem minden rák egyforma: bizonyos daganatok esetében nagyobb a kockázata a kóros fogyásnak (káhezia) vagy más tápanyaghiányoknak, ezért az egységes étrendi megközelítés nem megfelelő.</p>
-<p>Noha elérhetők és forgalmazzák a rákos kutyák számára kifejlesztett, alacsony szénhidráttartalmú tápokat, az állatorvosi táplálkozástudomány ezen területe még kevéssé kutatott.</p>
-<p>Eddig semmilyen tudományos bizonyíték nem támasztja alá, hogy ez az étrend javítaná a daganatos állatok gyógyulási esélyeit. A nagyon alacsony szénhidráttartalmú diéták ráadásul magas zsírtartalmuk miatt emésztőrendszeri panaszokat is okozhatnak, és nem minden beteg számára biztonságosak.</p>";
+"<p>Valóban kimutatták, hogy a tumorsejtek több glükózt használnak fel, és gyakrabban bontják azt le glikolízissel, mint az egészséges sejtek, de ezek a laboratóriumi megfigyelések nem támasztják alá, hogy a szénhidrátban szegény étrend lassítaná a rák növekedését a szervezetben.</p>
+<p>Emellett nem minden szövetszaporulat egyforma: bizonyos daganatok esetében nagyobb kockázatot jelent a kóros fogyás (kahexia), ezért a tápanyagban csökkentett étrendi megközelítés nem megfelelő.</p>
+<p>Noha elérhetők és forgalmaznak tumoros kutyák számára kifejlesztett, alacsony szénhidráttartalmú tápokat, az állatorvosi táplálkozástudomány ezen területe még kevéssé kutatott.</p>
+<p>Eddig semmilyen tudományos bizonyíték nem támasztja alá, hogy bármilyen speciális étrend javítaná a daganatos állatok gyógyulási esélyeit. A nagyon alacsony szénhidráttartalmú diéták ráadásul magas zsírtartalmuk miatt emésztőrendszeri panaszokat is okozhatnak, és nem minden beteg számára biztonságosak.</p>";
 
-$lang["cancer_faq_questions_5_q"] = "A rosszindulatú daganatok másként tapinthatók, mint a jóindulatúak?";
+$lang["cancer_faq_questions_5_q"] = "A rosszindulatú daganatok más tapintatúak, mint a jóindulatúak?";
 $lang["cancer_faq_questions_5_a"] = 
-"<p>Bár általában a puhább tapintású csomók inkább jóindulatúak, a keményebbek pedig rosszindulatúak, ennek sok kivétele van, így ez a szabály megbízhatatlan. A hízósejtes daganatokat például gyakran „nagy szimulánsoknak” nevezik, mert tapintásra pont úgy érezhetők, mint egy zsírcsomó (lipóma), bőrcímke vagy más ártalmatlan elváltozás. Egyes lágyrész-szarkómák zsírba ágyazva is lehetnek, ami szintén megtévesztő lehet.</p>
-<p>Ezért minden csomónál ajánlott vékonytű-aspirációt végezni a pontos diagnózis érdekében. Ha az aspiráció nem értékelhető (például kevés sejt vagy vérhígulás miatt), akkor szövettani biopszia szükséges lehet.</p>";
+"<p>Bár általában a puhább tapintású csomók inkább jóindulatúak, a keményebbek pedig rosszindulatúak, ennek sok kivétele van, így ez a szabály megbízhatatlan. A hízósejtes daganatokat például gyakran „nagy szimulánsoknak” nevezik, mert tapintásra pont úgy érezhetők, mint egy zsírcsomó (lipóma), vagy más ártalmatlan elváltozás. Egyes lágyrész-szarkómák zsírba ágyazva is lehetnek, ami szintén megtévesztő lehet.</p>
+<p>Ezért minden csomónál ajánlott vékonytű-aspirációt (citológiai mintavételt) végezni a diagnózis pontosítása érdekében. Ha az aspiráció nem értékelhető (például kevés sejt vagy vérhígulás miatt), akkor szövettani biopsziás mintavétel szükséges lehet.</p>";
 
-$lang["cancer_faq_questions_6_q"] = "Ha a nyirokcsomó normális tapintású, az kizárja a rákot?";
+$lang["cancer_faq_questions_6_q"] = "Ha a nyirokcsomó normális tapintatú, az kizárja a tumor lehetőségét?";
 $lang["cancer_faq_questions_6_a"] = 
-"<p>A betegség korai szakaszában az áttét még nem okoz méret- vagy tapintásbeli elváltozást a nyirokcsomóban, és egyes kórosan tapintható csomók is lehetnek csupán reaktívak. Egy tanulmány, amely a tapintásos vizsgálat és a vékonytű-aspiráció pontosságát hasonlította össze, kimutatta, hogy a tapintás lényegesen kevésbé megbízható, mint a citológiai vizsgálat.</p>";
+"<p>A betegség korai szakaszában az áttét még nem okoz méret- vagy tapintásbeli elváltozást a nyirokcsomóban, és egyes, kórosnak tapintható csomók is lehetnek csupán reaktívak. Egy tanulmány, amely a tapintásos vizsgálat és a vékonytű-aspiráció pontosságát hasonlította össze, kimutatta, hogy a tapintás lényegesen kevésbé megbízható, mint a citológiai vizsgálat.</p>";
 
 $lang["cancer_faq_questions_7_q"] = "A kemoterápia mellékhatásai rosszabbak, mint maga a rák?";
 $lang["cancer_faq_questions_7_a"] = 
@@ -73,4 +73,5 @@ $lang["cancer_faq_references"] =
 
 
 ?>
+
 
