@@ -3,14 +3,14 @@
 $lang["cancer_faq_title"] = "GYIK";
 $lang["cancer_faq_subTitle"] = "Gyakran ismételt kérdések";
 $lang["cancer_faq_intro"] = 
-"<p>A rák sokféle érzést és kérdést vált ki. Mivel ez egy olyan betegség, amely szinte mindenkit érinthet, gyakran különböző értelmezések és tévhitek alakulnak ki vele kapcsolatban. Ennek következtében bizonyos álláspontok anélkül válhatnak elfogadottá, hogy azok tényleges tényeken alapulnának.</p>
-<p>Ezen az oldalon a rákkal kapcsolatos leggyakoribb kérdéseket találja, részletes és kiegyensúlyozott válaszokkal.</p>";
+"<p>A daganat fogalma sok kérdést vethet fel. Mivel ez egy olyan betegség, amely szinte minden állatfajt érinthet, gyakran különböző értelmezések és tévhitek alakulnak ki vele kapcsolatban. Ennek következtében bizonyos álláspontok anélkül válhatnak elfogadottá, hogy azok valós tényeken alapulnának.</p>
+<p>Ezen az oldalon a kutyák daganatos betegségeivel kapcsolatban felmerült leggyakoribb kérdéseket, és azokra adott részletes válaszokat találja.</p>";
 
 $lang["cancer_faq_questions_1_q"] = "Csak az idős kutyákban alakul ki rák?";
 $lang["cancer_faq_questions_1_a"] = 
-"<p>Általánosságban elmondható, hogy a rák gyakoribb az idősebb emberekben és állatokban, mivel több idő áll rendelkezésre a genetikai hibák felhalmozódásához. Ennek ellenére bizonyos daganattípusok fiatal vagy középkorú állatokban is előfordulhatnak. A hisztiocitómák például jól ismert, bőrön megjelenő kereksejtes daganatok, amelyek főként fiatal kutyáknál jelentkeznek, jóindulatúak, és általában idővel maguktól visszafejlődnek.</p>
-<p>Más daganatok, amelyek túlnyomórészt 2 évesnél fiatalabb kutyáknál alakulnak ki, a rabdomioszarkóma, a neuroblasztóma és a nefroblasztóma. Ezek a daganatok primitív szövetekből származnak, és legtöbbször erősen rosszindulatú, életet rövidítő viselkedést mutatnak.</p>
-<p>A limfóma és az oszteoszarkóma szintén gyakran diagnosztizálható 2 évesnél fiatalabb, fajtára hajlamos kutyákban. Ritkábban a hemangioszarkóma és a hízósejtes daganatok (mastocytomák) is előfordulhatnak fiatal állatoknál.</p>";
+"<p>Általánosságban elmondható, hogy a rák gyakoribb az idősebb emberekben és állatokban, mivel több idő áll rendelkezésre a genetikai hibák felhalmozódásához. Ennek ellenére bizonyos tumortípusok fiatal vagy középkorú állatokban is előfordulhatnak. A hisztiocitómák például jól ismert, bőrön megjelenő kereksejtes daganatok, amelyek főként fiatal kutyákban jelentkeznek, jóindulatúak, és általában idővel maguktól visszafejlődnek.</p>
+<p>Más neoplazmák, amelyek túlnyomórészt 2 évesnél fiatalabb kutyáknál alakulnak ki; a rabdomioszarkóma, a neuroblasztóma és a nefroblasztóma. Ezek a daganatok primitív szövetekből származnak, és legtöbbször erősen rosszindulatúak, jelentősen megrövidítik a várható életidőt.</p>
+<p>Egyéb példaként említhetőek a limfóma és az oszteoszarkóma, mely szintén gyakran diagnosztizálható 2 évesnél fiatalabb, arra hajlamos fajtájú kutyákban. Ritkábban a hemangioszarkóma és a hízósejtes daganatok (masztocitómák) is előfordulhatnak fiatal állatoknál.</p>";
 
 $lang["cancer_faq_questions_2_q"] = "A környezeti toxinok a rák fő okai?";
 $lang["cancer_faq_questions_2_a"] = 
@@ -70,5 +70,6 @@ $lang["cancer_faq_references"] =
 "<ul>
 <li>Forrás: Veterinary Practice News – „Pet Cancer: Fact vs. Fiction – Evidence-based responses to 10 common veterinary cancer myths.” (2017. április). Dr. Katherine Skorupski, a Kaliforniai Egyetem (Davis) Állatorvosi Karának klinikai onkológiai docense.</li>
 </ul>";
+
 
 ?>
