@@ -24,12 +24,12 @@ $lang["cancer_causes_biological_t"] = "Biológiai tényezők";
 
 $lang["cancer_causes_radiation_t"] = "Sugárzás (X/UV)";
 $lang["cancer_causes_radiation_d"] = 
-"<p>A sugárzás a sejteket közvetlenül a DNS károsításával, vagy közvetetten – például szabadgyökök (reaktív oxigéngyökök) képzésével – befolyásolhatja. Az UV-sugárzás különösen a ritkán szőrözött testrészek (például a fül szélei és az orrtükör) bőrét károsíthatja. Az ilyen terhelés laphámrák (SCC, squamous cell carcinoma) kialakulásához vezethet.</p>
+"<p>A sugárzás a sejteket közvetlenül a DNS károsításával, vagy közvetetten – például szabadgyökök (reaktív oxigéngyökök) képzésével – befolyásolhatja. Az UV-sugárzás különösen a szőrrel ritkásan fedett testrészek (például a fül szélei és az orrtükör) bőrét károsíthatja. Az ilyen terhelés laphámrák (SCC, squamous cell carcinoma) kialakulásához vezethet.</p>
 <p>Amennyiben a sugárkezelést (radioterápiát) terápiás céllal alkalmazzák, előfordulhat, hogy évekkel a kezelés után új daganat alakul ki a besugárzott területen.</p>";
 
 $lang["cancer_causes_hormones_t"] = "Hormonok";
 $lang["cancer_causes_hormones_d"] = 
-"<p>Különösen a nemi hormonok játszhatnak fontos szerepet a kutyák és macskák daganatainak kialakulásában. Például az emlőmirigy-daganatok kialakulásának kockázata magasabb azoknál az állatoknál, amelyeket nem ivartalanítottak.</p>";
+"<p>Különösen a nemi hormonok játszhatnak fontos szerepet a kutyák és macskák daganatainak kialakulásában. Például az emlőmirigy-daganatok kialakulásának kockázata magasabb azoknál a nőstény kutyáknál, amelyeket nem ivartalanítottak.</p>";
 
 $lang["cancer_causes_references"] = 
 "<ol>
@@ -39,3 +39,4 @@ $lang["cancer_causes_references"] =
 
 
 ?>
+
