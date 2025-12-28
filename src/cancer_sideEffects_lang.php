@@ -1,13 +1,13 @@
 <?
 
-$lang["cancer_sideEffects_title"] = "Mellékhatások";
-$lang["cancer_sideEffects_subtitle"] = "Okozhat egy daganat mellékhatásokat?";
+$lang["cancer_sideEffects_title"] = "Tumor hatások";
+$lang["cancer_sideEffects_subtitle"] = "Milyen hatásokat okozhat egy daganat?";
 $lang["cancer_sideEffects_intro"] = 
-"<p>A daganat elhelyezkedésétől függően különféle problémákat okozhat. Például, ha a daganat behatol egy szervbe, vagy nyomást gyakorol rá. Ezenfelül a rosszindulatú daganatok önmagukban is megzavarhatják a szervezet működését. Mivel a szervezet küzd a daganat ellen, ez túlzott reakciókat válthat ki (amelyeket paraneoplasztikus szindrómának nevezünk). Az alábbiakban néhány ilyen reakciót sorolunk fel.</p>";
+"<p>A daganat elhelyezkedésétől függően különféle problémákat okozhat. Például, ha a tumor növekedése folytán behatol egy szervbe, vagy nyomást gyakorol rá. Ezenfelül a rosszindulatú daganatok önmagukban is akadályozhatják egyes szervek működését. Mivel a szervezet küzd a neoplazma ellen, ez túlzott reakciókat válthat ki (amelyeket paraneoplasztikus szindrómáknak nevezünk). Az alábbiakban néhány ilyen reakciót sorolunk fel.</p>";
 
-$lang["cancer_sideEffects_anorexia_t"] = "Anorexia / cachexia";
+$lang["cancer_sideEffects_anorexia_t"] = "Anorexia / kahexia";
 $lang["cancer_sideEffects_anorexia_d"] = 
-"<p>A daganat következtében az állat étvágya csökkenhet, illetve súlyt veszíthet annak ellenére, hogy elegendő tápanyagot fogyaszt. Sok kutya elveszíti az étvágyát a daganat miatt, vagy lefogy, mert a daganat felhasználja a szervezet energiakészleteit. A betegség előrehaladtával először a zsírszövet bomlik le, de az izmok is nagyon gyorsan lebomlanak az energiaháztartás egyensúlyának fenntartása érdekében.</p>";
+"<p>A daganat következtében az állat étvágya csökkenhet, illetve súlyt veszíthet annak ellenére, hogy elegendő tápanyagot fogyaszt. Sok kutya elveszíti az étvágyát a tumor miatt, vagy lefogy, mert a szövetszaporulat felhasználja a szervezet energiakészleteit. A betegség előrehaladtával először a zsírszövet bomlik le, de az izmok is nagyon gyorsan lebomlanak az energiaháztartás egyensúlyának fenntartása érdekében.</p>";
 
 $lang["cancer_sideEffects_anorexia_p"] = "Ebben a kutyában a gerinc mentén láthatóvá váltak a háti csigolyák a hátizmok elvesztése miatt. A koponyán is jól látható az izomtömeg csökkenése.";
 
@@ -53,5 +53,6 @@ $lang["cancer_sideEffects_references"] =
 "<ol>
 <li>Bergman PJ. Paraneoplastic Syndromes. Withrow and MacEwen's Small Animal Clinical Oncology, 5th edition, Chapter 5 (p 83-92).</li>
 </ol>";
+
 
 ?>
