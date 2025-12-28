@@ -56,15 +56,15 @@ $lang["cancer_faq_questions_8_a"] =
 
 $lang["cancer_faq_questions_9_q"] = "Az állatok daganatainak terápiás lehetőségei fejlődnek a korral?";
 $lang["cancer_faq_questions_9_a"] = 
-"<p>Ahogyan az emberi onkológia területén is, az elmúlt 10 évben az állatorvosi daganatkezelés is óriási fejlődésen ment keresztül. Új kemoterápiás szerek, a régebbiek biztonságosabb változatai, valamint célzott terápiák – például a Palladia – váltak elérhetővé, amelyek más módon pusztítják el a rákos sejteket.</p>
-<p>Emellett több immunterápiát is engedélyeztek, amelyek a beteg saját immunrendszerét segítik a daganat elleni küzdelemben. Az elektrokemoterápia is egyre szélesebb körben elérhető a nem operálható daganatok kezelésére. Egyre több cég kínál vakcinákat vagy ellenanyagokat kutyadaganatok ellen (például Evvivax, Torigen, Elias Animal Health), bár ezek hatékonyságát még további vizsgálatoknak kell megerősíteniük.</p>
+"<p>Ahogyan az emberi onkológia területén is, az elmúlt 10 évben az állatorvosi daganatkezelés is óriási fejlődésen ment keresztül. Új kemoterápiás szerek, a régebbiek biztonságosabb változatai, valamint célzott terápiák – például a Palladia – váltak elérhetővé, amelyek más-más módon pusztítják el a rákos sejteket.</p>
+<p>Ezek mellett több immunterápiát is engedélyeztek, amelyek a beteg saját immunrendszerét segítik a daganat elleni küzdelemben. Az elektrokemoterápia is egyre szélesebb körben elérhető a nem operálható daganatok kezelésére. Egyre több cég kínál vakcinákat vagy ellenanyagokat kutyadaganatok ellen (például Evvivax, Torigen, Elias Animal Health), bár ezek hatékonyságát még további vizsgálatoknak kell megerősíteniük.</p>
 <p>Bár sok kutatásra még szükség van annak meghatározásához, hogyan alkalmazhatók legjobban ezek az új módszerek, az állatorvosi daganatkezelés jövője biztató.</p>";
 
 $lang["cancer_faq_questions_10_q"] = "A rák halálos ítélet?";
 $lang["cancer_faq_questions_10_a"] = 
-"<p>Számos olyan daganattípus létezik, amely alacsony áttétképző hajlamú, és műtéttel vagy műtéti eltávolítást követő sugárkezeléssel teljesen gyógyítható. Ilyenek például az alacsony grádusú lágyrész-szarkómák és hízósejtes daganatok.</p>
-<p>Még azoknál a daganatoknál sem, amelyek hajlamosak az áttétképzésre, feltétlenül gyors a terjedés. A növekedési ütem nagymértékben függ a daganat típusától. Például az anális mirigy adenokarcinóma és a pajzsmirigyrák híresen lassan fejlődnek, annak ellenére, hogy gyakran adnak áttéteket. Ezért fontos minden daganat egyedi biológiai viselkedését figyelembe venni.</p>
-<p>Még agresszív rák esetén is a célzott palliatív ellátás jelentősen javíthatja az életminőséget, és sok esetben meghosszabbíthatja az állat és gazdája együtt töltött idejét.</p>";
+"<p>Számos olyan daganattípus létezik, amely alacsony áttétképző hajlamú, és műtéttel vagy műtéti eltávolítást követő sugárkezeléssel teljesen gyógyítható. Ilyenek például az alacsony graditású lágyrész-szarkómák és hízósejtes daganatok.</p>
+<p>Még az áttétképző daganatoknál sem feltétlenül gyors a terjedés. A növekedési ütem nagymértékben függ a daganat típusától. Például a perianális mirigy adenokarcinóma és a pajzsmirigyrák híresen lassan fejlődnek, annak ellenére, hogy gyakran adnak áttéteket. Ezért fontos minden daganat egyedi biológiai viselkedését figyelembe venni.</p>
+<p>Még agresszív rák esetén is a célzott palliatív (életminőséget javító) ellátás jelentősen javíthatja az életminőséget, és sok esetben meghosszabbíthatja az állat és gazdája együtt töltött idejét.</p>";
 
 $lang["cancer_faq_references"] = 
 "<ul>
@@ -73,6 +73,7 @@ $lang["cancer_faq_references"] =
 
 
 ?>
+
 
 
 
