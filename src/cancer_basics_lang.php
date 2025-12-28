@@ -28,7 +28,7 @@ $lang["cancer_basics_terms_metastases_d"] =
 
 $lang["cancer_basics_terms_remission_t"] = "Remisszió / regresszió";
 $lang["cancer_basics_terms_remission_d"] = 
-"<p>Ha egy betegség visszahúzódik, és a beteg ideiglenesen jobban érzi magát, remisszióról beszélünk. Amikor a betegség minden jele eltűnik, ezt teljes remissziónak nevezzük. Ez azonban nem jelenti feltétlenül azt, hogy a betegség teljesen megszűnt. Remisszió során két lehetőség van: a rákos sejtek eltűntek, vagy a daganat olyan kicsi, hogy nem mutatható ki. A daganat regresszióban van, ha mérete csökken.</p>
+"<p>Ha egy tumor visszahúzódik (mérete vagy kiterjedése csökken), valamint a beteg ideiglenesen jobban érzi magát, remisszióról beszélünk. Amikor a betegség minden jele eltűnik, ezt teljes remissziónak nevezzük. Ez azonban nem jelenti feltétlenül azt, hogy a beteg meggyógyul. Teljes remisszió során a rákos sejtek eltűnnek, vagy a daganat olyan kicsi, hogy nem mutatható ki. A tumor részleges remisszióban van, ha a mérete csökkent. A regresszió ennek a csökkenésnek a folyamata, a remisszió pedig az eredménye, azonban a két fogalmat gyakran szinonímaként is használják.</p>
 <p>Minél tovább tart a remisszió, annál nagyobb az esélye annak, hogy a beteg véglegesen meggyógyul.</p>";
 
 $lang["cancer_basics_terms_relapse_t"] = "Kiújulás (relapszus)";
@@ -38,14 +38,14 @@ $lang["cancer_basics_terms_relapse_d"] =
 $lang["cancer_basics_terms_staging_t"] = "Stádiumbesorolás (staging)";
 $lang["cancer_basics_terms_staging_d"] = 
 "<p>Mi az a stádiumbesorolás?</p>
-<p>A stádiumbesorolás a TNM-rendszer alapján háromféle információ meghatározását jelenti:</p>
+<p>A stádiumbesorolás a tumor klinikailag megítélhető előrehaladottsági fokozata. A TNM-rendszer alapján háromféle információ meghatározását jelenti:</p>
 <ol>
 <li>A daganat mérete és elhelyezkedése (T)</li>
 <li>A nyirokcsomók érintettsége (N)</li>
-<li>Az áttétek (M) jelenléte a daganat közeli nyirokcsomókon kívüli szövetekben</li>
+<li>Az áttétek (M) jelenléte távoli (nyirokcsomókon kívüli) szövetekben</li>
 </ol>
-<p>Ezek az információk szükségesek ahhoz, hogy a kutyája számára a lehető legjobb kezelési tervet lehessen kialakítani. A daganat előrehaladottsági stádiuma meghatározza a kezelési tervet és a prognózist. A kezelési terv figyelembe veszi a kutya általános egészségi állapotát is (például a szív, vese vagy máj működését), hogy a legmegfelelőbb kezelést lehessen alkalmazni.</p>
-<p>Mint az embereknél, még a legkorszerűbb diagnosztikai technikákkal sem mindig lehetséges a nagyon kisméretű áttétek kimutatása.</p>
+<p>Ezek az információk szükségesek ahhoz, hogy a tumoros betegek számára a lehető legjobb kezelési tervet lehessen elkészíteni. A daganat stádiuma meghatározza a kezelési tervet és a prognózist. vagyis a kórjóslatot. A kezelési terv figyelembe veszi a kutya általános egészségi állapotát is (például a szív, vese vagy máj funkcióját), hogy a legmegfelelőbb kezelést lehessen alkalmazni.</p>
+<p>csakúgy, mint az embereknél, még a legkorszerűbb diagnosztikai technikákkal sem mindig lehetséges a nagyon kisméretű áttétek kimutatása.</p>
 <p>A stádiumbesorolás összetettsége a daganattípus előre jelezhető viselkedésétől függően változhat (lásd: daganattípusok). Néhány példa:</p>
 <ul>
 <li>Hízósejtes daganat (mastocytoma) diagnosztizálásához – amely hízósejtekből (egy fehérvérsejt-típusból) áll – szükség van a daganatból történő mintavételre (punkcióra vagy biopsziára), a regionális nyirokcsomók punkciójára, valamint a máj és a lép ultrahangos vizsgálatára (és ha lehetséges, azok mintavételére is).</li>
@@ -55,4 +55,5 @@ $lang["cancer_basics_terms_staging_d"] =
 
 
 ?>
+
 
