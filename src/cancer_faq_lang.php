@@ -10,21 +10,21 @@ $lang["cancer_faq_questions_1_q"] = "Csak az idős kutyákban alakul ki rák?";
 $lang["cancer_faq_questions_1_a"] = 
 "<p>Általánosságban elmondható, hogy a rák gyakoribb az idősebb emberekben és állatokban, mivel több idő áll rendelkezésre a genetikai hibák felhalmozódásához. Ennek ellenére bizonyos tumortípusok fiatal vagy középkorú állatokban is előfordulhatnak. A hisztiocitómák például jól ismert, bőrön megjelenő kereksejtes daganatok, amelyek főként fiatal kutyákban jelentkeznek, jóindulatúak, és általában idővel maguktól visszafejlődnek.</p>
 <p>Más neoplazmák, amelyek túlnyomórészt 2 évesnél fiatalabb kutyáknál alakulnak ki; a rabdomioszarkóma, a neuroblasztóma és a nefroblasztóma. Ezek a daganatok primitív szövetekből származnak, és legtöbbször erősen rosszindulatúak, jelentősen megrövidítik a várható életidőt.</p>
-<p>Egyéb példaként említhetőek a limfóma és az oszteoszarkóma, mely szintén gyakran diagnosztizálható 2 évesnél fiatalabb, arra hajlamos fajtájú kutyákban. Ritkábban a hemangioszarkóma és a hízósejtes daganatok (masztocitómák) is előfordulhatnak fiatal állatoknál.</p>";
+<p>Egyéb példaként említhetőek a limfóma és az oszteoszarkóma, melyek szintén gyakran diagnosztizálhatóak 2 évesnél fiatalabb, arra hajlamos fajtájú kutyákban. Ritkábban a hemangioszarkóma és a hízósejtes daganatok (masztocitómák) is előfordulhatnak fiatal állatokban.</p>";
 
-$lang["cancer_faq_questions_2_q"] = "A környezeti toxinok a rák fő okai?";
+$lang["cancer_faq_questions_2_q"] = "A környezeti hatások a daganatok legfőbb okai?";
 $lang["cancer_faq_questions_2_a"] = 
 "<p>A jelenlegi tudományos bizonyítékok szerint a környezeti tényezők viszonylag kis szerepet játszanak a legtöbb daganattípus kialakulásában.</p>
-<p>Embereken végzett kutatások kimutatták, hogy – néhány jól ismert, örökletes vagy környezeti eredetű rák (például dohányzás okozta tüdőrák) kivételével – a rák előfordulása szorosan összefügg a különböző szövetek őssejtjeinek osztódási gyakoriságával. Ez alátámasztja az úgynevezett „rossz szerencse elméletét”, miszerint sok rákos megbetegedés egyszerűen a véletlen genetikai hibák következménye.</p>
-<p>Hasonlóan, a legnagyobb emlőrákos nőbetegeken végzett epidemiológiai elemzések sem találtak egyértelmű kapcsolatot a környezeti tényezők és a betegség kialakulása között.</p>
-<p>Az állatorvosi onkológiában nagyon kevés epidemiológiai vizsgálat készült, és egyik sem igazolta egyértelműen az ok-okozati összefüggést. További kutatásokra van szükség, de valószínű, hogy a „rossz szerencse elmélet” az állatorvosi daganatok többségére is igaz.</p>";
+<p>Humán orvostudományban végzett kutatások kimutatták, hogy – néhány jól ismert, örökletes vagy környezeti eredetű tumor (például dohányzás okozta tüdőrák) kivételével – a daganatok előfordulása szorosan összefügg a különböző szövetek őssejtjeinek osztódási gyakoriságával. Ez alátámasztja az úgynevezett „rossz szerencse elméletét”, miszerint sok rákos megbetegedés egyszerűen a véletlen genetikai hibák következménye.</p>
+<p>Hasonlóan, nőkben a leggyakoribbnak tekinthető emlődaganatos betegekkel végzett epidemiológiai elemzések sem találtak egyértelmű kapcsolatot a környezeti tényezők és a betegség kialakulása között.</p>
+<p>Az állatorvosi onkológiában nagyon kevés epidemiológiai vizsgálat készült, és egyik sem igazolt egyértelműen az ok-okozati összefüggéseket. További kutatásokra van szükség, de valószínű, hogy a „rossz szerencse elmélet” kisállatok tumorainak többségére is igaz.</p>";
 
-$lang["cancer_faq_questions_3_q"] = "A műtét, biopszia vagy aspiráció terjesztheti a rákot?";
+$lang["cancer_faq_questions_3_q"] = "A mintavétel; biopszia vagy aspirációs citológia terjesztheti a rákot a szervezetben (helyi szóródás vagy áttét)?";
 $lang["cancer_faq_questions_3_a"] = 
-"<p>Nincs bizonyíték arra, hogy a műtét, a biopszia vagy az aspiráció távoli áttétek kialakulását okozná.</p>
-<p>Bár ezek az eljárások néha ráksejtek véráramba jutását eredményezhetik, a legtöbb ilyen sejt nem képes új áttétet képezni, hacsak nem rendelkezik már ezzel a képességgel. Emberi tanulmányok szerint a daganatmintavétel előnyei messze meghaladják a kockázatokat.</p>
-<p>Például egy 2000 hasnyálmirigyrákos emberen végzett kutatás kimutatta, hogy azok, akiknél diagnosztikai mintavételt végeztek, jobban jártak, mint azok, akiknél nem történt ilyen vizsgálat. A szerzők szerint a pontos diagnózis felgyorsította a megfelelő kezelés megkezdését. Bár a biopszia után ritkán előfordulhat helyi sejtszóródás, gondos tervezéssel és megfelelő sebészi technikával ez minimálisra csökkenthető.</p>
-<p>Állatoknál ilyen példa a húgyhólyag átmeneti sejtes karcinómája, ahol a sejtszóródás előfordulhat a testfal felé műtét után, ritkán pedig tűaspirációt követően is.</p>
+"<p>Általánosan nézve, nincs bizonyíték arra, hogy a műtét, a biopszia vagy az aspiráció távoli áttétek kialakulását okozná.</p>
+<p>Bár ezek az eljárások néha a tumorsejtek véráramba jutását eredményezhetik, a legtöbb ilyen sejt nem képes új áttétet képezni, hacsak nem rendelkezik már ezzel a potenciállal mutációk révén. Humán tanulmányok szerint a daganat mintavétel előnyei messze meghaladják a kockázatokat.</p>
+<p>Például egy 2000 főből álló, hasnyálmirigy tumorban szenvedő emberen végzett kutatás kimutatta, hogy azon páciensek, akiknél diagnosztikai mintavételt végeztek, összességében hosszabb ideig éltek, mint azok, akiknél nem történt ilyen vizsgálat. A szerzők szerint a pontos diagnózis ismerete felgyorsította a megfelelő kezelési döntési folyamatot. Bár a biopszia után ritkán előfordulhat helyi sejtszóródás, gondos tervezéssel és megfelelő sebészi technikával ez minimálisra csökkenthető.</p>
+<p>Állatoknál helyi sejtszóródás hajlamára példa a húgyhólyag átmeneti sejtes karcinómája, ahol a tumorsejtek kikenődésével való terjedés előfordulhat a hasüreg felé műtét után, ritkán pedig tűaspirációt követően is.</p>
 <p>Az onkológiai sebészet gondos technikái – például a műszerek és kesztyűk cseréje a seb lezárása előtt – tovább csökkenthetik a sejtszóródás kockázatát.</p>";
 
 $lang["cancer_faq_questions_4_q"] = "Megállítható a rák egy szénhidrátmentes diétával?";
@@ -73,3 +73,4 @@ $lang["cancer_faq_references"] =
 
 
 ?>
+
