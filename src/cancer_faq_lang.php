@@ -43,18 +43,18 @@ $lang["cancer_faq_questions_6_q"] = "Ha a nyirokcsomó normális tapintatú, az 
 $lang["cancer_faq_questions_6_a"] = 
 "<p>A betegség korai szakaszában az áttét még nem okoz méret- vagy tapintásbeli elváltozást a nyirokcsomóban, és egyes, kórosnak tapintható csomók is lehetnek csupán reaktívak. Egy tanulmány, amely a tapintásos vizsgálat és a vékonytű-aspiráció pontosságát hasonlította össze, kimutatta, hogy a tapintás lényegesen kevésbé megbízható, mint a citológiai vizsgálat.</p>";
 
-$lang["cancer_faq_questions_7_q"] = "A kemoterápia mellékhatásai rosszabbak, mint maga a rák?";
+$lang["cancer_faq_questions_7_q"] = "A kemoterápia mellékhatásai rosszabbak, mint maga a daganat?";
 $lang["cancer_faq_questions_7_a"] = 
-"<p>Embereknél a kemoterápia mellékhatásai gyakran súlyosak és hosszan tartóak lehetnek. Az állatorvoslásban azonban más a cél, hiszen az állatok nem tudnak dönteni a kezelésről. Emiatt az állatorvosok sokkal alacsonyabb dózisokat alkalmaznak, mint az emberi orvoslásban, hogy elkerüljék a súlyos mellékhatásokat és megőrizzék a jó életminőséget.</p>
-<p>A cél, hogy a betegek legalább 80%-ánál ne jelentkezzen mellékhatás, és ha mégis, azok enyhék legyenek, otthon kezelhetők módon. Ha a kemoterápiát körültekintően, egyénre szabottan alkalmazzák, az előnyei messze felülmúlják a kockázatokat a legtöbb kutyánál.</p>";
+"<p>Embereknél a kemoterápia mellékhatásai gyakran súlyosak és hosszan tartóak lehetnek. Az állatorvoslásban azonban más a cél. Az állatok nem tudnak dönteni a kezelésről. Az állatorvosok sokkal alacsonyabb dózisokat alkalmaznak, mint az emberi orvoslásban, hogy elkerüljék a súlyos mellékhatásokat és megőrizzék a páciens jó életminőségét.</p>
+<p>Sikeres esetben a betegek legalább 80%-ánál nem jelentkezik mellékhatás, és ha mégis, azok enyhék, otthon kezelhetőek. Ha a kemoterápiát körültekintően, egyénre szabottan alkalmazzák, az előnyei messze felülmúlják a kockázatokat a legtöbb kutyánál.</p>";
 
 $lang["cancer_faq_questions_8_q"] = "Vannak állatok, akik túl öregek a daganatkezeléshez?";
 $lang["cancer_faq_questions_8_a"] = 
-"<p>Előfordul, hogy egyes betegek nem bírják az agresszív daganatkezelést, de ez ritka, és nem feltétlenül az életkorral függ össze.</p>
+"<p>Előfordul, hogy egyes betegek nem bírják az agresszív daganatterápiát, de ez ritka, és nem feltétlenül az életkorral függ össze.</p>
 <p>Például ha egy állat súlyos idegrendszeri betegségben szenved, nehezebben épülhet fel amputáció vagy nagyobb műtét után; máj- vagy vesebetegség esetén a kemoterápia lebontása jelent problémát, míg szívbetegségben az ismételt altatások sugárkezeléshez kockázatosak lehetnek.</p>
-<p>Ezek a tényezők azonban bármely életkorban fennállhatnak. Egy idősebb, de jó általános állapotú kutya vagy macska is kiváló jelölt lehet daganatkezelésre. Az állatorvos minden esetben az adott beteg teljes kórtörténetét és egészségi állapotát értékeli, nem csupán a korát.</p>";
+<p>Ezek a tényezők azonban bármely életkorban fennállhatnak. Egy idősebb, de jó általános állapotú kutya vagy macska is kiváló jelölt lehet célzott tumorterápiára. Az állatorvos minden esetben az adott beteg teljes kórtörténetét és egészségi állapotát értékeli, nem csupán a korát.</p>";
 
-$lang["cancer_faq_questions_9_q"] = "Fejlődik az állatok daganatkezelése?";
+$lang["cancer_faq_questions_9_q"] = "Az állatok daganatainak terápiás lehetőségei fejlődnek a korral?";
 $lang["cancer_faq_questions_9_a"] = 
 "<p>Ahogyan az emberi onkológia területén is, az elmúlt 10 évben az állatorvosi daganatkezelés is óriási fejlődésen ment keresztül. Új kemoterápiás szerek, a régebbiek biztonságosabb változatai, valamint célzott terápiák – például a Palladia – váltak elérhetővé, amelyek más módon pusztítják el a rákos sejteket.</p>
 <p>Emellett több immunterápiát is engedélyeztek, amelyek a beteg saját immunrendszerét segítik a daganat elleni küzdelemben. Az elektrokemoterápia is egyre szélesebb körben elérhető a nem operálható daganatok kezelésére. Egyre több cég kínál vakcinákat vagy ellenanyagokat kutyadaganatok ellen (például Evvivax, Torigen, Elias Animal Health), bár ezek hatékonyságát még további vizsgálatoknak kell megerősíteniük.</p>
@@ -73,5 +73,6 @@ $lang["cancer_faq_references"] =
 
 
 ?>
+
 
 
