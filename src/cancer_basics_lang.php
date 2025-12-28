@@ -45,15 +45,16 @@ $lang["cancer_basics_terms_staging_d"] =
 <li>Az áttétek (M) jelenléte távoli (nyirokcsomókon kívüli) szövetekben</li>
 </ol>
 <p>Ezek az információk szükségesek ahhoz, hogy a tumoros betegek számára a lehető legjobb kezelési tervet lehessen elkészíteni. A daganat stádiuma meghatározza a kezelési tervet és a prognózist. vagyis a kórjóslatot. A kezelési terv figyelembe veszi a kutya általános egészségi állapotát is (például a szív, vese vagy máj funkcióját), hogy a legmegfelelőbb kezelést lehessen alkalmazni.</p>
-<p>csakúgy, mint az embereknél, még a legkorszerűbb diagnosztikai technikákkal sem mindig lehetséges a nagyon kisméretű áttétek kimutatása.</p>
+<p>Csakúgy, mint az embereknél, még a legkorszerűbb diagnosztikai technikákkal sem mindig lehetséges a nagyon kisméretű áttétek kimutatása.</p>
 <p>A stádiumbesorolás összetettsége a daganattípus előre jelezhető viselkedésétől függően változhat (lásd: daganattípusok). Néhány példa:</p>
 <ul>
-<li>Hízósejtes daganat (mastocytoma) diagnosztizálásához – amely hízósejtekből (egy fehérvérsejt-típusból) áll – szükség van a daganatból történő mintavételre (punkcióra vagy biopsziára), a regionális nyirokcsomók punkciójára, valamint a máj és a lép ultrahangos vizsgálatára (és ha lehetséges, azok mintavételére is).</li>
-<li>Csontszarkóma (oszteoszarkóma) esetén szükséges a regionális nyirokcsomók punkciója, a tüdő és a csontok röntgenfelvétele (szcintigráfiával is kiegészíthető), valamint vérvizsgálat. A CT-vizsgálat érzékenyebb a tüdőáttétek kimutatására, és manapság szélesebb körben elérhető, mint a szcintigráfia.</li>
+<li>Hízósejtes daganat (mastocytoma) diagnosztizálásához – amely hízósejtekből (egy fehérvérsejt-típusból) áll – szükség van a daganatból történő mintavételre (citológiai aspirátumra vagy biopsziára), a regionális nyirokcsomók aspirációjára, valamint a máj és a lép ultrahangos vizsgálatára (és ha lehetséges, azok mintavételére is).</li>
+<li>Rosszindulatú csontdaganat (oszteoszarkóma) esetén szükséges a regionális nyirokcsomók aspirációja, a tüdő és a csontok röntgenfelvétele, valamint vérvizsgálat. A röntgen vizsgálat kiegészíthető szcintigráfiával, azonban a CT-vizsgálat érzékenyebb módszer a röntgennél a tüdőáttétek kimutatására, és manapság szélesebb körben elérhető, mint a szcintigráfia.</li>
 </ul>
 ";
 
 
 ?>
+
 
 
