@@ -1,28 +1,28 @@
 <?
 
-$lang["cancer_tumorType_adrenalCortexTumor_summary_location"] = "Mellékvese, a vese tetején";
+$lang["cancer_tumorType_adrenalCortexTumor_summary_location"] = "Mellékvesék, a vesék előtt a hasüregben";
 $lang["cancer_tumorType_adrenalCortexTumor_summary_behavior"] = "Többnyire rosszindulatú";
-$lang["cancer_tumorType_adrenalCortexTumor_summary_diagnosis"] = "Endokrin laborvizsgálatok és diagnosztikai képalkotás: ultrahang, CT vagy MRI";
-$lang["cancer_tumorType_adrenalCortexTumor_summary_treatment"] = "Sebészi beavatkozás, gyógyszeres kezelés (a hormontermelés gátlása és/vagy a daganat növekedésének befolyásolása), sugárterápia";
+$lang["cancer_tumorType_adrenalCortexTumor_summary_diagnosis"] = "Endokrinológiai laborvizsgálatok és diagnosztikai képalkotás: ultrahang, CT vagy MRI";
+$lang["cancer_tumorType_adrenalCortexTumor_summary_treatment"] = "Sebészi beavatkozás, gyógyszeres kezelés (a hormontermelés gátlása és/vagy a daganat növekedésének gátlása), sugárterápia";
 $lang["cancer_tumorType_adrenalCortexTumor_summary_prognosis"] = "A kimenetel függ az áttétek jelenlététől és a daganat méretétől";
 
 $lang["cancer_tumorType_adrenalCortexTumor_location"] = 
-"<p>Ez a daganattípus a mellékveséből indul ki. Két mellékvese található a szervezetben, mindkettő a vesék tetején helyezkedik el. A mellékvese két részből áll: a kéregből (külső rész) és a velőből (belső rész).</p>
+"<p>Ez a daganattípus a mellékveséből indul ki. Két mellékvese található a szervezetben, mindkettő a hasüregben a vesék előtt helyezkedik el. A mellékvese két részből áll: a kéregből (külső rész) és a velőből (belső rész).</p>
 <p>A mellékvesekéreg-daganatok (adrenokortikális daganatok) a kéregből származnak, és leggyakrabban túlzott mennyiségű kortizolt termelnek. Ritkábban előfordulhat, hogy más hormonokat – például aldoszteront – választanak el túlzott mértékben, vagy egyáltalán nem termelnek hormont.</p>";
 
 $lang["cancer_tumorType_adrenalCortexTumor_characteristics"] = 
 "<h3>Viselkedés</h3>
 <p>A kortizolt termelő mellékvesekéreg-daganatok kb. 75%-a rosszindulatú (adrenokortikális karcinóma), míg 25%-a jóindulatú (adrenokortikális adenóma). A daganatok mérete néhány millimétertől akár 10 centiméterig is változhat. A nagyobb daganatok gyakran betörnek az erekbe (az adrenokortikális karcinómák 20%-ában) és a környező szövetekbe. Áttétek kb. az esetek 50%-ában fordulnak elő, leggyakrabban a májban, a tüdőben és a nyirokcsomókban.  
-A funkcionális, kortizolt termelő mellékvesekéreg-daganatok általában csak az egyik mellékvesét érintik (egyoldaliak). Az esetek 5–10%-ában egyidejűleg hipofízisdaganat is jelen lehet.</p>
+A funkcionális, kortizolt termelő mellékvesekéreg-daganatok általában csak az egyik mellékvesét érintik (egyoldaliak). Az esetek 5–10%-ában egyidejűleg hipofízisdaganat is jelen lehet, amely rendszerint mindkét oldali mellékvese megnagyobbodását okozza.</p>
 
 <h3>Előfordulás</h3>
-<p>A mellékvesekéreg-daganatok gyakorisága nem ismert pontosan. A kortizolt termelő daganatok, amelyek mellékvese-eredetű hiperkortizolizmust (ADH) okoznak, a leggyakoribbak, becsült előfordulásuk 1:5000 kutya.</p>
+<p>A mellékvesekéreg-daganatok gyakorisága nem ismert pontosan. A kortizolt termelő daganatok, amelyek mellékvese-eredetű hiperadrenokorticizmust (ADH) okoznak, a leggyakoribbak, becsült előfordulási arányuk 1:5000 kutya.</p>
 
 <h3>Fajtahajlam</h3>
-<p>Általánosságban nem ismert; az ADH esetében lásd a <a href='/Cancer/tumorInfo/pituitaryTumor'>hipofízisdaganatokat</a>.</p>
+<p>Általánosságban nem ismert; az ADH esetében lásd <a href='/Cancer/tumorInfo/pituitaryTumor'>hipofízisdaganatokat</a>.</p>
 
 <h3>Tünetek</h3>
-<p>Az ADH-s kutyáknál a leggyakoribb tünetek: fokozott étvágy és szomjúság, gyakori vizelés, izomgyengeség, hasüregi zsírfelhalmozódás, lihegés, kétoldali szimmetrikus szőrhullás, bőr elvékonyodása és a sebek lassú gyógyulása. Ha a daganat betör az erekbe, vérzés alakulhat ki a vesék körül, vérszegénység és hasi fájdalom jelentkezhet, vagy daganatos vérrög képződhet, ami hasvízkórt (aszciteszt) vagy a hátsó végtagok részleges bénulását okozhatja. A mellékvesekéreg-daganat vagy egy nagy ér repedése életveszélyes, akut állapothoz vezethet.</p>
+<p>Az ADH-s kutyáknál a leggyakoribb tünetek: fokozott étvágy és szomjúság, gyakori vizelés, izomgyengeség, hasüregi zsírfelhalmozódás, lihegés, kétoldali szimmetrikus szőrhullás, bőr elvékonyodása és a sebek lassabb gyógyulása. Ha a daganat betör az erekbe, vérzés alakulhat ki a vesék körül, vérszegénység és hasi fájdalom jelentkezhet, vagy daganatos vérrög képződhet, ami hasvízkórt (aszciteszt) vagy a hátsó végtagok részleges bénulását okozhatja. A mellékvesekéreg-daganat érbetörése következtében kialakult nagy ér repedése életveszélyes, akut ellátást igénylő állapothoz vezethet.</p>
 <p>Az aldoszteront termelő mellékvesekéreg-daganatok jellemzően magas vérnyomással és a kortizolt termelő daganatokhoz hasonló tünetekkel járnak.</p>
 <p>A hormonálisan néma mellékvesekéreg-daganatok általában véletlenül kerülnek felfedezésre képalkotó vizsgálatok során. Ha tünetek vannak, azok a tömeghatás következményei, például hasi fájdalom, vérzés vagy aszcitesz.</p>";
 
@@ -92,5 +92,6 @@ $lang["cancer_tumorType_adrenalCortexTumor_references"] =
 $lang["cancer_tumorType_adrenalCortexTumor_carousel_1"] = "X";
 
 ?>
+
 
 
