@@ -1,10 +1,10 @@
 <?
 
-$lang["cancer_tumorType_analSacAdenoCarcinoma_summary_location"] = "Kis bőrzsákok a végbélnyílás környékén";
+$lang["cancer_tumorType_analSacAdenoCarcinoma_summary_location"] = "Kis zsákok a végbélnyílás környékén";
 $lang["cancer_tumorType_analSacAdenoCarcinoma_summary_behavior"] = "Lassan növekszik, lokálisan invazív, gyorsan ad áttétet";
 $lang["cancer_tumorType_analSacAdenoCarcinoma_summary_diagnosis"] = "Rektális vizsgálat, citológia, szövettani vizsgálat";
 $lang["cancer_tumorType_analSacAdenoCarcinoma_summary_treatment"] = "Sebészet, sugárkezelés vagy kemoterápia";
-$lang["cancer_tumorType_analSacAdenoCarcinoma_summary_prognosis"] = "Kezdeti stádiumban mérsékelt vagy jó";
+$lang["cancer_tumorType_analSacAdenoCarcinoma_summary_prognosis"] = "Kezdeti stádiumban közepes vagy jó";
 
 $lang["cancer_tumorType_analSacAdenoCarcinoma_location"] = 
 "<p>A végbélnyílás környékén találhatók a kis, zsák formájú bőrredők, az úgynevezett végbélzsákok (a végbélnyílás 4 és 8 órás pozíciójánál). Ezek falában mirigyek találhatók, melyek tartalma kitölti a zsákokat.</p>
@@ -71,3 +71,4 @@ $lang["cancer_tumorType_analSacAdenoCarcinoma_references"] =
 $lang["cancer_tumorType_analSacAdenoCarcinoma_carousel_1"] = "A végbélfal kidudorodása látható a képernyő jobb alsó sarkában. A kutyában áttétek találhatók a medencei nyirokcsomókban.";
 
 ?>
+
