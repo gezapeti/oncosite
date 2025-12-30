@@ -7,18 +7,18 @@ $lang["cancer_tumorType_analSacAdenoCarcinoma_summary_treatment"] = "Sebészet, 
 $lang["cancer_tumorType_analSacAdenoCarcinoma_summary_prognosis"] = "Kezdeti stádiumban közepes vagy jó";
 
 $lang["cancer_tumorType_analSacAdenoCarcinoma_location"] = 
-"<p>A végbélnyílás környékén találhatók a kis, zsák formájú bőrredők, az úgynevezett végbélzsákok (a végbélnyílás 4 és 8 órás pozíciójánál). Ezek falában mirigyek találhatók, melyek tartalma kitölti a zsákokat.</p>
-<p>A végbélnyílás közelében más daganatok is előfordulhatnak, például a hepatoid perianális mirigyek jóindulatú daganatai, limfóma, lágyszöveti daganatok, laphámsejtes karcinóma, melanoma, leiomyoma, átvihető nemi úton terjedő daganat (TVT) és mastocitóma.</p>";
+"<p>A végbélnyílás környékén találhatók a kis, zsák formájú bőrtasakok, az úgynevezett végbélzsákok (a végbélnyílás 4 és 8 órás pozíciójánál). Ezek falában mirigyek találhatók, melyek tartalma kitölti a zsákokat.</p>
+<p>A végbélnyílás közelében más daganatok is előfordulhatnak, például a hepatoid perianális mirigyek jóindulatú daganatai, limfóma, lágyszöveti daganatok, laphámsejtes karcinóma, melanóma, leiomióma, nemi úton átvihető daganat (transzmisszíbilis venereális tumor/TVT) és masztocitóma.</p>";
 
 $lang["cancer_tumorType_analSacAdenoCarcinoma_characteristics"] = 
-"<h3>Viselkedés</h3>
-<p>Ez a daganattípus általában rosszindulatú. Lassú növekedés jellemzi, ugyanakkor a környező szöveteket behatolva gyorsan képez áttétet. A szakirodalom szerint a kutyák kb. 50%-ánál már a diagnózis időpontjában találhatók áttétek, még ha a daganat csak 0,5 cm-es is. Az áttétek leggyakrabban a közeli nyirokcsomókban jelennek meg, de előfordulhatnak a májban, csontokban, lépben, tüdőben, ritkábban a mellékvesékben, hasnyálmirigyben, vesékben és a tüdők közötti térben (mediastinum).</p>
+"<h3>Klinikai viselkedés</h3>
+<p>Ez a daganattípus általában rosszindulatú. Lassú növekedés jellemzi, ugyanakkor a környező szövetekbe hatolva gyorsan képez áttétet. A szakirodalom szerint a kutyák kb. 50%-ánál már a diagnózis időpontjában találhatók áttétek, még ha a daganat csak 0,5 cm-es is. Az áttétek leggyakrabban a közeli nyirokcsomókban jelennek meg, de előfordulhatnak a májban, csontokban, lépben, tüdőben, ritkábban a mellékvesékben, hasnyálmirigyben, vesékben, valamint a tüdőlebenyek közötti térben (mediasztínum).</p>
 <p>Ez a daganat akár 27%-ban okozhat emelkedett kalciumszintet a vérben, ami károsíthatja a vesék működését.</p>
 
 <h3>Előfordulás</h3>
 <p>Viszonylag ritka. Ha egy daganat a végbélnyílás közelében helyezkedik el, 17% az esélye, hogy végbélzsák daganatról van szó. A végbélzsák daganatai a bőr alatti daganatok kb. 2%-át teszik ki. A kan és szuka kutyák azonos kockázattal rendelkeznek. A daganat főként 9–11 éves korban fordul elő, általában csak az egyik végbélzsákot érinti.</p>
 
-<h3>Fajtára jellemző hajlam</h3>
+<h3>Fajtahajlam</h3>
 <p>Leggyakrabban spánieleknél, különösen cocker spánieleknél fordul elő.</p>
 
 <h3>Tünetek</h3>
@@ -71,4 +71,5 @@ $lang["cancer_tumorType_analSacAdenoCarcinoma_references"] =
 $lang["cancer_tumorType_analSacAdenoCarcinoma_carousel_1"] = "A végbélfal kidudorodása látható a képernyő jobb alsó sarkában. A kutyában áttétek találhatók a medencei nyirokcsomókban.";
 
 ?>
+
 
