@@ -50,10 +50,10 @@ $lang["cancer_tumorType_adrenalCortexTumor_treatment"] =
 </ul>
 
 <h4>Gyógyszeres kezelés</h4>
-<p>Gyógyszeres kezelés során az ADH kezelhető trilostánnal vagy mitotánnal. Ezeket akkor alkalmazzák, ha a sebészi beavatkozás nem javasolt, vagy a műtét előtt a hiperkortizolizmus stabilizálására van szükség.</p>
-<p>A kortizolt termelő daganatos kutyáknál a trilostán csak a klinikai tüneteket csökkenti, de nem befolyásolja a daganat növekedését vagy az áttétek kialakulását, így ez palliatív kezelésnek számít. A trilostánról további információ a ‘hipofízisdaganatok’ fejezetben található.</p>
-<p>A mitotán egy másik gyógyszeres kezelési lehetőség. Előnye, hogy képes elpusztítani a mellékvesekéreg-daganat sejtjeit és az áttéteket is. A kezelés célja nemcsak a kortizoltermelés csökkentése, hanem a daganatos sejtek elpusztítása, ezért egy nem szelektív protokoll javasolt, amely a teljes mellékvesekérget érinti. A napi adagot három-négy részre kell osztani (6–8 óránként, étellel).  
-Mivel a kezelés hatására a mellékvese már nem termel hormonokat, ezek pótlására (szubsztitúciós terápia) van szükség. Ez a kezelés harmadik napján kezdődik, és napi glükokortikoidokat, mineralokortikoidokat és sót tartalmaz.  
+<p>Gyógyszeres kezelés részeként az alkalmazható szerek a trilosztán vagy a mitotán. Ezen készítmények olyan esetben jönnek szóba, ha a sebészi eltávolítás nem lehetséges, vagy a műtét előtt a hiperkortizolizmus stabilizálására van szükség.</p>
+<p>A kortizolt termelő daganatos kutyáknál a trilosztán csak a klinikai tüneteket csökkenti, de nem befolyásolja a daganat növekedésének vagy az áttétek kialakulásának ütemét, így ez palliatív kezelésnek számít. A trilosztánról további információ a ‘hipofízistumorok’ fejezetben olvasható.</p>
+<p>A mitotán egy másik gyógyszeres kezelési lehetőség. Előnye, hogy képes elpusztítani a mellékvesekéreg-daganat sejtjeit és az áttétes tumorsejteket is. A kezelés hatására nem csak a kortizol termelés csökken, hanem a teljes mellékvese kéreg egyéb hormonokat termelő szövete is sorvad. A napi adagot három-négy részre kell osztani (6–8 óránként, étellel).  
+Mivel a kezelés hatására a mellékvese már nem termel hormonokat, ezek pótlására (szubsztitúciós terápia) van szükség. Ezt a terápiát a mitotán kezelés harmadik napján szükséges megkezdeni, napi glükokortikoidokat, mineralokortikoidokat és sót tartalmaz.  
 A mitotán kezdeti adagolása után a glükokortikoid dózis csökkenthető, de stressz, sérülés vagy altatás esetén ideiglenesen meg kell duplázni. A kiújulás megelőzése érdekében a mitotánt heti egyszeri fenntartó adagban, legalább 6 hónapig – akár élethosszig – adni kell. Mellékhatásai közé tartozik az étvágytalanság, levertség, gyengeség és hasmenés. Ezek jelentkezésekor a mitotán adását fel kell függeszteni, de a hormonpótlást folytatni kell.</p>
 
 <h3>Aldoszteront termelő mellékvesekéreg-daganat</h3>
@@ -92,6 +92,7 @@ $lang["cancer_tumorType_adrenalCortexTumor_references"] =
 $lang["cancer_tumorType_adrenalCortexTumor_carousel_1"] = "X";
 
 ?>
+
 
 
 
