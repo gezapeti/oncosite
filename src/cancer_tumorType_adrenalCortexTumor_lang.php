@@ -52,28 +52,28 @@ $lang["cancer_tumorType_adrenalCortexTumor_treatment"] =
 <h4>Gyógyszeres kezelés</h4>
 <p>Gyógyszeres kezelés részeként az alkalmazható szerek a trilosztán vagy a mitotán. Ezen készítmények olyan esetben jönnek szóba, ha a sebészi eltávolítás nem lehetséges, vagy a műtét előtt a hiperkortizolizmus stabilizálására van szükség.</p>
 <p>A kortizolt termelő daganatos kutyáknál a trilosztán csak a klinikai tüneteket csökkenti, de nem befolyásolja a daganat növekedésének vagy az áttétek kialakulásának ütemét, így ez palliatív kezelésnek számít. A trilosztánról további információ a ‘hipofízistumorok’ fejezetben olvasható.</p>
-<p>A mitotán egy másik gyógyszeres kezelési lehetőség. Előnye, hogy képes elpusztítani a mellékvesekéreg-daganat sejtjeit és az áttétes tumorsejteket is. A kezelés hatására nem csak a kortizol termelés csökken, hanem a teljes mellékvese kéreg egyéb hormonokat termelő szövete is sorvad. A napi adagot három-négy részre kell osztani (6–8 óránként, étellel).  
+<p>A mitotán egy másik gyógyszeres kezelési lehetőség. Előnye, hogy képes elpusztítani a mellékvesekéreg-daganat sejtjeit és az áttétes tumorsejteket is. A kezelés hatására nem csak a kortizol termelés csökken, hanem a teljes mellékvese kéreg egyéb hormonokat termelő szövete is sorvad. A protokoll részeként a napi adagot három-négy részre kell osztani (6–8 óránként, eleséggel).  
 Mivel a kezelés hatására a mellékvese már nem termel hormonokat, ezek pótlására (szubsztitúciós terápia) van szükség. Ezt a terápiát a mitotán kezelés harmadik napján szükséges megkezdeni, napi glükokortikoidokat, mineralokortikoidokat és sót tartalmaz.  
 A mitotán kezdeti adagolása után a glükokortikoid dózis csökkenthető, de stressz, sérülés vagy altatás esetén ideiglenesen meg kell duplázni. A kiújulás megelőzése érdekében a mitotánt heti egyszeri fenntartó adagban, legalább 6 hónapig – akár élethosszig – adni kell. Mellékhatásai közé tartozik az étvágytalanság, levertség, gyengeség és hasmenés. Ezek jelentkezésekor a mitotán adását fel kell függeszteni, de a hormonpótlást folytatni kell.</p>
 
 <h3>Aldoszteront termelő mellékvesekéreg-daganat</h3>
 <p>Ezek a daganatok sebészi úton eltávolíthatók, vagy gyógyszeresen kezelhetők aldoszteron-blokkoló szerekkel.</p>
 
-<h3>Hormonálisan néma mellékvesekéreg-daganat</h3>
-<p>E daganatok esetében a legjobb kezelési lehetőség a sebészi eltávolítás, ha a mellékvese-tömeg átmérője meghaladja a 2 cm-t. Jelenleg nincs elérhető gyógyszeres kezelés.</p>";
+<h3>Hormonálisan néma (hormont nem termelő) mellékvesekéreg-daganat</h3>
+<p>E daganatok esetében a legjobb kezelési lehetőség a sebészi eltávolítás, ha a mellékvese-szaporulat átmérője meghaladja a 2 cm-t. Jelenleg nincs elérhető gyógyszeres kezelés.</p>";
 
 $lang["cancer_tumorType_adrenalCortexTumor_prognosis"] = 
-"<p>Az ADH prognózisa nagymértékben függ a mellékvese-daganat méretétől és az áttétek jelenlététől.</p>
+"<p>Az ADH prognózisa nagymértékben függ a tumor méretétől és az áttétek jelenlététől.</p>
 
-<h3>Adrenalectomia</h3>
-<p>Az adrenalectomián átesett kutyák medián túlélése 778 és 953 nap között változik. A klinikai tényezők közül a daganat átmérője bizonyult a túlélést leginkább befolyásoló tényezőnek, míg az érinvázió, a tokrepedés, a műtét időtartama és a műtét előtti gyógyszeres kezelés nem befolyásolta az eredményt. A 3 cm-nél kisebb daganattal rendelkező kutyák túlélése szignifikánsan jobb volt, mint a ≥3 cm átmérőjű daganattal rendelkezőké.</p>
+<h3>Adrenalektómia</h3>
+<p>Az adrenalektómián átesett kutyák medián túlélése 778 és 953 nap között változik. A klinikai tényezők közül a daganat átmérője bizonyult a túlélést leginkább befolyásoló tényezőnek, míg az érinvázió, a tumor tokjának inváziója, a műtét időtartama és a műtét előtti gyógyszeres kezelés nem befolyásolta az eredményt. A 3 cm-nél kisebb szövetszaporulattal rendelkező kutyák túlélése szignifikánsan jobb volt, mint a 3 cm-nél nagyobb átmérőjű daganattal rendelkezőké.</p>
 
 <h3>Sugárterápia</h3>
 <p>Sztereotaxiás sugárterápiát kevés kutyán alkalmaztak érinvázióval járó mellékvesekéreg-daganat esetén (9 kutya). A medián túlélés 1030 nap volt, a daganat mérete csökkent, és egyik kutyánál sem jelentkezett súlyos sugárkárosodás. Megjegyzendő, hogy a 9 kutya közül hatnál hormonálisan néma daganatot diagnosztizáltak. Nagyobb számú eseten végzett vizsgálatok szükségesek e módszer pontos értékeléséhez.</p>
 
 <h3>Gyógyszeres kezelés</h3>
-<p>A trilostánnal kezelt, kortizolt termelő daganatos kutyák medián túlélése 353–596 nap között volt.</p>
-<p>A mitotánnal kezelt kutyák medián túlélése 102–476 nap között mozgott, és nem különbözött szignifikánsan a trilostánnal kezelt csoportokétól. Ezek a vizsgálatok azonban nem a teljes mellékvesekéreg-pusztítást célzó mitotán-protokollt alkalmazták, ami eltérő eredményeket adhatott volna. Ráadásul a mitotános csoportban súlyosabb, áttétes esetek is szerepeltek, ami szintén befolyásolhatta az eredményeket.</p>
+<p>A trilosztánnal kezelt, kortizolt termelő daganatos kutyák medián túlélése 353–596 nap között volt.</p>
+<p>A mitotánnal kezelt kutyák medián túlélése 102–476 nap között mozgott, és nem különbözött szignifikánsan a trilosztánnal kezelt csoportokétól. Ezek a vizsgálatok azonban nem a fentebb említett mitotán-protokollt alkalmazták, amely eltérő eredményeket adhatott. Ráadásul a mitotános csoportban súlyosabb, áttétes esetek is szerepeltek, ami szintén befolyásolhatta az eredményeket.</p>
 <p>Jelenleg nincs elérhető adat az aldoszteront termelő és a hormonálisan néma mellékvesekéreg-daganatokkal élő kutyák túléléséről.</p>";
 
 $lang["cancer_tumorType_adrenalCortexTumor_references"] = 
@@ -92,6 +92,7 @@ $lang["cancer_tumorType_adrenalCortexTumor_references"] =
 $lang["cancer_tumorType_adrenalCortexTumor_carousel_1"] = "X";
 
 ?>
+
 
 
 
