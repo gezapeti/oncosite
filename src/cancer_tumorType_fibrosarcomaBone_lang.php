@@ -2,17 +2,17 @@
 
 $lang["cancer_tumorType_fibrosarcomaBone_summary_location"] = "Kötőszöveti eredetű csontdaganat";
 $lang["cancer_tumorType_fibrosarcomaBone_summary_behavior"] = "Csonttörést okozhat, áttétek is lehetségesek";
-$lang["cancer_tumorType_fibrosarcomaBone_summary_diagnosis"] = "Röntgenvizsgálat, szövettani elemzés";
+$lang["cancer_tumorType_fibrosarcomaBone_summary_diagnosis"] = "Röntgenvizsgálat, kórszövettan";
 $lang["cancer_tumorType_fibrosarcomaBone_summary_treatment"] = "Sebészi beavatkozás";
-$lang["cancer_tumorType_fibrosarcomaBone_summary_prognosis"] = "Visszafogott, óvatosan értékelendő prognózis";
+$lang["cancer_tumorType_fibrosarcomaBone_summary_prognosis"] = "Óvatosan értékelendő prognózis";
 
 $lang["cancer_tumorType_fibrosarcomaBone_location"] = 
 "<p>Ez a daganattípus a csont kötőszöveti állományából indul ki.</p>";
 
 $lang["cancer_tumorType_fibrosarcomaBone_characteristics"] = 
-"<h3>Viselkedés</h3>
+"<h3>Klinikai viselkedés</h3>
 <p>Az esetek 50%-ában a daganat következtében csonttörés alakul ki.</p>
-<p>Az áttétek gyakrabban alakulnak ki a szív, a szívburok (pericardium), a bőr és más csontok irányába, mint a tüdőbe.</p>
+<p>Az áttétek gyakrabban alakulnak ki a szívizomban, a szívburokban (pericardium), a bőrben és más csontokban, mint a tüdőbe.</p>
 
 <h3>Előfordulás</h3>
 <p>A csont fibroszarkóma ritka daganattípus, és az elsődleges csontdaganatok kevesebb mint 5%-át teszi ki.</p>
@@ -27,7 +27,7 @@ $lang["cancer_tumorType_fibrosarcomaBone_treatment"] =
 "<p>A sebészi eltávolítás javasolt; a kemoterápia szerepe jelenleg nem ismert.</p>";
 
 $lang["cancer_tumorType_fibrosarcomaBone_prognosis"] = 
-"<p>A műtéti beavatkozás után, amikor a végtagot sikerült megőrizni, az esetek 29%-ában 12 hónapos túlélést figyeltek meg, míg amputáció esetén ez az arány 66% volt.</p>";
+"<p>A műtéti beavatkozás után, ha a végtagot sikerült megőrizni, az esetek 29%-ában 12 hónapos túlélést figyeltek meg, míg amputáció esetén ez az arány 66% volt.</p>";
 
 $lang["cancer_tumorType_fibrosarcomaBone_references"] = 
 "<ol>
@@ -38,5 +38,6 @@ $lang["cancer_tumorType_fibrosarcomaBone_references"] =
 <li>Köszönet a Genti Egyetem Állatorvosi Karának Kisállat Képalkotó Diagnosztikai és Ortopédiai Tanszékének az orvosi képekért.</li>
 <li>HiLo orális fibroszarkóma: Frank Verstraete & Nadine Meertens – Onkológiai Találkozó, 2019</li>
 </ol>";
+
 
 ?>
