@@ -1,26 +1,26 @@
 <?
 
-$lang["cancer_tumorType_fibrosarcomaOral_summary_location"] = "Kötőszövet az orális üregben";
+$lang["cancer_tumorType_fibrosarcomaOral_summary_location"] = "Kötőszövet eredetű a szájüregben";
 $lang["cancer_tumorType_fibrosarcomaOral_summary_behavior"] = "Helyileg invazív, áttétek is kialakulhatnak";
-$lang["cancer_tumorType_fibrosarcomaOral_summary_diagnosis"] = "Citológia, hisztológia, röntgenvizsgálat";
+$lang["cancer_tumorType_fibrosarcomaOral_summary_diagnosis"] = "Citológia, kórszövettan, röntgenvizsgálat";
 $lang["cancer_tumorType_fibrosarcomaOral_summary_treatment"] = "Sebészi beavatkozás, sugárkezelés";
-$lang["cancer_tumorType_fibrosarcomaOral_summary_prognosis"] = "Visszafogott, óvatosan értékelendő";
+$lang["cancer_tumorType_fibrosarcomaOral_summary_prognosis"] = "Változó, óvatosan értékelendő";
 
 $lang["cancer_tumorType_fibrosarcomaOral_location"] = 
 "<p>Ez a daganattípus a szájüregben helyezkedik el.</p>";
 
 $lang["cancer_tumorType_fibrosarcomaOral_characteristics"] = 
-"<h3>Viselkedés</h3>
+"<h3>Klinikai viselkedés</h3>
 <p>Általánosságban a fibroszarkómák leginkább helyileg terjednek, de áttéteket is képezhetnek a nyirokcsomókban, majd a tüdőben – az esetek akár 30%-ában.</p>
 
 <h3>Előfordulás</h3>
 <p>A fibroszarkóma a kutya szájüregének harmadik leggyakrabban előforduló daganata.</p>
 
 <h3>Fajtahajlam</h3>
-<p>Elsősorban nagytestű fajtákban fordul elő, különösen Golden és Labrador retrievereknél, jellemzően 7–8 éves korban.</p>
+<p>Elsősorban nagytestű fajtákban fordul elő, különösen golden és labrador retrievereknél, jellemzően 7–8 éves kortól.</p>
 
 <h3>Tünetek</h3>
-<p>A daganat gyorsan növekvő szövettömegként jelentkezik, különösen, ha az állkapcson helyezkedik el (gyakrabban az alsó állkapocsnál az orr felőli felső állkapcson). A tünetek a daganat elhelyezkedésétől függenek. A kemény szájpadláson elhelyezkedő daganat nyelési nehézséget okozhat, míg az ínyen lévő daganat vérzést válthat ki a fogakkal való érintkezés miatt.</p>
+<p>A daganat gyorsan növekvő szövetszaporulatként jelentkezik, különösen, ha az állkapcson helyezkedik el (gyakrabban az alsó állkapcson). A panaszok a tumor elhelyezkedésétől függenek. A kemény szájpadláson helyeződő daganat nyelési nehézséget okozhat, míg az ínyen lévő tumor vérzést válthat ki a fogakkal való érintkezés miatt.</p>
 <p>Nem mindig könnyű megkülönböztetni az íny túlburjánzását egy valódi daganatképződéstől. Ezért fontos, hogy minden ilyen elváltozást alaposan kivizsgáljanak!</p>
 ";
 
@@ -30,8 +30,8 @@ $lang["cancer_tumorType_fibrosarcomaOral_diagnosis"] =
 
 <p>Az alábbi diagnosztikai lépések javasoltak a rosszindulatú szájüregi daganatok gyanúja esetén:</p>
 <ul>
-<li>Röntgenfelvételek készítése a szájülegről és a mellkasról. A szájüregi röntgenhez altatás szükséges. A csontkárosodás csak akkor látható, ha a csont legalább 40%-a már elpusztult, így előfordulhat, hogy a röntgen még normális képet mutat, de a csont valójában már károsodott.</li>
-<li>A helyi nyirokcsomók punkciós vizsgálata (citológia). A nyirokcsomó mérete önmagában nem utal az áttétek jelenlétére. A daganatot elvezető nyirokcsomók azonosíthatók limfoszcintigráfiával vagy kontrasztos ultrahanggal, így célzott mintavétel és az áttétek pontosabb kimutatása lehetséges.</li>
+<li>Röntgenfelvételek készítése a szájüregről és a mellkasról. A szájüregi röntgenhez altatás szükséges. A csontoldódás csak akkor látható, ha a csont legalább 40%-a már elpusztult, így előfordulhat, hogy a röntgen még normális képet mutat, de a csont valójában már károsodott.</li>
+<li>A regionális nyirokcsomók aspirációs vizsgálata (citológia). A nyirokcsomó mérete önmagában nem utal az áttétek jelenlétére. A daganattal keringési kapcsolatban álló nyirokcsomók azonosíthatók limfoszcintigráfiával vagy kontrasztos ultrahanggal, így célzott mintavétel és az áttétek pontosabb kimutatása lehetséges.</li>
 <li>Szövettani mintavétel (biopszia).</li>
 </ul>
 
@@ -41,14 +41,14 @@ $lang["cancer_tumorType_fibrosarcomaOral_diagnosis"] =
 <tr><td>2. stádium</td><td>2–4 cm között</td><td>negatív</td><td>nincs</td></tr>
 <tr><td>3. stádium</td><td>4 cm-nél nagyobb</td><td>negatív</td><td>nincs</td></tr>
 <tr><td></td><td>bármilyen méret</td><td>pozitív</td><td>nincs</td></tr>
-<tr><td>4. stádium</td><td>bármilyen méret</td><td>pozitív, fixált nyirokcsomó</td><td>nincs</td></tr>
+<tr><td>4. stádium</td><td>bármilyen méret</td><td>pozitív, duzzadt nyirokcsomó</td><td>nincs</td></tr>
 <tr><td></td><td>bármilyen méret</td><td>bármilyen állapot</td><td>jelen van</td>
 </table>
 
-<p>Ezen értékelés alapján lehet következtetni a prognózisra és a lehetséges kezelési módokra.</p>
+<p>Ezen értékelés alapján lehet következtetni a prognózisra és tervezni a kezelést.</p>
 
 <h3>Képalkotó vizsgálatok</h3>
-<p>A CT- és/vagy MRI-vizsgálat további információkat adhat a daganatról (különösen a csontkárosodás pontosabb mértékéről a röntgenhez képest, illetve a daganat orrüreg, garat vagy szemüreg felé történő terjedéséről).</p>";
+<p>A CT- és/vagy MRI-vizsgálat további információkat adhat a daganatról (különösen a csontoldódás pontosabb mértékéről a röntgenhez képest, illetve a daganat orrüreg, garat vagy szemüreg felé történő terjedéséről).</p>";
 
 $lang["cancer_tumorType_fibrosarcomaOral_treatment"] = 
 "<p>A legjobb túlélési arány kombinált kezeléssel érhető el, például sebészet és sugárterápia, vagy sugárterápia és hipertermia együttes alkalmazásával.</p>
@@ -95,5 +95,6 @@ $lang["cancer_tumorType_fibrosarcomaOral_references"] =
 
 $lang["cancer_tumorType_fibrosarcomaOral_carousel_1"] = "Nem mindig könnyű megkülönböztetni az íny túlburjánzását a daganatképződéstől. Például az alsó bal oldali képen ártalmatlan ínyburjánzás látható, míg a jobb oldali képen rosszindulatú fibroszarkóma. Ezért fontos az alapos kivizsgálás!";
 $lang["cancer_tumorType_fibrosarcomaOral_carousel_2"] = "Fibroszarkóma a lágyszájpadláson";
+
 
 ?>
