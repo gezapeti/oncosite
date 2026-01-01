@@ -22,26 +22,26 @@ $lang["cancer_tumorType_analSacAdenoCarcinoma_characteristics"] =
 <p>Leggyakrabban spánieleknél, különösen cocker spánieleknél fordul elő.</p>
 
 <h3>Tünetek</h3>
-<p>A primer daganat jelenléte számos tünetet okozhat: kellemetlenség a végbélnyílás környékén, duzzanat, vérzés, a hátsó rész húzása a padlón. 
-A nyirokcsomókban kialakuló áttétek akkora méretűek lehetnek, hogy akadályozzák a medencét, nyomást gyakorolhatnak a belekre, ami sürgető székelési ingert okozhat, vagy fájdalmat, székrekedést. 
+<p>A primer daganat jelenléte számos tünetet okozhat: kellemetlen érzés a végbélnyílás környékén, duzzanat, vérzés, fenék húzása a padlón. 
+A nyirokcsomókban kialakuló áttétek akkora méretűek lehetnek, hogy nyomást gyakorolhatnak a belekre, ami sürgető székelési ingert okozhat, vagy fájdalmat, székrekedést. 
 A magas vérkalcium-szint fokozott ivást és vizelést eredményezhet. Egyéb tünetek lehetnek étvágytalanság, apátia és hányás. A daganat eltávolítása után a kalciumszint visszatér a normál értékre. Ha a tünetek visszatérnek, az áttétek vagy a daganat kiújulásának jele lehet. 
 Csontáttétek ritkák, de fájdalmat és/vagy töréseket okozhatnak.</p>";
 
 $lang["cancer_tumorType_analSacAdenoCarcinoma_diagnosis"] = 
 "<h3>Fizikális vizsgálat</h3>
-<p>Rektális vizsgálattal megtekinthetők a végbélzsákok és kitapintható a nyirokcsomók duzzanata. Abnormális duzzanatok esetén a diagnózist citológia (a daganatból tűvel mintát vesznek és mikroszkóp alatt vizsgálják) vagy szövettani vizsgálat (biopszia) útján kell megerősíteni.</p>
+<p>Rektális vizsgálattal megtekinthetők a végbélzsákok és kitapintható a nyirokcsomók duzzanata. Abnormális duzzanatok esetén a diagnózist aspirációs citológia (a daganatból tűvel mintát vesznek és mikroszkóp alatt vizsgálják) vagy szövettani vizsgálat (biopszia) útján lehet megerősíteni.</p>
 
 <h3>Vérvizsgálat</h3>
-<p>Az emelkedett ionizált kalciumszint az anal sac adenokarcinoma jele lehet. A magas kalciumszint veseműködési problémákat okozhat, ami befolyásolja az altatási lehetőségeket, valamint az életminőséget és várható élettartamot.</p>
+<p>Az emelkedett ionizált kalciumszint a végbélzsák adenokarcinóma paraneoplasztikus velejárója lehet. A magas kalciumszint veseműködési problémákat okozhat, ami befolyásolja az altatási lehetőségeket, valamint az életminőséget és várható élettartamot.</p>
 
 <h3>Képalkotás</h3>
 <p>A hasi vagy mellkasi röntgen jelezheti a tüdőáttéteket vagy a hasi nyirokcsomók duzzanatát. Ultrahang, illetve CT/MRI segítségével pontosan meghatározható a nyirokcsomók érintettsége (csak röntgen esetén ez alul- vagy felülbecsülhető). A daganat típusának megerősítéséhez biopszia szükséges.</p>";
 
 $lang["cancer_tumorType_analSacAdenoCarcinoma_treatment"] = 
-"<p>Jelenleg hiányoznak nagyobb tanulmányok, amelyek bizonyítanák, melyik kezelés a legmegfelelőbb az egyes daganatszakaszokban. Az ideális kezelési kombináció nem ismert.</p>
+"<p>Jelenleg hiányoznak nagyobb tanulmányok, amelyek bizonyítanák, melyik kezelés a legmegfelelőbb a daganat egyes stádiumaiban. Az ideális kezelési kombináció nem ismert.</p>
 <p>A tünetek ideiglenes enyhítésére a következő lehetőségek állnak rendelkezésre: sebészet, palliatív sugárkezelés, kemoterápia és/vagy tirozin-kináz gátlók. Ezek hatékonyságát még nem bizonyították véglegesen.</p>
-<p>A primer daganat esetén a végbélzáróizom funkciójának megőrzésével végzett sebészet javasolt. Kiegészítő sugárkezelés segíthet a fennmaradó rákos sejtek helyi kontrolljában.</p>
-<p>Ha áttétek vannak, adható kemoterápia (carboplatin, mitoxantrone, toceranib-foszfát), nem szteroid gyulladáscsökkentők, metronomikus kemoterápia és/vagy biszfoszfonátok a túlzott kalcium kezelésére.</p>
+<p>A primer daganat esetén a végbélzáróizom funkciójának megőrzésével végzett sebészeti beavatkozás javasolt. Kiegészítő sugárkezelés segíthet a fennmaradó rákos sejtek helyi kontrolljában.</p>
+<p>Ha áttétek jelen vannak, alkalmazható kemoterápia (carboplatin, mitoxantrone, toceranib-foszfát), nem szteroid gyulladáscsökkentők, metronomikus kemoterápia és/vagy biszfoszfonátok a túlzott kalcium szint mérséklésére.</p>
 
 <h3>Sebészet</h3>
 <p>Ez a daganattípus invazív, széles kimetszést igényel. A teljes eltávolítás nehéz lehet a végbélzáróizom közelsége miatt. Az izom felének eltávolítása idegi károsodás nélkül lehetséges. Ha az izom több mint felét kell eltávolítani, vagy ha a daganat mindkét oldalon van, a műtét idegi károsodást okozhat, ami a székelési kontroll elvesztésével jár.</p>
@@ -71,5 +71,6 @@ $lang["cancer_tumorType_analSacAdenoCarcinoma_references"] =
 $lang["cancer_tumorType_analSacAdenoCarcinoma_carousel_1"] = "A végbélfal kidudorodása látható a képernyő jobb alsó sarkában. A kutyában áttétek találhatók a medencei nyirokcsomókban.";
 
 ?>
+
 
 
