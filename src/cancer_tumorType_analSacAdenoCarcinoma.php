@@ -45,22 +45,22 @@ $lang["cancer_tumorType_analSacAdenoCarcinoma_treatment"] =
 
 <h3>Sebészet</h3>
 <p>Ez a daganattípus invazív, széles kimetszést igényel. A teljes eltávolítás nehéz lehet a végbélzáróizom közelsége miatt. Az izom felének eltávolítása idegi károsodás nélkül lehetséges. Ha az izom több mint felét kell eltávolítani, vagy ha a daganat mindkét oldalon van, a műtét idegi károsodást okozhat, ami a székelési kontroll elvesztésével jár.</p>
-<p>A duzzadt nyirokcsomók eltávolíthatók, különösen, ha akadályozzák a medencét vagy növelik a vér kalciumszintjét. Ha a daganatot csak kis biztonsági zónával lehet eltávolítani, a kiújulás kockázata magas. A szövődmények kb. 10%-ban fordulnak elő: vérzés, fertőzés, inkontinencia (átmeneti 2,5%, állandó 0,8%), nehézségek a székelésnél, sipolyképződés.</p>
+<p>A duzzadt nyirokcsomók eltávolíthatók, különösen, ha nyomják a szerveket a medencében vagy növelik a vér kalciumszintjét. Ha a tumort csak kis biztonsági zónával lehet eltávolítani, a kiújulás kockázata magas. A szövődmények kb. 10%-ban fordulnak elő: vérzés, fertőzés, széklet inkontinencia (átmeneti 2,5%, állandó 0,8%), nehézségek a székelésnél, sipolyképződés.</p>
 
 <h3>Sugárkezelés</h3>
-<p>Javasolt, ha a daganat teljes eltávolítása nem lehetséges. A kutyák 38%-ában csökkent a daganat mérete, a klinikai tünetekkel rendelkező kutyák 62%-ában javultak vagy megszűntek a tünetek sugárkezelést követően.</p>
+<p>Javasolt, ha a daganat teljes eltávolítása nem lehetséges. A kutyák 38%-ában csökkent a tumor mérete, a klinikai tünetekkel rendelkező kutyák 62%-ában javultak vagy megszűntek a panaszok sugárkezelést követően.</p>
 
 <h3>Kemoterápia</h3>
-<p>Eddig kevés adat áll rendelkezésre a kemoterápia hatásáról monoterápiában vagy kiegészítő kezelésként az anal sac adenocarcinomák esetén.</p>
-<p>A kemoterápiás szerekről (mitoxantrone, carboplatin, cisplatin, actinomycin D, melphalan) monoterápiában nem jelentettek jelentős eredményeket, és kombinációjuk más kezelésekkel még nem tisztázott.</p>
-<p>A toceranib-foszfát enyhe választ vált ki (a daganat térfogatának csökkenése).</p>
+<p>Eddig kevés adat áll rendelkezésre a kemoterápia hatásáról monoterápiában vagy kiegészítő kezelésként a végbélzsák adenocarcinómák esetén.</p>
+<p>A kemoterápiás szerekről (mitoxantrone, carboplatin, cisplatin, actinomycin D, melphalan) monoterápiában nem születtek jelentős eredmények, és kombinációjuk más terápiákkal még nem tisztázott.</p>
+<p>A toceranib-foszfátra ismerten mérsékelt a terápiás válasz (a daganat térfogatának csökkenése).</p>
 <p>A nem szteroid gyulladáscsökkentők hatása eddig nem bizonyított, de csökkenthetik a daganat növekedését és az új erek képződését.</p>";
 
 $lang["cancer_tumorType_analSacAdenoCarcinoma_prognosis"] = 
-"<p>Korai stádiumban a prognózis mérsékelt vagy jó.</p>
-<p>Ha a daganat teljesen eltávolítható, és nincs áttét a diagnózis pillanatában, a prognózis jó.</p>
-<p>Ha vannak áttétek, vagy a daganat nem távolítható el teljesen, a kezeléshez sebészet és kiegészítő sugárkezelés szükséges. Az eltávolítható nyirokcsomók esetén 1,5–3 éves túlélésről és gyógyult kutyákról számoltak be.</p>
-<p>A túlélés a daganat eltávolításától és az áttétek jelenlététől függ. Sok áttét esetén az átlagos túlélés kevesebb, mint egy év. Rossz prognózist jelez: nagy daganat, előrehaladott stádium, gyors sejtosztódás, bizonyos hormonreceptorok hiánya, a bőr károsodása a daganat fölött. A sugárkezelés és kemoterápia eredményeiről jelenleg kevés információ áll rendelkezésre.</p>";
+"<p>Korai stádiumban a prognózis közepes vagy jó.</p>
+<p>Ha a daganat teljesen eltávolítható, és nincs áttét a diagnózis pillanatában, a kórjóslat kedvező.</p>
+<p>Ha vannak áttétek, vagy a daganat nem távolítható el teljesen, a kezeléshez műtét és kiegészítő sugárterápia szükséges. Az eltávolítható nyirokcsomók esetén 1,5–3 éves túlélésre és akár teljes gyógyulásra is lehet számítani.</p>
+<p>A túlélés a daganat eltávolíthatóságától és az áttétek jelenlététől függ. Sok áttét esetén az átlagos túlélés kevesebb, mint egy év. Rossz prognózist jelez: nagy daganat, előrehaladott stádium, gyors sejtosztódás, bizonyos hormonreceptorok hiánya, a bőr károsodása a daganat fölött. A sugárkezelés és kemoterápia eredményeiről jelenleg kevés információ áll rendelkezésre.</p>";
 
 $lang["cancer_tumorType_analSacAdenoCarcinoma_references"] = 
 "<ol>
@@ -68,9 +68,10 @@ $lang["cancer_tumorType_analSacAdenoCarcinoma_references"] =
 <li>McQuown B, Keyerleber MA, Rosen K, McEntee MC, Burgess KE. Treatment of advanced canine anal sac adenocarcinoma with hypofractionated radiation therapy: 77 cases (1999-2013). Vet Comp Oncol. 2016 Mar 16. doi: 10.1111/vco.12226.</li>
 </ol>";
 
-$lang["cancer_tumorType_analSacAdenoCarcinoma_carousel_1"] = "A végbélfal kidudorodása látható a képernyő jobb alsó sarkában. A kutyában áttétek találhatók a medencei nyirokcsomókban.";
+$lang["cancer_tumorType_analSacAdenoCarcinoma_carousel_1"] = "A végbél falának kidudorodása látható a képernyő jobb alsó sarkában. Az adott kutyában áttétek találhatók a medencei nyirokcsomókban.";
 
 ?>
+
 
 
 
