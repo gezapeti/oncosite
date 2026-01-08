@@ -54,19 +54,19 @@ $lang["cancer_tumorType_fibrosarcomaOral_treatment"] =
 "<p>A legjobb túlélési arány kombinált kezeléssel érhető el, például sebészet és sugárterápia, vagy sugárterápia és hipertermia együttes alkalmazásával.</p>
 
 <h3>Sebészet</h3>
-<p>A szájüregi fibroszarkómák leggyakoribb kezelési módja a sebészi beavatkozás. Ha nincsenek áttétek, a daganat eltávolítása akár gyógyuláshoz is vezethet. Fibroszarkómák esetén legalább 2 cm-es biztonsági szegély szükséges.</p>
-<p>A mellékhatások a kimetszett szövet mennyiségétől függnek, és magukban foglalhatják a seb szétnyílását, orrvérzést, fokozott nyálzást, a szájzárási nehézségeket és a táplálékfelvétel zavart.</p> 
-<p>Az alsó állkapocs részleges eltávolítása után a helyi kiújulás aránya 59%, az átlagos túlélés 11 hónap, és az esetek 50%-ában a kutyák 1 év után is életben voltak.</p> 
+<p>A szájüregi fibroszarkómák leggyakoribb kezelési módja a sebészi beavatkozás. Ha nincsenek áttétek, a daganat eltávolítása akár gyógyuláshoz is vezethet. Fibroszarkómák esetén legalább 2 cm-es biztonsági sebszél szükséges.</p>
+<p>Az esetleges komplikációk a kimetszett szövethiánytól függnek. Előfordulhat a seb szétnyílása, orrvérzés, fokozott nyálzás, szájzárási nehézségek és a táplálékfelvétel zavara.</p> 
+<p>A tanulmányok alapján az alsó állkapocs részleges eltávolítása után a helyi kiújulás aránya 59%, az átlagos túlélés 11 hónap, és az esetek 50%-ában a kutyák 1 év után is életben voltak.</p> 
 <p>A felső állkapocs részleges eltávolítása után a helyi kiújulás aránya 40%, az átlagos túlélési idő 12 hónap, és kizárólag sebészi kezelés esetén a kutyák fele egy évvel később is életben volt.</p> 
-<p>A krioterápia (fagyasztásos eljárás) csak 2 cm-nél kisebb, a csonthoz rögzült vagy minimálisan invazív daganatok esetén javasolt. Nagyobb daganatoknál a klasszikus sebészi megoldás ajánlott.</p>
+<p>A műtéti kimetszés krioterápiával (fagyasztásos eljárás) való kombinálása csak 2 cm-nél kisebb, a csonthoz rögzült vagy minimálisan invazív daganatok esetén javasolt. Nagyobb daganatoknál a klasszikus sebészi megoldás ajánlott.</p>
 
 <h3>Sugárkezelés</h3>
-<p>A sugárterápia önállóan (gyógyító vagy palliatív céllal), illetve kiegészítő kezelésként is alkalmazható nem teljesen eltávolított vagy agresszívan viselkedő daganatok esetén. A fibroszarkómákat általában mérsékelten sugárérzékenynek tartják, ezért a sugárterápia kombinációban ajánlott.</p>
-<p>A sugárkezelés akut mellékhatásai gyakoriak: helyi szőrhullás, bőr elvékonyodás és váladékozás, a szájnyálkahártya gyulladása, nyelési nehézség és szemelváltozások (a szemhéj, kötőhártya, szaruhártya vagy a szem belső szerkezeteinek gyulladása). Ezek a tünetek általában gyorsan megszűnnek. A késői szövődmények ritkák (az esetek kevesebb mint 5%-ában), és tartós helyi szőrhullást, bőrmegvastagodást, csontelhalást, orr- és szájüreg közötti sipolyképződést, másodlagos daganatokat, szem- vagy szájkiszáradást, szürkehályogot vagy retinafunkció-vesztést okozhatnak.</p>
+<p>A sugárterápia önállóan (gyógyító vagy palliatív céllal), illetve kiegészítő kezelésként is alkalmazható a részben eltávolított vagy agresszívan viselkedő daganatok esetén. A fibroszarkómák általában csak mérsékelten sugárérzékenynek, ezért a sugárterápia inkább műtéttel való kombinációban ajánlott.</p>
+<p>A sugárkezelés akut mellékhatásai gyakoriak: helyi szőrhullás, bőr elvékonyodása és váladékozás, a szájnyálkahártya gyulladása, nyelési nehézség és szemelváltozások (a szemhéj, kötőhártya, szaruhártya vagy a szem belső szerkezeteinek gyulladása). Ezek a tünetek általában gyorsan megszűnnek. A késői szövődmények ritkák (az esetek kevesebb mint 5%-ában), és a következőek lehetnek: tartós helyi szőrhullás, bőrmegvastagodás, csontelhalás, orr- és szájüreg közötti sipolyképződés, másodlagos daganatok, szem- vagy szájkiszáradás, szürkehályog vagy retinafunkció-vesztés.</p>
 
 <ul>
-<li>Ha csak sugárterápiát alkalmaznak, az átlagos túlélés 7 hónap.</li>
-<li>A sugárterápia kombinálható hipertermiával (a daganat 45°C-ra történő felmelegítése, amely károsítja a tumorsejteket, de a normál szöveteket nagyrészt megkíméli). Ezzel az eljárással a kutyák 50%-a 1 évvel a kezelés után is életben volt. Azonban ezek az eredmények kis mintán (legfeljebb 17 kutya) alapulnak, és nagyobb populáción történő megerősítést igényelnek.</li>
+<li>Kizárólag sugárterápiával az átlagos túlélés 7 hónap.</li>
+<li>A sugárterápia kombinálható hipertermiával (a daganat 45°C-ra történő felmelegítése, amely károsítja a tumorsejteket, de a normál szöveteket nagyrészt megkíméli). Ezzel az eljárással a kutyák 50%-a 1 évvel a kezelés után is életben volt. Azonban ezek az eredmények kis esetszámon (legfeljebb 17 kutya) alapulnak, és nagyobb populáción történő megerősítést igényelnek.</li>
 <li>A legjobb eredményeket a sebészet és sugárkezelés kombinációja adta: ebben az esetben a kiújulás 32%-ban fordult elő, és az átlagos túlélési idő meghaladta a 2 évet.</li>
 </ul>
 
@@ -76,10 +76,10 @@ $lang["cancer_tumorType_fibrosarcomaOral_treatment"] =
 <p>A hipertermia önmagában nem jelent előnyt a krioterápiához képest, főként a sugárkezelés kiegészítéseként alkalmazzák.</p>
 
 <h3>Kemoterápia</h3>
-<p>Nincs elegendő bizonyíték arra, hogy a kiegészítő kemoterápia hatékonyan megelőzné az áttétek kialakulását.</p>";
+<p>Nincs elegendő bizonyíték arra, hogy a kiegészítő kemoterápia hatékonyan megelőzné a kiújulást vagy az áttétek kialakulását.</p>";
 
 $lang["cancer_tumorType_fibrosarcomaOral_prognosis"] = 
-"<p>A szájüregi fibroszarkómák prognózisa visszafogott. Ezek a daganatok helyileg rendkívül agresszívek, és a helyi kontroll gyakran nagyobb kihívás, mint az áttétek kezelése. Az áttétek az esetek 19–22%-ában a nyirokcsomókban, legfeljebb 27%-ban pedig a tüdőben jelennek meg.</p>
+"<p>A szájüregi fibroszarkómák prognózisa kétes. Ezek a daganatok helyileg rendkívül agresszívek, és a helyi kontroll gyakran nagyobb kihívás, mint az áttétek kezelése. Az áttétek az esetek 19–22%-ában a nyirokcsomókban, legfeljebb 27%-ban pedig a tüdőben jelennek meg.</p>
 
 <p>Minél nagyobb a daganat, annál kedvezőtlenebb a prognózis.</p>";
 
@@ -98,3 +98,4 @@ $lang["cancer_tumorType_fibrosarcomaOral_carousel_2"] = "Fibroszarkóma a lágys
 
 
 ?>
+
