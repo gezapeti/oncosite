@@ -2,7 +2,7 @@
 
 $lang["cancer_tumorType_fibrosarcomaSkin_summary_location"] = "Kötőszövetes (bőr alatti vagy bőrbeli) szövet";
 $lang["cancer_tumorType_fibrosarcomaSkin_summary_behavior"] = "Lassan növekszik a környező szövetekbe, ritkán képez áttéteket";
-$lang["cancer_tumorType_fibrosarcomaSkin_summary_diagnosis"] = "Citológia, hisztológia, röntgenvizsgálat";
+$lang["cancer_tumorType_fibrosarcomaSkin_summary_diagnosis"] = "Citológia, kórszövettan, röntgenvizsgálat";
 $lang["cancer_tumorType_fibrosarcomaSkin_summary_treatment"] = "Sebészi beavatkozás, (kemoterápia, sugárterápia)";
 $lang["cancer_tumorType_fibrosarcomaSkin_summary_prognosis"] = "Teljes kimetszés esetén nagyon kedvező";
 
@@ -10,18 +10,18 @@ $lang["cancer_tumorType_fibrosarcomaSkin_location"] =
 "<p>Ez a daganattípus a bőrben vagy a bőr alatti kötőszövetben helyezkedik el, leggyakrabban a törzsön, az emlőmirigyek környékén, a végtagokon és a fejen.</p>";
 
 $lang["cancer_tumorType_fibrosarcomaSkin_characteristics"] = 
-"<h3>Viselkedés</h3>
-<p>Ezek a daganatok lassan növekednek, gyakran tokosnak tűnnek, lehetnek puhák vagy kemények, és beszűrhetik a környező szöveteket. Sebészi eltávolításukat követően gyakori a kiújulás. Ha áttétek alakulnak ki, azok többnyire a véráramon keresztül terjednek (helyi nyirokcsomókban ritkán jelennek meg).</p>
+"<h3>Klinikai viselkedés</h3>
+<p>Ezek a daganatok lassan növekednek, gyakran tokkal körülhatároltnak tünhetnek. Tapintatuk lehet puha vagy kemény, és beszűrhetik a környező szöveteket. Inkomplett sebészi eltávolításuk esetén később gyakori a kiújulás. Ha áttétek alakulnak ki, azok többnyire a véráramon keresztül terjednek (helyi nyirokcsomókban ritkán jelennek meg).</p>
 
 <h3>Fajtahajlam</h3>
 <p>Ez a daganattípus elsősorban nagytestű kutyákban fordul elő, de általánosságban nincs erős fajtahajlam.</p>
 
 <h3>Tünetek</h3>
-<p>A daganat lassan növekszik, és általában fájdalmatlan duzzanatot képez. A tünetek a daganat helyétől és beszűrtségétől függenek (például egy csontba hatoló vagy az ujjak hajlítását akadályozó daganat sántaságot okozhat). Gyakoriak a „szatellit” elváltozások is, vagyis a fő daganat közelében megjelenő újabb csomók, melyek a daganat által kifejtett helyi nyomás következtében alakulnak ki, mivel a daganat a legkisebb ellenállás irányába terjed.</p>";
+<p>A daganat lassan növekszik, és általában fájdalmatlan duzzanatot képez. A tünetek a tumor helyétől és beszűrtségétől függenek (például egy csontba hatoló vagy az ujjak hajlítását akadályozó daganat sántaságot okozhat). Gyakoriak a „szatellit” elváltozások is, vagyis a fő daganat közelében megjelenő újabb csomók, melyek a daganat által kifejtett helyi nyomás következtében alakulnak ki, mivel a tumor a legkisebb ellenállás irányába terjed.</p>";
 
 $lang["cancer_tumorType_fibrosarcomaSkin_diagnosis"] = 
-"<h3>Vékonytű-aspiráció</h3>
-<p>Minden esetben ajánlott mintát venni a szövettömegből, hogy meg lehessen különböztetni a daganatokat az egyéb, hasonló megjelenésű elváltozásoktól (például zsírcsomók, tokkal körülvett folyadékgyülemek, gyulladások, tályogok). A fibrosarcomák természete azonban megtévesztő lehet, és az aspirációs minták álnegatív eredményt adhatnak. Ha daganatsejteket találnak a mintában, az megerősíti a daganatos eredetet. Ha nem találnak ráksejteket, az még nem zárja ki a daganat jelenlétét.</p>
+"<h3>Vékonytű-aspiráció/citológia</h3>
+<p>Minden esetben ajánlott mintát venni a szövetszaporulatból, hogy meg lehessen különböztetni a daganatot az egyéb, hasonló megjelenésű elváltozásoktól (például zsírcsomók, tokkal körülvett folyadékgyülemek, gyulladások, tályogok). A fibrosarcomák természete azonban megtévesztő lehet, és az aspirációs minták ál-negatív eredményt adhatnak. Ha daganatsejteket találnak a mintában, az megerősíti a neoplasztikus eredetet. Ha nem találnak ráksejteket, az még nem zárja ki a daganat jelenlétét.</p>
 
 <h3>Szövettani minta</h3>
 <p>A végleges diagnózishoz biopsziára van szükség. A szövetmintát nagy tűvel vett kis minta, részleges kimetszés vagy a daganat teljes eltávolítása útján lehet beszerezni.</p>
@@ -78,3 +78,4 @@ $lang["cancer_tumorType_fibrosarcomaSkin_references"] =
 $lang["cancer_tumorType_fibrosarcomaSkin_carousel_1"] = "Ezek általában lassan növő, fájdalmatlan csomók. A daganat helyétől és invazivitásától függően helyi tünetek jelentkezhetnek (például a csontba hatoló vagy az ujjak mozgását akadályozó daganat sántaságot okozhat). Gyakoriak az ún. szatellit elváltozások is, mivel a fibrosarcomák a legkisebb ellenállás irányába terjednek. Ha a bőr feszül, a daganat ettől távolabb terjed.</p>";
 
 ?>
+
