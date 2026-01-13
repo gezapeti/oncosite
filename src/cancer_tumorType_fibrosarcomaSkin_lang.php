@@ -30,22 +30,22 @@ $lang["cancer_tumorType_fibrosarcomaSkin_diagnosis"] =
 <p>A tüdőáttétek kizárása érdekében ajánlott mellkasi röntgenfelvételt készíteni. A primer daganat helyéről készült röntgen, ultrahang, CT vagy MRI felvétel szükséges lehet, ha a tumor az alatta fekvő struktúrákat is érinti, és meg akarjuk határozni annak mértékét. Ez segít a műtéti tervezésben. Ismeretes, hogy ultrahang alapján az esetek 19%-ában, CT vizsgálat alapján pedig 65%-ában szükséges nagyobb sebszélt alkalmazni.</p>
 
 <h3> \"Grade\" besorolás</h3>
-<p>A hagyományos hisztopatológiai vizsgálat során nem mindig könnyű a fibrosarcomát más daganattípusoktól megkülönböztetni. Ezért néha szükséges olyan ellenanyagokat alkalmazni, amelyek a fibrosarcomákra jellemző markerekhez kötődnek. Ha ezek a markerek a vizsgált szövethez kötődnek, nagy a valószínűsége, hogy fibrosarcomáról van szó. A szövettani grádust a differenciáltság (mennyire felismerhetők a szöveti elemek), az osztódási index (milyen mértékben szaporodnak a ráksejtek) és a nekrózis (szövetelhalás) alapján határozzák meg. Minél kevésbé differenciált a szövet, és minél magasabb az osztódási index és a nekrózis mértéke, annál rosszabb a prognózis.</p>
+<p>A hagyományos kórszövettani vizsgálat során nem mindig könnyű a fibrosarcomát más daganattípusoktól megkülönböztetni. Ezért időnként szükséges olyan ellenanyagokat alkalmazni, amelyek a fibrosarcomákra jellemző markerekhez kötődnek a szövettani mintán. Ha ezek a markerek a vizsgált szövethez kötődnek, nagy a valószínűsége, hogy fibrosarcomáról van szó. A szövettani \"Grade\" besorolást a differenciáltság (mennyire felismerhetők a szöveti elemek), az osztódási index (milyen mértékben szaporodnak a ráksejtek) és a nekrózis (szövetelhalás) alapján határozzák meg. Minél kevésbé differenciált a szövet, és minél magasabb az osztódási index valamint a nekrózis mértéke, annál rosszabb a kórjóslat.</p>
 
 <table class='inline-table'>
-<tr><th>Grádus</th><th>Pontszám</th><th>Differenciáltsági pont</th><th>Mitózis pontszám (mitózis/látómező)</th><th>Szövetelhalás</th></tr>                
-<tr><td>1. grádus</td><td><=3</td><td>1 = jól differenciált</td><td>1 = 0-9</td><td>1 = nincs jelen</td></tr>
-<tr><td>2. grádus</td><td>4-5</td><td>2 = közepesen differenciált</td><td>2 = 10-19</td><td>2 = <=50%</td></tr>
-<tr><td>3. grádus</td><td>>=6</td><td>3 = rosszul differenciált</td><td>3 = >19</td><td>3 = >50%</td></tr>
+<tr><th>Grade</th><th>Pontszám</th><th>Differenciáltsági pont</th><th>Mitózis pontszám (mitózis/látómező)</th><th>Szövetelhalás</th></tr>                
+<tr><td>1. grade</td><td><=3</td><td>1 = jól differenciált</td><td>1 = 0-9</td><td>1 = nincs jelen</td></tr>
+<tr><td>2. grade</td><td>4-5</td><td>2 = közepesen differenciált</td><td>2 = 10-19</td><td>2 = <=50%</td></tr>
+<tr><td>3. grade</td><td>>=6</td><td>3 = rosszul differenciált</td><td>3 = >19</td><td>3 = >50%</td></tr>
 </table>";
 
 $lang["cancer_tumorType_fibrosarcomaSkin_treatment"] = 
 "<h3>Sebészi beavatkozás</h3>
-<p>A fibrosarcomák esetében széles kimetszési margóval javasolt műtétet végezni (minimum 3 cm és 1–2 szövetréteg). Ha egy nem teljesen eltávolított fibrosarcoma kiújul, ismételt műtét vagy sugárkezelés ajánlott. Teljes kimetszés és áttétmentesség esetén a kutya gyógyultnak tekinthető.
+<p>A fibrosarcomák esetében széles kimetszési margóval javasolt műtétet végezni (minimum 3 cm széles és 1–2 izompólya mély réteg). Ha egy nem teljesen eltávolított fibrosarcoma kiújul, ismételt műtét vagy sugárkezelés ajánlott. Teljes kimetszés és áttétmentesség esetén a kutya gyógyultnak tekinthető.
 Ha a daganat reagál a kemoterápiára, annak hatása általában rövid ideig tart.</p>
 
 <h3>Kemoterápia</h3>
-<p>Kemoterápia palliatív kezelésként javasolt bizonyos méretű és 3-as grádusú fibrosarcomák esetén. Az áttétes fibrosarcomákat doxorubicinnel és más kemoterápiás szerekkel kezelték, és mérhető eredményeket értek el. Azonban a mikroszkopikus áttétekre gyakorolt hatása, illetve az, hogy képes-e késleltetni vagy megelőzni a kiújulást, nem ismert.  
+<p>Kemoterápia palliatív kezelésként javasolt bizonyos méretű, és 3-as graditású fibrosarcomák esetén. Az áttétes fibrosarcomákat doxorubicinnel és más kemoterápiás szerekkel kezelték, és mérhető eredményeket értek el. Azonban a mikroszkopikus áttétekre gyakorolt hatása, illetve az, hogy képes-e késleltetni vagy megelőzni a kiújulást, nem ismert.  
 Ha a daganat reagál a kemoterápiára, ez a hatás általában rövid ideig tart.</p>
 
 <h3>Sugárterápia</h3>
@@ -53,11 +53,11 @@ Ha a daganat reagál a kemoterápiára, ez a hatás általában rövid ideig tar
 ";
 
 $lang["cancer_tumorType_fibrosarcomaSkin_prognosis"] = 
-"<p>Általánosságban a primer daganat okoz több problémát, mint az áttétek. A daganat mérete, grádusa és a kimetszés teljessége befolyásolja a műtéti kezelés sikerét. A nagyobb, magas grádusú és nem teljesen eltávolított daganatoknál nagyobb a kiújulás esélye, mint a kisebb, alacsony grádusú, teljesen kimetszett daganatoknál. Ha a daganat nem kerül teljes eltávolításra, az esetek 20–35%-ában (magasabb grádusúaknál ennél is gyakrabban) visszatér ugyanazon a helyen. A kiújuló daganatokat nehezebb kezelni, gyorsabban növekednek, és nagyobb a metasztázis-kockázatuk. Ha a műtét után 12 hónappal nincs kiújulás, az később már nem valószínű.</p>
+"<p>Általánosságban a primer daganat okoz több problémát, mint az áttétek. A daganat mérete, graditása és a kimetszés teljessége befolyásolja a műtéti kezelés sikerét. A nagyobb, magasabb rosszindulatúsági fokú és nem teljesen eltávolított daganatoknál nagyobb a kiújulás esélye, mint a kisebb, alacsony graditású, teljesen kimetszett tumoroknál. Ha a szövetszaporulat nem kerül teljes eltávolításra, az esetek 20–35%-ában (magasabb graditásnál eennél is gyakrabban) visszatér ugyanazon a helyen. A kiújuló daganatokat nehezebb kezelni, gyorsabban növekednek, és nagyobb a metasztázis-kockázatuk. Ha a műtét után 12 hónappal nincs kiújulás, az később már nem valószínű.</p>
 <ul>
-<li>Az I. grádusú szarkómáknál a legkisebb a kiújulási kockázat. Teljes kimetszés után ritkán térnek vissza. Szűkebb margó esetén is csak a kutyák 7%-ánál újul ki. Az áttétek ritkák.</li>
-<li>A II. grádusú szarkómák teljes kimetszés után szintén ritkán térnek vissza, de ha a margók nem teljesek, az esetek 35%-ában és gyorsabban kiújulnak, mint az I. grádusúak.</li>
-<li>A III. grádusú fibrosarcomák a legritkábbak, ugyanakkor a legnagyobb kiújulási és áttétképzési hajlammal rendelkeznek.</li>
+<li>Az I. graditású daganatoknál a legkisebb a kiújulási kockázat. Teljes kimetszés után ritkán térnek vissza. Szűkebb margó esetén is csak a kutyák 7%-ánál újul ki. Az áttétek ritkák.</li>
+<li>A II. graditású tumorok teljes kimetszés után szintén ritkán térnek vissza, de ha a margók nem teljesek, az esetek 35%-ában és gyorsabban kiújulnak, mint az I. grádusúak.</li>
+<li>A III. graditású fibrosarcomák a legritkábbak, ugyanakkor a legnagyobb kiújulási és áttétképzési hajlammal rendelkeznek.</li>
 </ul>
 
 <p>Önálló sugárkezelés esetén 50 Gy összdózis mellett az esetek 67%-ában 1 év múlva, és 20–33%-ában 2 év múlva nem tapasztalható kiújulás.  
@@ -75,9 +75,10 @@ $lang["cancer_tumorType_fibrosarcomaSkin_references"] =
 <li>HiLo orális fibrosarcoma: Frank Verstraete & Nadine Meertens – Onkológiai Találkozó 2019</li>
 </ol>";
 
-$lang["cancer_tumorType_fibrosarcomaSkin_carousel_1"] = "Ezek általában lassan növő, fájdalmatlan csomók. A daganat helyétől és invazivitásától függően helyi tünetek jelentkezhetnek (például a csontba hatoló vagy az ujjak mozgását akadályozó daganat sántaságot okozhat). Gyakoriak az ún. szatellit elváltozások is, mivel a fibrosarcomák a legkisebb ellenállás irányába terjednek. Ha a bőr feszül, a daganat ettől távolabb terjed.</p>";
+$lang["cancer_tumorType_fibrosarcomaSkin_carousel_1"] = "Ezek általában lassan növő, fájdalmatlan csomók. A daganat helyétől és invazivitásától függően helyi tünetek jelentkezhetnek (például a csontba hatoló vagy az ujjak mozgását akadályozó daganat sántaságot okozhat). Gyakoriak az ún. szatellit elváltozások is, mivel a fibrosarcomák a legkisebb ellenállás irányába növekednek. Ha a bőr feszül, a daganat ettől távolabb terjed tovább.</p>";
 
 ?>
+
 
 
 
