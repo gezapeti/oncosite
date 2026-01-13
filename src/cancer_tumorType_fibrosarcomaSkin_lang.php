@@ -29,7 +29,7 @@ $lang["cancer_tumorType_fibrosarcomaSkin_diagnosis"] =
 <h3>Képalkotás</h3>
 <p>A tüdőáttétek kizárása érdekében ajánlott mellkasi röntgenfelvételt készíteni. A primer daganat helyéről készült röntgen, ultrahang, CT vagy MRI felvétel szükséges lehet, ha a tumor az alatta fekvő struktúrákat is érinti, és meg akarjuk határozni annak mértékét. Ez segít a műtéti tervezésben. Ismeretes, hogy ultrahang alapján az esetek 19%-ában, CT vizsgálat alapján pedig 65%-ában szükséges nagyobb sebszélt alkalmazni.</p>
 
-<h3>"Grade" besorolás</h3>
+<h3> \"Grade\" besorolás</h3>
 <p>A hagyományos hisztopatológiai vizsgálat során nem mindig könnyű a fibrosarcomát más daganattípusoktól megkülönböztetni. Ezért néha szükséges olyan ellenanyagokat alkalmazni, amelyek a fibrosarcomákra jellemző markerekhez kötődnek. Ha ezek a markerek a vizsgált szövethez kötődnek, nagy a valószínűsége, hogy fibrosarcomáról van szó. A szövettani grádust a differenciáltság (mennyire felismerhetők a szöveti elemek), az osztódási index (milyen mértékben szaporodnak a ráksejtek) és a nekrózis (szövetelhalás) alapján határozzák meg. Minél kevésbé differenciált a szövet, és minél magasabb az osztódási index és a nekrózis mértéke, annál rosszabb a prognózis.</p>
 
 <table class='inline-table'>
@@ -78,5 +78,6 @@ $lang["cancer_tumorType_fibrosarcomaSkin_references"] =
 $lang["cancer_tumorType_fibrosarcomaSkin_carousel_1"] = "Ezek általában lassan növő, fájdalmatlan csomók. A daganat helyétől és invazivitásától függően helyi tünetek jelentkezhetnek (például a csontba hatoló vagy az ujjak mozgását akadályozó daganat sántaságot okozhat). Gyakoriak az ún. szatellit elváltozások is, mivel a fibrosarcomák a legkisebb ellenállás irányába terjednek. Ha a bőr feszül, a daganat ettől távolabb terjed.</p>";
 
 ?>
+
 
 
