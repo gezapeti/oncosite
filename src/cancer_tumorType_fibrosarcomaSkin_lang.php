@@ -14,22 +14,22 @@ $lang["cancer_tumorType_fibrosarcomaSkin_characteristics"] =
 <p>Ezek a daganatok lassan növekednek, gyakran tokkal körülhatároltnak tünhetnek. Tapintatuk lehet puha vagy kemény, és beszűrhetik a környező szöveteket. Inkomplett sebészi eltávolításuk esetén később gyakori a kiújulás. Ha áttétek alakulnak ki, azok többnyire a véráramon keresztül terjednek (helyi nyirokcsomókban ritkán jelennek meg).</p>
 
 <h3>Fajtahajlam</h3>
-<p>Ez a daganattípus elsősorban nagytestű kutyákban fordul elő, de általánosságban nincs erős fajtahajlam.</p>
+<p>Ez a daganattípus elsősorban nagytestű kutyákban fordul elő, de fajtahajlam nem ismeretes.</p>
 
 <h3>Tünetek</h3>
-<p>A daganat lassan növekszik, és általában fájdalmatlan duzzanatot képez. A tünetek a tumor helyétől és beszűrtségétől függenek (például egy csontba hatoló vagy az ujjak hajlítását akadályozó daganat sántaságot okozhat). Gyakoriak a „szatellit” elváltozások is, vagyis a fő daganat közelében megjelenő újabb csomók, melyek a daganat által kifejtett helyi nyomás következtében alakulnak ki, mivel a tumor a legkisebb ellenállás irányába terjed.</p>";
+<p>A tumor lassan növekszik, és általában fájdalmatlan duzzanatot képez. A tünetek a daganat helyétől és kiterjedésétől függnek (például egy csontba hatoló vagy az ujjak hajlítását akadályozó szövetszaporulat sántaságot okozhat). Gyakoriak az ún. „szatellit” elváltozások is, vagyis az elsődleges tumor közelében megjelenő újabb csomók. Ezek a gócok a daganat által kifejtett helyi nyomás következtében alakulnak ki, mivel a tumor a legkisebb ellenállás irányába növekedik.</p>";
 
 $lang["cancer_tumorType_fibrosarcomaSkin_diagnosis"] = 
 "<h3>Vékonytű-aspiráció/citológia</h3>
 <p>Minden esetben ajánlott mintát venni a szövetszaporulatból, hogy meg lehessen különböztetni a daganatot az egyéb, hasonló megjelenésű elváltozásoktól (például zsírcsomók, tokkal körülvett folyadékgyülemek, gyulladások, tályogok). A fibrosarcomák természete azonban megtévesztő lehet, és az aspirációs minták ál-negatív eredményt adhatnak. Ha daganatsejteket találnak a mintában, az megerősíti a neoplasztikus eredetet. Ha nem találnak ráksejteket, az még nem zárja ki a daganat jelenlétét.</p>
 
 <h3>Szövettani minta</h3>
-<p>A végleges diagnózishoz biopsziára van szükség. A szövetmintát nagy tűvel vett kis minta, részleges kimetszés vagy a daganat teljes eltávolítása útján lehet beszerezni.</p>
+<p>A végleges diagnózishoz biopsziára lehet szükség. A szövetminta nagy biopsziás tűvel (ún. tru-cut), részleges kimetszéssel (incízió) vagy a daganat teljes eltávolítása útján (excízió) nyerhető.</p>
 
 <h3>Képalkotás</h3>
-<p>A tüdőáttétek kizárása érdekében ajánlott mellkasi röntgenfelvételt készíteni. A primer daganat helyéről készült röntgen, ultrahang, CT vagy MRI felvétel szükséges lehet, ha a daganat az alatta fekvő struktúrákat is érinti, és meg akarjuk határozni, milyen mértékben. Ez segít a műtéti tervezésben. Ismert, hogy ultrahang alapján az esetek 19%-ában, CT alapján pedig 65%-ában szükséges nagyobb kimetszési margót alkalmazni.</p>
+<p>A tüdőáttétek kizárása érdekében ajánlott mellkasi röntgenfelvételt készíteni. A primer daganat helyéről készült röntgen, ultrahang, CT vagy MRI felvétel szükséges lehet, ha a tumor az alatta fekvő struktúrákat is érinti, és meg akarjuk határozni annak mértékét. Ez segít a műtéti tervezésben. Ismeretes, hogy ultrahang alapján az esetek 19%-ában, CT vizsgálat alapján pedig 65%-ában szükséges nagyobb sebszélt alkalmazni.</p>
 
-<h3>Grádusbesorolás</h3>
+<h3>"Grade" besorolás</h3>
 <p>A hagyományos hisztopatológiai vizsgálat során nem mindig könnyű a fibrosarcomát más daganattípusoktól megkülönböztetni. Ezért néha szükséges olyan ellenanyagokat alkalmazni, amelyek a fibrosarcomákra jellemző markerekhez kötődnek. Ha ezek a markerek a vizsgált szövethez kötődnek, nagy a valószínűsége, hogy fibrosarcomáról van szó. A szövettani grádust a differenciáltság (mennyire felismerhetők a szöveti elemek), az osztódási index (milyen mértékben szaporodnak a ráksejtek) és a nekrózis (szövetelhalás) alapján határozzák meg. Minél kevésbé differenciált a szövet, és minél magasabb az osztódási index és a nekrózis mértéke, annál rosszabb a prognózis.</p>
 
 <table class='inline-table'>
@@ -78,4 +78,5 @@ $lang["cancer_tumorType_fibrosarcomaSkin_references"] =
 $lang["cancer_tumorType_fibrosarcomaSkin_carousel_1"] = "Ezek általában lassan növő, fájdalmatlan csomók. A daganat helyétől és invazivitásától függően helyi tünetek jelentkezhetnek (például a csontba hatoló vagy az ujjak mozgását akadályozó daganat sántaságot okozhat). Gyakoriak az ún. szatellit elváltozások is, mivel a fibrosarcomák a legkisebb ellenállás irányába terjednek. Ha a bőr feszül, a daganat ettől távolabb terjed.</p>";
 
 ?>
+
 
