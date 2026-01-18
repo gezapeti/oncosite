@@ -2,37 +2,37 @@
 
 $lang["cancer_tumorType_gastricCarcinoma_summary_location"] = "Gyomorfal";
 $lang["cancer_tumorType_gastricCarcinoma_summary_behavior"] = "Gyakran ad áttétet";
-$lang["cancer_tumorType_gastricCarcinoma_summary_diagnosis"] = "Vérvizsgálat, képalkotás, gasztroszkópiás mintavétel histológiai vizsgálattal";
+$lang["cancer_tumorType_gastricCarcinoma_summary_diagnosis"] = "Vérvizsgálat, képalkotás, gasztroszkópiás mintavétel kórszövettani vizsgálattal";
 $lang["cancer_tumorType_gastricCarcinoma_summary_treatment"] = "Sebészet, sugárkezelés, étrend módosítása";
-$lang["cancer_tumorType_gastricCarcinoma_summary_prognosis"] = "Korlátozott";
+$lang["cancer_tumorType_gastricCarcinoma_summary_prognosis"] = "Kétes kórjóslat";
 
 $lang["cancer_tumorType_gastricCarcinoma_location"] = 
-"<p>A gyomor adenokarcinómája a gyomorfalból kiinduló daganat. Az adenokarcinóma a leggyakoribb gyomordaganat (70-80%), és a daganat külsőleg kemény képletet képez a gyomor falán. Ez a daganat nyomást gyakorolhat a gyomortartalomra és/vagy beszűrheti a falat.</p>";
+"<p>A gyomor adenokarcinómája a gyomorfalból kiinduló tumor. Az adenokarcinóma a leggyakoribb gyomordaganat (70-80%), mely külsőleg kemény képletet képez a gyomor falán. A szövetszaporulat nyomást gyakorolhat a gyomortartalomra és/vagy beszűrheti a falat, akadályozva ezzel a tartalom tovahaladását.</p>";
 
 $lang["cancer_tumorType_gastricCarcinoma_characteristics"] = 
-"<h3>Viselkedés</h3>
+"<h3>Klinikai viselkedés</h3>
 <p>A gyomor adenokarcinómája a gyomorfalból kiinduló daganat.</p>  
-<p>Az adenokarcinóma gyakran terjed a közeli nyirokcsomókra, majd a májra és a tüdőre.</p>
+<p>Az adenokarcinóma gyakran ad áttétet a közeli nyirokcsomókba, valamint a májba és a tüdőbe.</p>
 <p>Egyéb lehetséges gyomornövedékek:</p>
 <ul>
-<li>jóindulatú: leiomyomák (izomréteg növedékek) és egyéb növedékek, amelyek csak nagy méret esetén okoznak problémát.</li>  
-<li>rosszindulatú: a gyomor adenokarcinómák mellett előfordulhat gyomorizom-rétegből kiinduló daganat (leiomyosarcoma), fibrosarcoma, illetve immunsejtekből álló daganatok, mint például lymphoma, hízósejt tumor és extra-medulláris plazmocitóma.</li>
+<li>jóindulatú: leiomiómák (izomréteg növedékek) és egyéb szövetszaporulatok, amelyek csak nagy méret esetén okoznak problémát.</li>  
+<li>rosszindulatú: a gyomor adenokarcinómák mellett előfordulhat izom-rétegből kiinduló daganat (leiomioszarkóma), fibroszarkóma, illetve immunsejtekből álló daganatok, mint például limfóma, masztocitóma és extra-medulláris plazmocitóma.</li>
 </ul>
 
 <h3>Előfordulás</h3>
-<p>A gyomorrák viszonylag ritka, az összes rosszindulatú daganat kevesebb mint 1%-át teszi ki. Átlagosan 8 éves korban fordul elő, és a hímeknél gyakoribb. Az izomréteg daganatai (leiomyomák) inkább nagyon idős kutyáknál fordulnak elő (átlagosan 15 éves korban).</p>
+<p>A gyomorrák viszonylag ritka, az összes rosszindulatú daganat kevesebb mint 1%-át teszi ki. Átlagosan 8 éves korban fordul elő, és a hímeknél gyakoribb. Az izomréteg daganatai (leiomiómák) inkább idős kutyáknál fordulnak elő (átlagosan 15 éves korban).</p>
 
-<h3>Fajra való hajlam</h3>
-<p>Magasabb kockázatot jelentették a belga juhászoknál (különösen a belga tervurennél), Chow Chow-oknál, Collie-knál és a norvég Lundehundoknál a többi kutyához képest.</p>
+<h3>Fajtahajlam</h3>
+<p>Magasabb kockázatot tapasztaltak a belga juhászoknál (különösen a belga tervurennél), Chow Chow-oknál, Collie-knál és a norvég Lundehundoknál a többi kutyához képest.</p>
 
 <h3>Tünetek</h3>
-<p>Általában a kutya fokozatosan egyre többet hány. Gyakran véres nyom látható a hányadékban, vagy kávézacc-szerű az állaga. A kutya általában fogy, és/vagy nem akar enni. Ezek a tünetek hetektől hónapokig változhatnak.</p>";
+<p>Általában a kutya fokozatosan egyre többet hány. Gyakran vér nyoma látható a hányadékban, vagy kávézacc-szerű az állaga. A beteg általában fogy, és/vagy étvágytalan. Ezek a tünetek hetektől akár hónapokig eltarthatnak.</p>";
 
 $lang["cancer_tumorType_gastricCarcinoma_diagnosis"] = 
-"<p>Általában egy vérvizsgálat és a hagyományos röntgen nem elegendő a diagnózishoz.</p>
+"<p>Általában egy vérvétellel és röntgennel kezdődik a vizsgálat, de ezek nem elegendőek a diagnózishoz.</p>
 
 <h3>Vérvizsgálat</h3>
-<p>Általánosságban a vérvizsgálat nem ad specifikus bizonyítékot a gyomor adenokarcinómára. Segíthet bizonyos mellékhatások kimutatásában, vagy a daganattípusok elkülönítésében.</p>
+<p>Általánosságban a vérvizsgálat nem ad specifikus bizonyítékot a gyomor adenokarcinómára. Segíthet bizonyos másodlagos folyamatok felderítésében, vagy a daganattípusok elkülönítésében.</p>
 
 <h3>Röntgenvizsgálat</h3>
 <p>A gyomor röntgenfelvételén felfedezhető egy nem odaillő növedék. Gyomorfekély is kimutatható, ami gyakran előfordul adenokarcinómáknál. Esetenként a gyomor lassabban ürül (a kontrasztanyag lassabban mozog).</p>
@@ -69,5 +69,6 @@ $lang["cancer_tumorType_gastricCarcinoma_references"] =
 "<ol>
 <li>Withrow SJ. Gastric Cancer. Withrow and MacEwen's Small Animal Clinical Oncology, 5th edition, Chapter 22 (p 402 - 404).</li>
 </ol>";
+
 
 ?>
