@@ -1,43 +1,43 @@
 <? 
 
-$lang["cancer_tumorType_hemangiosarcomaNonSkin_summary_location"] = "Vérerek";
+$lang["cancer_tumorType_hemangiosarcomaNonSkin_summary_location"] = "Vérerek fala";
 $lang["cancer_tumorType_hemangiosarcomaNonSkin_summary_behavior"] = "Nagyon agresszív";
-$lang["cancer_tumorType_hemangiosarcomaNonSkin_summary_diagnosis"] = "Vérvizsgálat, képalkotó vizsgálatok, hisztológia";
+$lang["cancer_tumorType_hemangiosarcomaNonSkin_summary_diagnosis"] = "Vérvizsgálat, képalkotó vizsgálatok, kórszövettan";
 $lang["cancer_tumorType_hemangiosarcomaNonSkin_summary_treatment"] = "Műtét és kiegészítő kemoterápia, sugárkezelés";
-$lang["cancer_tumorType_hemangiosarcomaNonSkin_summary_prognosis"] = "Nagyon visszafogott";
+$lang["cancer_tumorType_hemangiosarcomaNonSkin_summary_prognosis"] = "Kifejezetten rossz";
 
 $lang["cancer_tumorType_hemangiosarcomaNonSkin_location"] = 
-"<p>A hemangioszarkómák olyan daganatok, amelyek a vérerekből származnak. A daganat olyan sejtekből áll, amelyek a vérereket körvonalazzák, és daganatsejtekké fejlődtek. Ez a daganat lehet bőr alatti vagy bőrt érintő, de megtalálható belső szervekben is, mint a szív, a lép és a máj. Elhelyezkedésüktől függően a hemangioszarkómák különböző viselkedést mutatnak (kevésbé vagy erősen malignusak). A legnagyobb különbség a (bőr) alatti vs. egyéb lokalizációk között figyelhető meg. Általánosságban a kis, jól körülhatárolt bőrdaganatok jobb prognózissal rendelkeznek, mint a többi daganatforma.</p>";
+"<p>A hemangioszarkómák vérerekből, és azok falából származnak. A daganat olyan sejtekből áll, amelyek a vérereket körül veszik. A tumor fejlődhet a bőrben, bőr alatti kötőszövetben, de kialakulhat belső (zsigeri) szervekben is; a szívben, a lépben és a májban. Elhelyezkedésüktől függően a hemangioszarkómák különböző viselkedést mutatnak (kevésbé vagy erősen rosszindulatúak). A legnagyobb különbség a bőr/ bőr alatti, valamint zsigeri lokalizációk között figyelhető meg. Általánosságban a kis méretű, jól körülhatárolt bőrdaganatok jobb prognózissal rendelkeznek, mint a többi megjelenési forma.</p>";
 
 $lang["cancer_tumorType_hemangiosarcomaNonSkin_characteristics"] = 
-"<h3>Viselkedés</h3>
-<p>Ez a daganat különösen agresszív, és a diagnózis idején gyakran már áttétek is jelen vannak. A daganat különböző formájú lehet: mérete változó, színe halványszürke, piros vagy lila, állaga puha vagy zselészerű (gyakran tartalmaz vérrel telt vagy nekrózisnak kitett területeket). Ezek a daganatok általában rosszul körülhatároltak, nem kapszulázottak és gyakran más szervekhez tapadnak. A hemangioszarkóma nagyon törékeny daganat, ezért óvatosan kell kezelni. A manipulációk ruptúrát, hasi vérzést, valamint daganatsejtek terjedését okozhatják. Ezek a vérzések gyakran spontán jelentkeznek.</p>
+"<h3>Klinikai viselkedés</h3>
+<p>Ez a daganat különösen agresszív, és a diagnózis idején gyakran már áttétek is jelen vannak. A tumor különböző megjelenésű lehet: mérete változó, színe halványszürke, piros vagy lila, állaga puha vagy rugalmas (gyakran tartalmaz vérrel telt üregeket vagy elhalt területeket). Ezek a daganatok általában rosszul körülhatároltak, tokkal nem rendelkeznek és gyakran más szervekhez tapadnak. A hemangioszarkóma nagyon sérülékeny daganat, ezért óvatosan kell kezelni. A fizikai behatás ruptúrát, hasi vérzést, valamint daganatsejtek szóródását okozhatják. Ezek a vérzések spontán is jelentkezhetnek.</p>
 
 <h3>Előfordulás</h3>
-<p>Ez a daganattípus leginkább középkorú kutyákban fordul elő, de 3 év alatti kutyákban is megjelenhet.</p> 
+<p>Ez a daganattípus leginkább középkorú kutyákban fordul elő, de 3 év alatt is megjelenhet.</p> 
 
 <h3>Fajta hajlam</h3>
 <p>Nagyobb kockázatot jelent a hemangioszarkóma kialakulása német juhász, golden retriever és labrador retriever fajtáknál más kutyafajtákhoz képest.</p>
 
 <h3>Tünetek</h3>
-<p>A tünetek a daganat helyétől függően nagyon változatosak lehetnek. Előfordulhatnak általános diszkomfort tünetek, hasi duzzanat más tünetek nélkül, de hirtelen összeesés és súlyos vérzés miatti halál is.</p>
+<p>A tünetek a daganat helyétől függően nagyon változatosak lehetnek. Előfordulhatnak általános diszkomfort panaszok, hasi duzzanat más tünetek nélkül, de hirtelen összeesés és súlyos vérzés miatt akár halál is.</p>
 <p>Ha a hemangioszarkóma a hasban található, gyakori tünet a hirtelen gyengeség vagy összeesés. Ezt előzhetik átmeneti gyengeségi epizódok, amelyekből a kutya 12–36 órán belül spontán felépül. Más, kevésbé jellegzetes tünetek lehetnek a fogyás és az étvágytalanság.</p>
 <p>Ha a hemangioszarkóma a szívben van, a kutya könnyen kifárad, nehezebben lélegzik, és a hasban szabad folyadék halmozódik fel.</p>
-<p>A fizikai vizsgálat során sápadt nyálkahártyák, megnövekedett szívfrekvencia és esetleg hasi massza figyelhető meg. A szívhangok tompábbak lehetnek a daganat jelenléte miatt.</p>";
+<p>A fizikai vizsgálat során sápadt nyálkahártyák, megnövekedett szívfrekvencia és esetleg hasi szövetszaporulat figyelhető meg. A szívhangok tompábbak lehetnek a tumor jelenléte miatt.</p>";
 
 $lang["cancer_tumorType_hemangiosarcomaNonSkin_diagnosis"] = 
-"<p>Az állapotfelméréshez a következő vizsgálatok szükségesek: vérvizsgálat, koagulációs teszt, mellkas- és hasi képalkotás, szív ultrahang, esetleg szabad hasi folyadék punkciója.</p>
+"<p>Az állapotfelméréshez a következő vizsgálatok szükségesek: vérvizsgálat, véralvadás teszt, mellkas- és hasi képalkotás, szív ultrahang, esetleg szabad hasi folyadék punkciója.</p>
 <h3>Vérvizsgálat</h3>
-<p>A vérvizsgálat gyakran anémiát és károsodott vörösvértesteket mutat. Szükség lehet a kutya vércsoportjának ellenőrzésére vérátömlesztés előtt. Az esetek 75–97%-ában a vérlemezkék mennyisége enyhe vagy súlyos hiányt mutat. Specifikus koagulációs tesztek segítségével megállapítható, hogy vannak-e specifikus problémák, és milyen kockázata van a kutyának súlyos szövődmények kialakulására.</p>
+<p>A vérvizsgálat gyakran anémiát és károsodott vörösvértestek jelenlétét tárja fel. Amennyiben vérátömlesztés szükséges, fontos lehet a kutya vércsoportjának ellenőrzésére előtte. Az esetek 75–97%-ában a vérlemezkék enyhe vagy súlyos mértékben hiányozhatnak. Specifikus koagulációs tesztek segítségével megállapítható, hogy vannak-e véralvadási problémák, és milyen kockázata van a beavatkozások során szövődmények kialakulására.</p>
 
 <h3>Szabad hasi folyadék punkciója</h3>
-<p>A hasi szabad folyadék punkciója többnyire véres folyadékot ad. A folyadékban található sejtek vizsgálata (citológia) ritkán vezet diagnózishoz, mivel a folyadék nagyon híg és a daganatsejtek könnyen kimaradhatnak.</p>
+<p>A hasi szabad folyadék punkciója többnyire vér jelenlétét igazolja. A folyadékban található sejtek vizsgálata (citológia) ritkán vezet diagnózishoz, mivel a folyadék nagyon híg és tumorsejteket gyéren tartalmaz.</p>
 
 <h3>Röntgen és ultrahang</h3>
-<p>Műtét előtt ellenőrizni kell az áttétek jelenlétét (mindig készítendő mellkasröntgen). A hasi röntgen a lépben, májban vagy más hasi területeken lévő masszát mutathat. A hasi ultrahang szükséges a daganatok jelenlétének megerősítésére. A hasban lévő szabad folyadék zavarhatja a röntgenfelvételt, de az ultrahangot nem. A szív ultrahangja segítségével ellenőrizhető a daganat jelenléte a jobb szívfülön (kb. 9%-ban fordul elő hemangioszarkómás kutyáknál).</p>
+<p>Műtét előtt ellenőrizni kell az áttétek jelenlétét (mindig készítendő mellkasröntgen). A hasi röntgen a lépben, májban vagy más hasi területeken lévő nagy méretű elváltozást mutathatja. Hasi ultrahang szükséges a szövetszaporulat jelenlétének megerősítésére. A hasban lévő szabad folyadék zavarhatja a röntgenfelvételt, az ultrahangot kevésbé. A szív ultrahangja segítségével ellenőrizhető a daganat jelenléte a jobb szívfülön (kb. 9%-ban fordul elő hemangioszarkómás kutyáknál).</p>
 
 <h3>Biopszia</h3>
-<p>A diagnózis felállításához műtéti biopszia szükséges. A hisztológia segítségével megállapítható a daganattípus. Ha ez a szövet megjelenése alapján nem lehetséges, több marker alkalmazható a szövet típusának meghatározására (Von Willebrand VIII faktor, CD31/PECAM, claudin-5, CD117).</p>
+<p>A diagnózis felállításához szövettan szükséges. Ennek segítségével megállapítható a daganattípus. Ha a rutin festési eljárás alapján nem egyértelmű a diagnózis, több speciális marker alkalmazható a detektált burjánzás típusának meghatározására (Von Willebrand VIII faktor, CD31/PECAM, claudin-5, CD117).</p>
 
 <h3>Staging</h3>
 <h4>Staging rendszer</h4>
@@ -85,5 +85,6 @@ $lang["cancer_tumorType_hemangiosarcomaNonSkin_references"] =
 $lang["cancer_tumorType_hemangiosarcomaNonSkin_carousel_1"] = "A bal váll mögött látható kidudorodás egy hemangioszarkóma.";
 $lang["cancer_tumorType_hemangiosarcomaNonSkin_carousel_2"] = "A sebész a lépet a bal kezében, a lépdaganatot (nagy gömb) a jobb kezében tartja.";
 $lang["cancer_tumorType_hemangiosarcomaNonSkin_carousel_3"] = "A kutya CT-felvételén a kék kör a hemangioszarkóma méretét mutatja (valamint a bordákon való növekedését).";
+
 
 ?>
