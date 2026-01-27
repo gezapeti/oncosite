@@ -11,7 +11,7 @@ $lang["cancer_tumorType_hemangiosarcomaSkin_location"] =
 
 $lang["cancer_tumorType_hemangiosarcomaSkin_characteristics"] = 
 "<h3>Klinikai viselkedés</h3>
-<p>A hemangioszarkomák a vérerekből származó daganatok. A daganatot olyan sejtek alkotják, amelyek körvonalazzák a vérereket, és rosszindulatú tumoros sejtekké fejlődtek. Ez a daganat előfordulhat bőrben vagy bőr alatti kötőszövetben, de megtalálható a szívben, a lépben és a májban is. Elhelyezkedéstől függően a hemangiosarcomák különböző viselkedést mutatnak (kevésbé vagy erősen rosszindulatú). A legnagyobb különbség a bőrbeni helyerődés és az egyéb lokációk között van. Ezért ezt a daganattípust az elhelyezkedése szerint tárgyaljuk. Általában a kis méretű, a bőrben jól körülhatárolt daganatoknak jobb a prognózisa, mint más daganatformáknak. A hemangiosarcomák az összes kutya daganat 2%-át képviselik.</p>
+<p>A hemangioszarkómák a vérerekből származó daganatok. A daganatot olyan sejtek alkotják, amelyek körvonalazzák a vérereket, és rosszindulatú tumoros sejtekké fejlődtek. Ez a daganat előfordulhat bőrben vagy bőr alatti kötőszövetben, de megtalálható a szívben, a lépben és a májban is. Elhelyezkedéstől függően a hemangioszarkómák különböző viselkedést mutatnak (kevésbé vagy erősen rosszindulatú). A legnagyobb különbség a bőrbeni helyerődés és az egyéb lokációk között van. Ezért ezt a daganattípust az elhelyezkedése szerint tárgyaljuk. Általában a kis méretű, a bőrben jól körülhatárolt daganatoknak jobb a prognózisa, mint más daganatformáknak. A hemangioszarkómák az összes kutya daganat 2%-át képviselik.</p>
 
 <h3>Fajtára jellemző hajlam</h3>
 <p>Nagyobb kockázatot jelentett a Border collie, a Dalmata, a Német juhász, a Golden retriever, a Magyar drótszőrű vizsla, a Labrador retriever, a tacskó és az agár esetében más fajtákhoz képest.</p>
@@ -27,10 +27,10 @@ $lang["cancer_tumorType_hemangiosarcomaSkin_treatment"] =
 A kemoterápia csökkentheti a daganat méretét, így lehetővé téve a sebészeti eltávolítást (ez az opció szükséges lehet, ha a daganat túl nagy a műtéti eltávolításhoz). Amikor a szövetszaporulatot eltávolítják, általában 1–2 cm-es határok (a daganat körüli épnek látszó szövet) elegendőek.</p>";
 
 $lang["cancer_tumorType_hemangiosarcomaSkin_prognosis"] = 
-"<p>Az I. stádiumú bőr hemangiosarcoma: teljes sebészi eltávolítás a biztonsági zónákkal 78%-ban lehetséges. Az esetek 30%-ában áttétek már jelen vannak (a bőrben, bizonyos távolságra az elsődleges daganattól). Az átlagos túlélés 780 nap.</p>
-<p>A II. és III. stádiumban a daganatok csupán 23%-a távolítható el teljesen, mivel ezek nagyobbak és kevésbé jól körülhatároltak (= nehezebben elkülöníthetők a környező szövetektől). II. és III. stádiumban az esetek 60%-ában a áttétek alakulnak ki a tüdőben, a helyi nyirokcsomókban és a bőr távolabbi területein. Ezeknél a kutyáknál a túlélési idő 172–307 nap. A II. és III. stádiumú tumorokat komplexen kezelik (műtét, esetleg kiegészítő radioterápia), a kiegészítő kemoterápia jelentősen növelheti a túlélést (szubkután hemangiosarcoma: 1189 nap; intramuszkuláris hemangiosarcoma: 273 nap).</p>
+"<p>Az I. stádiumú bőr hemangioszarkóma: teljes sebészi eltávolítás a biztonsági zónákkal 78%-ban lehetséges. Az esetek 30%-ában áttétek már jelen vannak (a bőrben, bizonyos távolságra az elsődleges daganattól). Az átlagos túlélés 780 nap.</p>
+<p>A II. és III. stádiumban a daganatok csupán 23%-a távolítható el teljesen, mivel ezek nagyobbak és kevésbé jól körülhatároltak (= nehezebben elkülöníthetők a környező szövetektől). II. és III. stádiumban az esetek 60%-ában a áttétek alakulnak ki a tüdőben, a helyi nyirokcsomókban és a bőr távolabbi területein. Ezeknél a kutyáknál a túlélési idő 172–307 nap. A II. és III. stádiumú tumorokat komplexen kezelik (műtét, esetleg kiegészítő radioterápia), a kiegészítő kemoterápia jelentősen növelheti a túlélést (szubkután hemangioszarkóma: 1189 nap; intramuszkuláris hemangioszarkóma: 273 nap).</p>
 <p>Minél mélyebbre hatol a daganat a bőr alatti szövetekbe, annál rosszabb a kórjóslat.</p>
-<p>Szubkután vagy intramuszkuláris hemangiosarcomák esetén a lokális kiújulás több mint 20%-ban fordul elő, a metasztázisok pedig 42–75%-ban. A műtét és kemoterápia utáni medián túlélési idő kb. 1–1,5 év. Ha a kezelés csak műtéti, a medián túlélési idő 172–307 nap. Csak kemoterápia esetén a medián túlélési idő kb. 133 nap. Palliativ radioterápia esetén kb. 90 nap.</p>";
+<p>Szubkután vagy intramuszkuláris hemangioszarkómák esetén a lokális kiújulás több mint 20%-ban fordul elő, a metasztázisok pedig 42–75%-ban. A műtét és kemoterápia utáni medián túlélési idő kb. 1–1,5 év. Ha a kezelés csak műtéti, a medián túlélési idő 172–307 nap. Csak kemoterápia esetén a medián túlélési idő kb. 133 nap. Palliativ radioterápia esetén kb. 90 nap.</p>";
 
 $lang["cancer_tumorType_hemangiosarcomaSkin_references"] = 
 "<ol>
@@ -43,3 +43,4 @@ $lang["cancer_tumorType_hemangiosarcomaSkin_references"] =
 
 
 ?>
+
