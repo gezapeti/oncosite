@@ -39,18 +39,18 @@ $lang["cancer_tumorType_hemangiosarcomaNonSkin_diagnosis"] =
 <h3>Biopszia</h3>
 <p>A diagnózis felállításához szövettan szükséges. Ennek segítségével megállapítható a daganattípus. Ha a rutin festési eljárás alapján nem egyértelmű a diagnózis, több speciális marker alkalmazható a detektált burjánzás típusának meghatározására (Von Willebrand VIII faktor, CD31/PECAM, claudin-5, CD117).</p>
 
-<h3>Staging</h3>
+<h3>Stádiumba sorolás (Staging)</h3>
 <h4>Staging rendszer</h4>
 <table class='inline-table'>
-<tr><th>Primer daganat (T)</th><th>Nyirokcsomó (N)</th><th>Áttét (M)</th></tr>
-<tr><td>T0 = daganat nincs</td><td>N0 = nincs érintettség</td><td>M0 = nincs áttét bizonyíték</td></tr>
+<tr><th>Primer daganat (T)</th><th>Nyirokcsomó (N)</th><th>Távoli áttét (M)</th></tr>
+<tr><td>T0 = daganat nincs</td><td>N0 = nincs érintettség</td><td>M0 = nincs bizonyított áttét</td></tr>
 <tr><td>T1 <5 cm, 1 helyen</td><td>N1 = lokálisan érintett</td><td>M1 = távoli áttét</td></tr>
 <tr><td>T2 >5 cm vagy megrepedt</td><td>N2 = távolabbi érintettség</td><td></td></tr>
-<tr><td>T3 = a daganat helyi struktúrákat is invazív módon érint</td><td></td><td></td></tr>
+<tr><td>T3 = a daganat helyileg is invazív módon növekedik</td><td></td><td></td></tr>
 </table>
 <h4>Stádiumok</h4>
 <table class='inline-table'>
-<tr><th>Stádium</th><th>Daganat mérete</th><th>Nyirokcsomó állapota</th><th>Áttét</th></tr>
+<tr><th>Stádium</th><th>Daganat mérete</th><th>Nyirokcsomó állapota</th><th>Távoli áttét</th></tr>
 <tr><td>I. stádium</td><td>T0 vagy T1</td><td>N0</td><td>M0</td></tr>
 <tr><td>II. stádium</td><td>T1 vagy T2</td><td>N0 vagy N1</td><td>M0</td></tr>
 <tr><td>III. stádium</td><td>T2 vagy T3</td><td>N0, N1 vagy N2</td><td>M1</td></tr>
@@ -58,21 +58,21 @@ $lang["cancer_tumorType_hemangiosarcomaNonSkin_diagnosis"] =
 
 $lang["cancer_tumorType_hemangiosarcomaNonSkin_treatment"] = 
 "<h3>Műtét</h3>
-<p>A hemangioszarkóma elsődleges kezelési módja a műtét. A műtét megkezdése előtt a kutya vérét ellenőrizni kell rendellenességek szempontjából. Ha eltérések vannak, azokat korrigálni kell.</p>
-<p>Ha a daganat az izmot érinti, nehéz lehet széles határokat biztosítani, és (elhelyezkedéstől függően) amputációra lehet szükség.</p>
-<p>Ha a daganat a lépet érinti, a lépet el kell távolítani, és ellenőrizni kell a hasban esetlegesen jelen lévő más gyanús masszákat a májban vagy a hashártyán. A lép eltávolítása a kutyák 24%-ában szívritmuszavart okoz. Ezeket a ritmuszavarokat posztoperatív ellenőrzés szükséges, általában 24–48 órán belül spontán megszűnnek.</p>
+<p>A hemangioszarkóma elsődleges kezelési módja a műtét. A műtét megkezdése előtt vérvizsgálat szükséges hematológiai rendellenességek feltárására. Ha eltérések vannak, azokat korrigálni kell lehetőség szerint.</p>
+<p>Ha a daganat az izmot érinti, nehéz lehet megfelelően széles sebszéleket biztosítani, és (elhelyezkedéstől függően) amputációra lehet szükség.</p>
+<p>Ha a daganat a lépet érinti, a lépet el kell távolítani, és ellenőrizni kell a hasban esetlegesen jelen lévő más gyanús gócokat a májban vagy a hashártyán. A lép eltávolítása a kutyák 24%-ában szívritmuszavart okoz. Ezeket a ritmuszavarokat posztoperatív ellenőrzés szükséges, általában 24–48 órán belül spontán megszűnnek.</p>
 <p>Ha a daganat a szívet érinti és perikardiális folyadékgyülem alakul ki, a szívfunkció javítható a teljes vagy részleges perikardium eltávolításával.</p>
 
 <h3>Kemoterápia</h3>
-<p>Mivel az áttétképződés kockázata magas és csak műtéttel a prognózis rossz, a kemoterápia mindig ajánlott (ha a hemangioszarkóma nem csak a bőrt érinti). Ez a kombináció átlagosan 6 hónap túlélést eredményez. Leggyakrabban doxorubicint tartalmazó protokollt választanak és/vagy metronómikus kemoterápiát alkalmaznak (alacsony, gyakori dózisú ciklofoszfamid nem gyulladásos szerekkel kombinálva).</p>
+<p>Mivel az áttétképződés kockázata magas és csak műtéttel a prognózis rossz, a kemoterápia mindig ajánlott (ha a hemangioszarkóma nem csak a bőrt érinti). Ez a kombináció átlagosan 6 hónap túlélést eredményez. Leggyakrabban doxorubicint tartalmazó protokollt választanak és/vagy metronómikus kemoterápiát alkalmaznak (alacsony, gyakori dózisú ciklofoszfamid nem-szteroid gyulladáscsökkentő szerekkel kombinálva).</p>
 
 <h3>Sugárkezelés</h3>
-<p>A hemangioszarkómák kezelésére ritkán használják a sugárkezelést az anatómiai elhelyezkedés és a magas áttétképződés miatt. A sugárkezelést palliatív kezelésként is alkalmazzák a panaszok csökkentésére.</p>";
+<p>A hemangioszarkómák kezelésére ritkán használják a sugárkezelést az anatómiai elhelyezkedés és a magas áttétképződés kockázata miatt. A sugárkezelést palliatív kezelésként alkalmazható a panaszok csökkentésére.</p>";
 
 $lang["cancer_tumorType_hemangiosarcomaNonSkin_prognosis"] = 
-"<p>A prognózis a daganat helyétől és klinikai stádiumától függ (minél magasabb a stádium, annál rosszabb a prognózis).</p>
-<p>A lép- vagy májhemangioszarkóma prognózisa nagyon rossz, ha a kezelés csak műtéti beavatkozásra korlátozódik. Az átlagos túlélési idő 19–86 nap, és kevesebb, mint 10% él egy évnél tovább. Az I. stádiumú daganatok jobb prognózissal rendelkeznek, mint a II. stádiumúak, ha posztoperatív kemoterápiát alkalmaznak. A szívhemangioszarkóma prognózisa hasonló. Műtétet követően a túlélési idő 1–4 hónap. A hasi szabad folyadék jelenléte vagy összeesések szintén rosszabb prognózissal járnak.</p>
-<p>A vesehemangioszarkóma prognózisa jobb, mint más hasi szervek daganatainál. Műtét után ajánlott kemoterápiát alkalmazni. Ez növeli a medián túlélési időt 141–179 napra. Sajnos, még a kemoterápia mellett is, a kutyák csak 10%-a vagy kevesebb él egy évnél tovább.</p>";
+"<p>A prognózis a daganat helyétől és klinikai stádiumától függ (minél magasabb a stádium, annál rosszabb a kórjóslat).</p>
+<p>A lép- vagy májhemangioszarkóma prognózisa nagyon rossz, ha a kezelés csak műtéti beavatkozásra korlátozódik. Az átlagos túlélési idő 19–86 nap, és kevesebb, mint 10% él egy évnél tovább. Az I. stádiumú daganatok jobb kórjóslattal rendelkeznek, mint a II. stádiumúak, ha posztoperatív kemoterápiát alkalmaznak. A szívhemangioszarkóma prognózisa hasonló. Műtétet követően a túlélési idő 1–4 hónap. A hasi szabad folyadék jelenléte vagy szívműködés elégtelenségének jelei szintén rosszabb prognózissal járnak.</p>
+<p>A vesehemangioszarkóma prognózisa jobb, mint más hasi szervek érintettsége esetében. Műtét után ajánlott kemoterápiát alkalmazni. Ez növeli a medián túlélési időt 141–179 napra. Sajnos, még a kemoterápia mellett is, a kutyák csak 10%-a vagy kevesebb él egy évnél tovább.</p>";
 
 $lang["cancer_tumorType_hemangiosarcomaNonSkin_references"] = 
 "<ol>
@@ -82,9 +82,10 @@ $lang["cancer_tumorType_hemangiosarcomaNonSkin_references"] =
 <li>Denies S, Cicchelero L, de Rooster H, Daminet S, Polis I, Van de Maele I, Sanders NN. Immunological and angiogenic markers during metronomic temozolomide and cyclophosphamide in canine cancer patients. Veterinary Comparative Oncology 2016.</li>
 </ol>";
 
-$lang["cancer_tumorType_hemangiosarcomaNonSkin_carousel_1"] = "A bal váll mögött látható kidudorodás egy hemangioszarkóma.";
+$lang["cancer_tumorType_hemangiosarcomaNonSkin_carousel_1"] = "A bal váll mögött látható szövetszaporulat egy hemangioszarkóma.";
 $lang["cancer_tumorType_hemangiosarcomaNonSkin_carousel_2"] = "A sebész a lépet a bal kezében, a lépdaganatot (nagy gömb) a jobb kezében tartja.";
-$lang["cancer_tumorType_hemangiosarcomaNonSkin_carousel_3"] = "A kutya CT-felvételén a kék kör a hemangioszarkóma méretét mutatja (valamint a bordákon való növekedését).";
+$lang["cancer_tumorType_hemangiosarcomaNonSkin_carousel_3"] = "A kutya CT-felvételén a kék kör a hemangioszarkóma méretét mutatja (valamint a bordákon való terjedését).";
 
 
 ?>
+
