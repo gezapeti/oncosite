@@ -1,9 +1,9 @@
 <?
 
-$lang['home_title'] = "Információk a kutyák rákbetegségeiről";
+$lang['home_title'] = "Információk a kutyák daganatos betegségeiről";
 $lang['home_intro'] = 
-"<p>Még mindig sok kérdés merül fel a kutyák rákbetegségeivel kapcsolatban. Ez a weboldal azzal a céllal jött létre, hogy választ adjon ezekre a kérdésekre, megbízható és független információkat gyűjtve. Itt megtalálhatja, hogy mely kutyafajták hajlamosabbak bizonyos daganattípusok kialakulására, hogyan támogathatja kutyáját a kezelés során, és mit tehet az állatorvosa a kutya érdekében. Emellett a Facebook-csoport lehetőséget biztosít a kutyatartóknak, hogy kérdéseket tegyenek fel a rákról, valamint megosszák tapasztalataikat és tippjeiket.</p>
-<p>A weboldalon található információk függetlenek, semlegesek, és állatorvosi szakemberekkel együttműködve készültek. A tartalom kiegészítő jellegű, és semmilyen módon nem helyettesíti az állatorvos tanácsát.</p>";
+"<p>Még mindig sok kérdés merül fel a kutyák tumoros betegségeivel kapcsolatban. Ez a weboldal azzal a céllal jött létre, hogy választ adjon ezekre a kérdésekre, megbízható és független információkat gyűjtve. Itt megtalálhatja, hogy mely kutyafajták hajlamosabbak bizonyos daganattípusok kialakulására, hogyan támogathatja kutyáját a kezelés során, és mit tehet az állatorvosa a kutya érdekében. Emellett a Facebook-csoport lehetőséget biztosít a kutyatartóknak, hogy kérdéseket tegyenek fel a neoplazmákról, valamint megosszák tapasztalataikat és ötleteiket.</p>
+<p>A weboldalon található információk függetlenek, semlegesek, és az oldal állatorvos szakemberekkel együttműködve készült. A tartalom kiegészítő jellegű, és semmilyen módon nem helyettesíti az onkológus állatorvos tanácsát.</p>";
 $lang['home_translation'] = "Angol fordítás";
 $lang['home_translators'] = "Laetitia Cicchelero";
 $lang["home_support"] = "Támogatja";
@@ -57,3 +57,4 @@ $lang["about_flyer"] = "Ön állatorvos, és szeretné tájékoztatni páciensei
 $lang["about_download_flyer"] = "Szórólap letöltése";
 
 ?>
+
