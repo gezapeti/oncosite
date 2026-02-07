@@ -1,19 +1,19 @@
 <? 
 
-$lang["cancer_tumorType_histiocyticSarcoma_summary_location"] = "Nincs meghatározott helye";
+$lang["cancer_tumorType_histiocyticSarcoma_summary_location"] = "Nincs meghatározott lokalizációja";
 $lang["cancer_tumorType_histiocyticSarcoma_summary_behavior"] = "Agresszív: lokálisan invazív és áttétképző";
-$lang["cancer_tumorType_histiocyticSarcoma_summary_diagnosis"] = "Vékonytű-aspiráció/nyirokcsomó-eltávolítás, röntgen (csont és mellkas)";
-$lang["cancer_tumorType_histiocyticSarcoma_summary_treatment"] = "Sebészi beavatkozás és kiegészítő sugárkezelés (elsődleges daganat esetén)";
+$lang["cancer_tumorType_histiocyticSarcoma_summary_diagnosis"] = "Vékonytű-aspiráció/szövettan nyirokcsomó-eltávolítással, röntgen (csont és mellkas)";
+$lang["cancer_tumorType_histiocyticSarcoma_summary_treatment"] = "Sebészeti beavatkozás és kiegészítő sugárkezelés (elsődleges daganat esetén)";
 $lang["cancer_tumorType_histiocyticSarcoma_summary_prognosis"] = "Erősen függ a daganat stádiumától és az alkalmazott kezelési módtól";
 
 $lang["cancer_tumorType_histiocyticSarcoma_location"] = 
-"<p>Ez a daganattípus előfordulhat helyileg, de szóródhat is a szervezetben. Ha helyi formában jelentkezik, leggyakrabban a végtagok bőrében vagy bőr alatti szöveteiben fordul elő. Mivel ezek a sejtek a test számos pontján megtalálhatók, a daganat szinte bármely szervben megjelenhet. 
-Ezt a daganattípust már leírták többek között a következő helyeken: tüdő, nyirokcsomók, máj, lép, gyomor, hasnyálmirigy, a tüdők közötti kötőszövet, bőr, vázizomzat, központi idegrendszer (agy és/vagy gerincvelő), csont, csontvelő, orrüreg és szem.</p>";
+"<p>Ez a daganattípus előfordulhat bizonyos szervekben lokalizáltan, de szóródhat is a szervezetben. Ha helyi formában jelentkezik, leggyakrabban a végtagok bőrében vagy bőr alatti kötőszövetben fordul elő. Mivel ilyen sejtek a test számos pontján megtalálhatók, a daganat szinte bármely szervben megjelenhet. 
+Ezt a daganattípust többek között a következő szervekben írták le: tüdő, nyirokcsomók, máj, lép, gyomor, hasnyálmirigy, a tüdők közötti lágyszövet, bőr, vázizomzat, központi idegrendszer (agy és/vagy gerincvelő), csont, csontvelő, orrüreg és szem.</p>";
 
 $lang["cancer_tumorType_histiocyticSarcoma_characteristics"] = 
-"<h3>Viselkedés</h3>
+"<h3>Klinikai viselkedés</h3>
 <p>A hisztiociták az immunrendszer sejtjei, amelyek a sejtpusztulás után visszamaradt törmelék eltakarításáért felelősek. 
-Ezek a sejtek elfajulhatnak, és kontrollálatlanul kezdhetnek szaporodni, daganatot képezve. A hisztiocitás szarkóma előfordulhat egyetlen szervben, vagy több szervre is kiterjedhet. Ez a daganattípus lokálisan invazív, és a környéki nyirokcsomók felé is terjedhet. 
+Ezek a sejtek elfajulhatnak, és kontrollálatlanul kezdhetnek szaporodni, daganatot képezve. A hisztiocitás szarkóma előfordulhat egyetlen szervben, vagy több szervre is kiterjedhet. Ez a daganattípus lokálisan invazív, emellett a környéki nyirokcsomók felé is terjedhet. 
 Mind a helyi, mind a szórt forma rendkívül agresszív viselkedésű lehet.</p>
 
 <h3>Előfordulás</h3>
@@ -24,14 +24,14 @@ Mind a helyi, mind a szórt forma rendkívül agresszív viselkedésű lehet.</p
 Az ízület környéki elhelyezkedés leggyakrabban rottweilerekben és flat-coated retrieverekben figyelhető meg.</p>
 
 <h3>Tünetek</h3>
-<p>A tünetek attól függnek, hol helyezkedik el a daganat. 
+<p>A klinikai tünetek attól függnek, hol helyezkedik el a daganat. 
 Például a szájban vagy a száj közelében lévő daganat étvágycsökkenést vagy szájvérzést okozhat, míg a bélrendszerben lévő hasmenést válthat ki. Általánosságban nem specifikus tünetek figyelhetők meg: levertség, étvágytalanság, fogyás. 
-Ezen kívül előfordulhat csomó megjelenése, sántítás, köhögés, hányás, valamint megnagyobbodott nyirokcsomók.</p>";
+Ezen kívül előfordulhat bőrben csomó megjelenése, sántítás, köhögés, hányás, valamint megnagyobbodott nyirokcsomók.</p>";
 
 $lang["cancer_tumorType_histiocyticSarcoma_diagnosis"] = 
-"<h3>Hisztológia</h3>
-<p>A daganat átszúrásával és a szövetminta festésével az állatorvos meg tudja becsülni, milyen típusú daganatról van szó. Ez fontos, mivel ez a daganattípus nagyon hasonlíthat más típusokra, amelyek kezelése és prognózisa jelentősen eltér. Már a sejtek alakja, tartalma és színe alapján is lehet következtetni a daganat típusára. 
-Ezen felül a makrofágokra jellemző festés segít megkülönböztetni ezt a daganattípust a limfómától (a CD18 marker a makrofágok sejtfelszínén tízszer nagyobb mennyiségben található, mint a limfocitákon – ezek alkotják a limfómát).</p>
+"<h3>Kórszövettan</h3>
+<p>A daganat mintavételezésével és a kórszövettani festésével az állatorvos meg tudja becsülni, milyen típusú tumorról van szó. Ez fontos, mivel ez a szövetszaporulat nagyon hasonlíthat más típusokra, amelyek kezelése és kórjóslata jelentősen eltér. Már a sejtek alakja, és belső mintázata alapján is lehet következtetni a tumor típusára. 
+Ezen felül a makrofágokra jellemző speciális festés segít megkülönböztetni ezt a daganattípust a limfómától (a CD18 marker a makrofágok sejtfelszínén tízszer nagyobb mennyiségben található, mint a limfocitákon).</p>
 
 <h3>Stádiumbeosztás</h3> 
 <p>Mivel a daganat több helyen is kialakulhat (akár egyszerre is), teljes körű stádiummeghatározás javasolt.</p>
@@ -58,5 +58,6 @@ $lang["cancer_tumorType_histiocyticSarcoma_references"] =
 "<ol>
 <li>Clifford CA, Skorupski KA, Moore PF. Histiocytic diseases. Withrow and MacEwen's Small Animal Clinical Oncology, Chapter 33 (p 710-713).</li>
 </ol>";
+
 
 ?>
