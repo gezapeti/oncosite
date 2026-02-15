@@ -33,26 +33,26 @@ $lang["cancer_tumorType_histiocyticSarcoma_diagnosis"] =
 <p>A daganat mintavételezésével és a kórszövettani festésével az állatorvos meg tudja becsülni, milyen típusú tumorról van szó. Ez fontos, mivel ez a szövetszaporulat nagyon hasonlíthat más típusokra, amelyek kezelése és kórjóslata jelentősen eltér. Már a sejtek alakja, és belső mintázata alapján is lehet következtetni a tumor típusára. 
 Ezen felül a makrofágokra jellemző speciális festés segít megkülönböztetni ezt a daganattípust a limfómától (a CD18 marker a makrofágok sejtfelszínén tízszer nagyobb mennyiségben található, mint a limfocitákon).</p>
 
-<h3>Stádiumbeosztás</h3> 
+<h3>Stádiumbesorolás</h3> 
 <p>Mivel a daganat több helyen is kialakulhat (akár egyszerre is), teljes körű stádiummeghatározás javasolt.</p>
 <ul>
 <li><strong>Vérvizsgálat:</strong> ez a daganattípus gyakran okoz eltéréseket a véreredményekben. Gyakori az anémia, a magas fehérvérsejtszám, az alacsony vérlemezkeszám, az emelkedett májenzimszint, az alacsony fehérjeszint (albumin) és az alacsony koleszterinszint, míg a magas kalciumszint ritka.</li>
-<li><strong>Képalkotó vizsgálatok:</strong> a mellkasröntgen és a hasüreg ultrahangvizsgálata segítségével kóros növedékek mutathatók ki.</li>
-<li><strong>Csontvelőminta:</strong> a csontvelő vizsgálata segíthet megállapítani, hogy a daganat átterjedt-e oda. A mintából származó sejteket mikroszkóp alatt, illetve laboratóriumban is elemezni lehet.</li>
+<li><strong>Képalkotó vizsgálatok:</strong> CT, valamint mellkasröntgen és a hasüreg ultrahangvizsgálata segítségével kóros szövetszaporulatok detektálhatóak.</li>
+<li><strong>Csontvelőminta:</strong> a csontvelő vizsgálata segíthet megállapítani, hogy a daganat által érintett e. A mintából származó sejteket mikroszkóp alatt, illetve laboratóriumban lehetséges elemezni.</li>
 </ul>";
 
 $lang["cancer_tumorType_histiocyticSarcoma_treatment"] = 
 "<h3>Sebészi beavatkozás</h3>
-<p>A sebészi kezelés akkor alkalmazható, ha nincsenek áttétek. Ha a daganat csak helyileg van jelen, a kemoterápiával és sugárkezeléssel kombinált terápia tovább növelheti a túlélési időt.</p>
+<p>Az operáció akkor alkalmazható, ha nincsenek áttétek. Ha a daganat lokalizálható, a kemoterápiával és sugárterápiával kombinált kezelés tovább növelheti a túlélési időt.</p>
 
 <h3>Kemoterápia</h3>
-<p>Amennyiben áttétek vannak jelen, kemoterápia alkalmazható. A CCNU-kezelés (amely a lomusztin hatóanyagot tartalmazza) jelenleg a leghatékonyabbnak tartott terápia hisztiocitás szarkómák esetében (erről áll rendelkezésre a legtöbb adat, bár ez nem zárja ki, hogy más kemoterápiás szerek is hatékonyak lehetnek).</p>
+<p>Amennyiben áttétek jelen vannak, kemoterápia alkalmazható. A CCNU-kezelés (amely a lomusztin hatóanyagot tartalmazza) jelenleg a leghatékonyabbnak tartott gyógyszeres terápia hisztiocitás szarkómák esetében (erről áll rendelkezésre a legtöbb adat, bár ez nem zárja ki, hogy más kemoterápiás szerek is hatékonyak lehetnek).</p>
 
 <h3>Sugárkezelés</h3>
-<p>A sugárkezelés (RT) hatékonyságát hisztiocitás szarkómák esetében még nem vizsgálták teljes körűen, de az előzetes adatok arra utalnak, hogy ez a daganattípus érzékeny a sugárzásra. A sugárkezeléssel kezelt kutyák medián túlélése 182 nap volt, míg a nem kezelt állatoké 60 nap.</p>";
+<p>A sugárterápia hatékonyságát hisztiocitás szarkómák esetében még nem vizsgálták teljes körűen, de az előzetes adatok arra utalnak, hogy ez a daganattípus érzékeny a sugárzásra. Egy tanulmáyn szerint a sugárkezeléssel kezelt kutyák medián túlélése 182 nap volt, míg a nem kezelt állatoké 60 nap.</p>";
 
 $lang["cancer_tumorType_histiocyticSarcoma_prognosis"] = 
-"<p>A szórt hisztiocitás szarkómák lefolyása gyors és kezelés nélkül halálos kimenetelű. Sajnos kezelés mellett is rövid a medián túlélési idő. A betegség helyi formájában a folyamat lassabban zajlik. Kezeléssel 6 hónaptól akár egy évig terjedő túlélésről is beszámoltak.</p>";
+"<p>Az áttétes hisztiocitás szarkómák lefolyása gyors és kezelés nélkül gyors lefolyású. Sajnos kezelés mellett is rövid a medián túlélési idő. A betegség helyi formájában a folyamat lassabban zajlik. Kezeléssel 6 hónaptól akár egy évig terjedő túlélésről is beszámoltak.</p>";
 
 $lang["cancer_tumorType_histiocyticSarcoma_references"] = 
 "<ol>
@@ -61,3 +61,4 @@ $lang["cancer_tumorType_histiocyticSarcoma_references"] =
 
 
 ?>
+
