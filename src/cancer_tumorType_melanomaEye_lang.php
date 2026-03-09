@@ -25,15 +25,15 @@ $lang["cancer_tumorType_melanomaEye_characteristics"] =
 <p>A szem környéki melanómák leggyakrabban német juhász kutyáknál fordulnak elő.</p>";
 
 $lang["cancer_tumorType_melanomaEye_diagnosis"] = 
-"<p>Elsődlegesen alapos szemvizsgálat szükséges, amely magában foglalhatja a réslámpás mikroszkópos vizsgálatot, gonioszkópiát, tonometriát, fundusvizsgálatot és/vagy szem ultrahangot. 
-A daganat finomtű-aspirációja szóba jöhet a végleges diagnózis felállításához, de fertőzés, gyulladás és/vagy vérzés kockázatával jár.</p>";
+"<p>Elsődlegesen alapos szemvizsgálat szükséges, amely magában foglalhatja a réslámpás vizsgálatot, gonioszkópiát, tonometriát, fundusvizsgálatot és/vagy szem ultrahangot. 
+A daganat vékonytű-aspirációja felmerül a műtét előtti diagnózis felállításához, de fertőzés, gyulladás és/vagy vérzés kockázatával jár.</p>";
 
 $lang["cancer_tumorType_melanomaEye_treatment"] = 
-"<p>A kutya szemében kialakuló daganatot általában gondosan figyelik (pl. rendszeres fényképezéssel a daganat esetleges változásainak nyomon követésére). Mivel a legtöbb intraokuláris melanóma jóindulatú és alacsony áttétképződési kockázattal rendelkezik, a szem eltávolítása nem automatikusan javasolt. 
-A szem eltávolítása szóba jöhet a daganat növekedése vagy szövődmények, például fokozott szemnyomás vagy gyulladás esetén.</p>";
+"<p>A kutyák szemében kialakuló daganatot általában szorosan kell kontrollálni (pl. rendszeres fényképezéssel a daganat esetleges változásainak nyomon követésére). Mivel a legtöbb intraokuláris melanóma jóindulatú és alacsony áttétképződési kockázattal rendelkezik, a szem eltávolítása nem automatikusan javasolt. 
+A szem eltávolítása akkor szükséges, ha a daganat növekedik vagy szövődmények, például fokozott szemnyomás valamint gyulladás alakul ki.</p>";
 
 $lang["cancer_tumorType_melanomaEye_prognosis"] = 
-"<p>A prognózis jó. A legtöbb daganat jóindulatú, áttétképződés kockázata minimális.</p>";
+"<p>A prognózis jó. A legtöbb tumor jóindulatú, áttétképződés kockázata minimális.</p>";
 
 $lang["cancer_tumorType_melanomaEye_references"] = 
 "<ol>
@@ -42,4 +42,5 @@ $lang["cancer_tumorType_melanomaEye_references"] =
 </ol>";
 
 ?>
+
 
