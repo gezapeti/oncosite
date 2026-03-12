@@ -2,18 +2,18 @@
 
 $lang["cancer_tumorType_melanomaOral_summary_location"] = "Szájüreg"; 
 $lang["cancer_tumorType_melanomaOral_summary_behavior"] = "Gyorsan ad áttétet"; 
-$lang["cancer_tumorType_melanomaOral_summary_diagnosis"] = "Finomtű-aspiráció/nyirokcsomó-biopszia, röntgen (csont és mellkas), hasi ultrahang, CT/MR vizsgálat"; 
+$lang["cancer_tumorType_melanomaOral_summary_diagnosis"] = "Vékonytű-aspiráció/nyirokcsomó-biopszia, röntgen (csont és mellkas), hasi ultrahang, CT/MRI vizsgálat"; 
 $lang["cancer_tumorType_melanomaOral_summary_treatment"] = "Sebészet és kiegészítő sugárkezelés (primer tumor), kemoterápia (áttétek)"; 
 $lang["cancer_tumorType_melanomaOral_summary_prognosis"] = "Nagymértékben függ a tumor stádiumától és a választott kezelési módtól"; 
 
 $lang["cancer_tumorType_melanomaOral_location"] = 
-"<p>A melanómák a leggyakoribb rosszindulatú szájüregi daganatok kutyákban, de előfordulhatnak a szőrös bőrön, a talpon, a körömágyban, a szemen, a gyomor-bél rendszeren, valamint a nyálkahártya és a bőr átmeneti területein (például az ajkak és a végbél környékén). A helytől függően a melanómák kevésbé vagy inkább malignus viselkedést mutathatnak.</p>
-<p>A szájüregi melanómák elsősorban az ínyen jelennek meg, ezt követik az ajkak, a nyelv és a kemény szájpadlás.</p>"; 
+"<p>A melanóma a leggyakoribb rosszindulatú szájüregi tumor kutyákban, de előfordulhatnak a szőrös bőrön, a talpon, a karomágyban, a szemen, a gyomor-bél rendszerben, valamint a nyálkahártya és a bőr átmeneteiben (például az ajkak és a végbél környékén). A helyeződéstől függően változhat a melanómák agresszívitása.</p>
+<p>A szájüregi melanómák elsősorban az ínyen jelennek meg, ezt követik gyakoriságban az ajkak, a nyelv és a kemény szájpadlás.</p>"; 
 
 $lang["cancer_tumorType_melanomaOral_characteristics"] = 
-"<h3>Viselkedés</h3>
-<p>A szájüregi melanóma viselkedése rendkívül változatos, és számos tényezőtől függ. A legfontosabb tényezők a daganat helye a szájüregen belül, a mérete és bizonyos jellemzői (hisztopatológiai paraméterek). 
-Ezek a daganatok a fej és a nyak felé terjednek, és behatolhatnak a környező csontszövetbe. Gyorsan adnak áttétet a környező nyirokcsomókba, a májba, a tüdőbe, a vesékbe, az agyhártyába stb. Az esetek 57%-ában a melanómás kutyáknál radiológiai bizonyíték mutatható a csont érintettségére, az áttétek 58–73%-ban a helyi nyirokcsomókra, 14–67%-ban a tüdőre és 65%-ban a mandulákra terjednek. Ezért különösen fontos a daganat korai felismerése.</p>
+"<h3>Klinikai viselkedés</h3>
+<p>A szájüregi melanóma viselkedése rendkívül változatos, és számos tényezőtől függ. A legfontosabb tényezők a daganat helyeződése a szájüregen belül, a mérete és bizonyos szövettani jellemzői (hisztopatológiai paraméterek). 
+Ezek a daganatok a fej és a nyak felé terjednek, és behatolhatnak a környező csontszövetbe. Gyorsan adnak áttétet a környező nyirokcsomókba, a májba, a tüdőbe, a vesékbe, az agyhártyába stb. Az esetek 57%-ában a melanómás kutyáknál radiológiailag igazolható a csont érintettsége, az áttétek 58–73%-ban azonosíthatóak helyi nyirokcsomókban, 14–67%-ban a tüdőben és 65%-ban a mandulákban. Ezért különösen fontos a szövetszaporulat korai azonosítása.</p>
 
 <h3>Gyakoriság</h3>
 <p>A kutyák szájüregi daganatainak 30–40%-a melanóma. Ez a daganat főleg idősebb kutyákban fordul elő (átlagosan 12 éves korban), de fiatalabb kutyáknál is előfordulhat.</p>
@@ -112,3 +112,4 @@ $lang["cancer_tumorType_melanomaOral_carousel_2"] = "A száj kinyitásakor a fog
 $lang["cancer_tumorType_melanomaOral_carousel_3"] = "A daganat nem mindig sötét színű ahhoz, hogy melanóma legyen. A fenti kutyánál a felső ajak magasságában lévő tömeg hús színű, de a mintavétel megerősítette, hogy pigmentsejtes daganatról van szó.";
 
 ?> 
+
