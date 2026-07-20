@@ -16,35 +16,35 @@ $lang["cancer_tumorType_melanomaOral_characteristics"] =
 Ezek a daganatok a fej és a nyak felé terjednek, és behatolhatnak a környező csontszövetbe. Gyorsan adnak áttétet a környező nyirokcsomókba, a májba, a tüdőbe, a vesékbe, az agyhártyába stb. Az esetek 57%-ában a melanómás kutyáknál radiológiailag igazolható a csont érintettsége, az áttétek 58–73%-ban azonosíthatóak helyi nyirokcsomókban, 14–67%-ban a tüdőben és 65%-ban a mandulákban. Ezért különösen fontos a szövetszaporulat korai azonosítása.</p>
 
 <h3>Gyakoriság</h3>
-<p>A kutyák szájüregi daganatainak 30–40%-a melanóma. Ez a daganat főleg idősebb kutyákban fordul elő (átlagosan 12 éves korban), de fiatalabb kutyáknál is előfordulhat.</p>
+<p>A kutyák szájüregi daganatainak 30–40%-a melanóma. Ez a daganat főleg idősebb kutyákban fordul elő (átlagosan 12 éves korban), de fiatalabb kutyák esetében is kialakulhat.</p>
 
-<h3>Fajtára való hajlam</h3>
-<p>Magasabb kockázatot jelent a daganat kialakulására a Chow Chow, tacskó, Golden retriever, uszkár és skót terrier fajtáknál. Az erősen pigmentált nyálkahártyájú kutyák fogékonyabbak a malignus melanómák kialakulására.</p>
+<h3>Tumorra való fajtahajlam</h3>
+<p>Magasabb kockázatot jelent a daganat a következő fajtákra: a Chow Chow, tacskó, golden retriever, uszkár és skót terrier fajták. Az erősen pigmentált nyálkahártyájú kutyák szintén fogékonyabbak a malignus melanómák kialakulására.</p>
 
 <h3>Tünetek</h3>
-<p>Duzzanat alakulhat ki az ínyen, az ajkakon és/vagy a szájpadláson. Ezek a duzzanatok lehetnek kemények és barna-feketék, de az esetek egyharmadában a szövettömeg hús színű is lehet. Fekélyesedés vagy nekrózis ritka. A kutyák a következő tüneteket mutathatják: duzzanat a szájban vagy annak környékén, fogyás, rossz lehelet, gyakori nyálzás, étkezési nehézség (étel kihullása a szájából), vérzés a szájüregből vagy laza fogak.</p>"; 
+<p>Szövetszaporulat kialakulhat az ínyen, az ajkakon és/vagy a szájpadláson. Ezek a növedékek lehetnek kemények és barna-feketék, de az esetek egyharmadában a burjánzás hús színű is lehet. Fekélyesedés vagy nekrózis ritka. A kutyák a következő tüneteket mutathatják: duzzanat a szájban vagy annak környékén, fogyás, rossz lehelet, gyakori nyálzás, étkezési nehézség (étel kihullása a szájából), vérzés a szájüregből vagy laza fogak.</p>"; 
 
 $lang["cancer_tumorType_melanomaOral_diagnosis"] = 
 "<p>Általában alapos fizikai vizsgálatot végeznek, amit szükség esetén vér- vagy vizeletvizsgálat követhet.</p>
 
 <h3>A daganat maga</h3>
-<p>A diagnózis néha nehéz, mert nem minden melanóma tartalmaz pigmentet (akár 30%-uk nem tartalmaz melanint). Ha meghatározható, hogy a leszívott szövettömeg körsejtes daganat és pigmentet tartalmaz, az általában elegendő a melanóma diagnózisához. Ha nem, biopsziát kell venni további vizsgálathoz. 
-Immunfenotipizálással (PNL2/tirozináz/Melan A/S100-festés) a pigmentsejtekre jellemző fehérjék festhetők. Ha ezeket a fehérjéket olyan helyeken találják, ahol normálisan nem fordulnak elő, valószínű, hogy a biopsziás szövettömeg rákos pigmentsejtekből áll.</p>
+<p>A diagnózis néha nehéz, mert nem minden melanóma tartalmaz pigmentet (akár 30%-uk nem tartalmaz melanint). Ha meghatározható, hogy az aspirált minta kereksejtes daganat és pigmentet tartalmaz, az általában elegendő a melanóma diagnózisához. Ha nem, biopsziát kell venni további vizsgálathoz. 
+Immunfenotipizálással (PNL2/tirozináz/Melan A/S100-festés) a pigmentsejtekre jellemző fehérjék festhetők. Ha ezeket a fehérjéket olyan helyeken találják, ahol normálisan nem fordulnak elő, valószínű, hogy a biopsziás szövettömeg tumoros pigmentsejtekből áll.</p>
 
 <h3>Áttétek becslése</h3>
-<p>Nyirokcsomók histológiai vizsgálata ajánlott. Ezek lehetnek a fej és a nyak fő nyirokcsomói, vagy sentinel nyirokcsomó térképezéssel azonosított nyirokcsomók (festékanyag befecskendezésével, amely megmutatja a nyirokelvezetést). Ennél a daganattípusnál a helyi nyirokcsomók mérete nem jelzi pontosan az áttét jelenlétét. A legtöbb áttétes kutyánál megnagyobbodott nyirokcsomók vannak, de 30–40%-ban normál méretű nyirokcsomók is tartalmazhatnak rákos sejteket.</p>
-<p>A melanómák változatos viselkedése miatt javasolt a csontok és tüdők röntgenvizsgálata, valamint a hasi ultrahang, hogy a nyirokcsomókon kívüli áttéteket is kimutassák. CT vagy MRI vizsgálatok kritikusak a szájüregi melanóma műtéti tervezéséhez, különösen a felső és alsó állcsontot érintő melanómáknál. Csontérintettséget 57–92%-ban jelentettek szájüregi melanómás kutyáknál.</p>"; 
+<p>Nyirokcsomók kórszövettani vizsgálata ajánlott. Ezek lehetnek a fej és a nyak fő nyirokcsomói, vagy szentinel nyirokcsomó-térképezéssel azonosított nyirokcsomók (festékanyagot a szövetszaporulatba fecskendezve megmutatja a nyirokelvezetést, kapcsolódó nyirokcsomót). Ennél a daganattípusnál a környéki nyirokcsomók mérete nem jelzi pontosan az áttét jelenlétét. A legtöbb áttétes kutyánál megnagyobbodott nyirokcsomók detektálhatóak, de 30–40%-ban normál méretű nyirokcsomók is érintettek már áttétes daganatsejtekkel.</p>
+<p>A melanómák változatos klinikai viselkedése miatt javasolt a csontok és a tüdő röntgenvizsgálata, valamint a hasi ultrahang, hogy a nyirokcsomókon kívüli/távoli áttéteket is kimutassák. A CT vagy MRI vizsgálat kritikusan fontos a szájüregi melanóma műtéti tervezéséhez, különösen a felső és alsó állcsontot érintő melanómáknál. Csontérintettséget 57–92%-ban tapasztaltak szájüregi melanómás kutyáknál.</p>"; 
 
 $lang["cancer_tumorType_melanomaOral_treatment"] = 
 "<h3>Sebészet</h3>
-<p>A sebészet a leghatékonyabb lokális kezelés melanómák esetén. Kis daganatok (<2 cm átmérőjű), amelyek nincsenek az alatta lévő szövetekhez rögzülve, jól körülhatároltak és lassan növekednek, általában jóindulatúak és könnyen eltávolíthatók. Nagy, rosszul körülhatárolt, gyorsan növekvő daganatok (>2 cm) fekélyesedéssel nehézséget okozhatnak a műtéti eltávolítás során.</p>
-<p>Mivel a melanómák nagyon infiltratívak és gyorsan terjedhetnek, a daganat eltávolításakor széles határokat kell tervezni. Ínyen kialakuló melanómáknál előfordulhat, hogy az alsó vagy felső állcsont egy részét is el kell távolítani. Pofán, ajkakon vagy nyelven előforduló melanómáknál gyakran nincs szükség csonteltávolításra. Általánosságban a daganat fokától függően 1–3 cm-es határt kell számolni (ideális esetben egy szövetréteg). Ha csak hiányos margót lehet elérni, a sebészet kombinálása sugárterápiával vagy további kezelésekkel, mint kemoterápia és immunterápia, ajánlott – bár a kemoterápia és immunterápia hatékonysága az áttétek ellen még vizsgálat alatt áll.</p>
-<p>Azoknál a kutyáknál, akiknél a felső vagy alsó állcsont részleges eltávolítására kerül sor, az életminőség általában jó, és a legtöbb kutya három napon belül újra eszik a műtét után.</p>
+<p>A sebészeti eltávolítás a leghatékonyabb lokális kezelés melanómák esetén. Kis méretű daganatok (<2 cm átmérőjű), amelyek nincsenek az alatta lévő szövetekhez rögzülve, jól körülhatároltak és lassan növekednek, általában jóindulatúak és könnyen eltávolíthatóak. Nagy méretű, rosszul körülhatárolt, gyorsan növekvő (>2 cm), fekélyes felszínű tumorok eltávolítása technikai nehézségekbe ütközhet.</p>
+<p>Mivel a melanómák nagyon infiltratívak és gyorsan terjedhetnek, a daganat eltávolításakor széles határokat kell tervezni. Ínyen kialakuló melanómáknál előfordulhat, hogy az alsó vagy felső állcsont egy részét is el kell távolítani. Pofán, ajkakon vagy nyelven előforduló melanómáknál gyakran nincs szükség csonteltávolításra. Általánosságban kijelenthető, hogy a szövetszaporulat helyeződésétől függően 1–3 cm-es határt kell számolni. Ha a teljes eltávolítás nem lehetséges, az operáció kombinálása sugárterápiával vagy egyéb kezelésekkel, úgymint kemoterápia és immunterápia, javasolt – bár áttétes esetekben a kemoterápia és immunterápia hatékonyságának vizsgálata folyamatban van még.</p>
+<p>Azoknál a kutyáknál, akiknél a felső vagy alsó állcsont részleges eltávolítására kerül sor, az életminőség általában jó, és a legtöbb kutya három napon belül újra eszik a műtétet követően.</p>
 
 <h3>Sugárterápia</h3>
-<p>A melanómák viszonylag érzéketlenek a sugárkezelésre (bár sok minden függ a protokolltól). Ugyanakkor a sugárterápia hatékony lokális kezelésnek tekinthető minimális mellékhatásokkal kutyákban. Általában a szájüregi daganatot és a helyi nyirokcsomókat (állkapocs és garat körüli) kezelik. Tipikusan 2 cm-es margót alkalmaznak a daganat vagy a műtéti metszés körül.</p>
+<p>A melanómák csak mérsékelten érzékenyek a sugárkezelésre (bár sok minden függ a protokolltól). Ugyanakkor a sugárterápia hatékony lokális kezelésnek tekinthető minimális mellékhatásokkal kutyákban. Általában a szájüregi daganatot és a helyi nyirokcsomókat (állkapocs és garat körüli) kezelik. Tipikusan 2 cm-es rádiuszban alkalmazzák a daganat vagy a műtéti heg körül.</p>
 <dl>
-<dt>Gyógyító célú sugárterápia:</dt>
+<dt>Gyógyító célú/kuratív sugárterápia:</dt>
 <dd>A malignus melanómák általában jól reagálnak a dózisfrakcionálásra (összesen 6 frakció, heti egyszer 6 héten át, vagy kétszer hetente 3 héten át). A kezelési válasz viszonylag gyors (a daganat mérete hetek alatt csökken). Teljes vagy részleges daganatcsökkenés lehetséges, bár gyakran átmeneti. A kiújulás a protokolltól függ. Mikroszkopikusan jelenlévő rákos sejtek esetén a kezelt kutyák 26%-a, makroszkopikusan jelenlévő daganat esetén 45%-a relapszol. 5 cm3-nél kisebb daganatok sugárkezelésénél a válasz és túlélési idő hosszabb volt, mint a nagyobb daganatoknál.</dd>
 <dt>Palliatív sugárterápia:</dt>
 <dd>Ez a sugárkezelés olyan formája, amely nem a gyógyulást célozza, hanem a betegség lassítását. Főként áttétes vagy előrehaladott szájüregi malignus melanómában alkalmazzák.</dd>
@@ -112,4 +112,5 @@ $lang["cancer_tumorType_melanomaOral_carousel_2"] = "A száj kinyitásakor a fog
 $lang["cancer_tumorType_melanomaOral_carousel_3"] = "A daganat nem mindig sötét színű ahhoz, hogy melanóma legyen. A fenti kutyánál a felső ajak magasságában lévő tömeg hús színű, de a mintavétel megerősítette, hogy pigmentsejtes daganatról van szó.";
 
 ?> 
+
 
