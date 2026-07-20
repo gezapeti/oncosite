@@ -45,16 +45,16 @@ $lang["cancer_tumorType_melanomaOral_treatment"] =
 <p>A melanómák csak mérsékelten érzékenyek a sugárkezelésre (bár sok minden függ a protokolltól). Ugyanakkor a sugárterápia hatékony lokális kezelésnek tekinthető minimális mellékhatásokkal kutyákban. Általában a szájüregi daganatot és a helyi nyirokcsomókat (állkapocs és garat körüli) kezelik. Tipikusan 2 cm-es rádiuszban alkalmazzák a daganat vagy a műtéti heg körül.</p>
 <dl>
 <dt>Gyógyító célú/kuratív sugárterápia:</dt>
-<dd>A malignus melanómák általában jól reagálnak a dózisfrakcionálásra (összesen 6 frakció, heti egyszer 6 héten át, vagy kétszer hetente 3 héten át). A kezelési válasz viszonylag gyors (a daganat mérete hetek alatt csökken). Teljes vagy részleges daganatcsökkenés lehetséges, bár gyakran átmeneti. A kiújulás a protokolltól függ. Mikroszkopikusan jelenlévő rákos sejtek esetén a kezelt kutyák 26%-a, makroszkopikusan jelenlévő daganat esetén 45%-a relapszol. 5 cm3-nél kisebb daganatok sugárkezelésénél a válasz és túlélési idő hosszabb volt, mint a nagyobb daganatoknál.</dd>
-<dt>Palliatív sugárterápia:</dt>
+<dd>A malignus melanómák általában jól reagálnak a dózisfrakcionálásra (összesen 6 frakció, heti egyszer 6 héten át, vagy kétszer hetente 3 héten át). A kezelési válasz viszonylag gyors (a daganat mérete hetek alatt csökken). Teljes vagy részleges tumorszövet-zsugorodás lehetséges, bár gyakran átmeneti jelleggel. A kiújulás a protokolltól függ. Mikroszkopikusan jelenlévő rákos sejtek esetén a kezelt kutyák 26%-a, makroszkopikusan látható daganat esetén 45%-a a betegeknek visszaesik. 5 cm3-nél kisebb daganatok sugárkezelésénél a válasz és túlélési idő hosszabb volt, mint a nagyobb daganatoknál.</dd>
+<dt>Palliatív/életminőséget javító sugárterápia:</dt>
 <dd>Ez a sugárkezelés olyan formája, amely nem a gyógyulást célozza, hanem a betegség lassítását. Főként áttétes vagy előrehaladott szájüregi malignus melanómában alkalmazzák.</dd>
 </dl>
 
 <h3>Kemoterápia</h3>
-<p>A kemoterápia indokolt lehet a magas áttétkockázat miatt (akár 75%). Adható közvetlenül a daganatba vagy intravénásan. Eddig a kemoterápia hatékonysága melanómákban nem bizonyított.</p>
+<p>A kemoterápia indokolt lehet a magas áttétkockázat miatt (akár 75%). Adható közvetlenül a tumorba vagy intravénásan. Eddig a kemoterápia hatékonysága melanómákban nem teljesen bizonyított.</p>
 <dl>
-<dt>Intralesionális kemoterápia:</dt>
-<dd>Az információk inkább anekdotikusak. Cisplatin-t kibocsátó implantátumokat helyeznek a daganatba. A kezelés hatására akár 70%-ban átmeneti daganatcsökkenés érhető el, de gyógyulás nem. Cisplatint is lehet közvetlenül a daganatba injektálni, majd elektródákat alkalmazni, amelyek rövid ideig pórusokat hoznak létre a sejtekben, lehetővé téve a gyógyszer bejutását. Ez a módszer még nem standard állatorvosi kezelés.</dd>
+<dt>Szövetközi kemoterápia:</dt>
+<dd>A rendelkezésre álló információk inkább anekdotikusak. Ciszplatin gyógyszert kibocsátó implantátumokat helyeznek a daganatba. A kezelés hatására akár 70%-ban átmeneti daganatcsökkenés érhető el, de gyógyulás nem. Cisplatint is lehet közvetlenül a daganatba injektálni, majd elektródákat alkalmazni, amelyek rövid ideig pórusokat hoznak létre a sejtekben, lehetővé téve a gyógyszer bejutását. Ez a módszer még nem standard állatorvosi kezelés.</dd>
 <dt>Szisztémás kemoterápia:</dt>
 <dd>A legjobb klinikai hatások eddig carboplatin és cisplatin alkalmazásával érhetők el. A kemoterápia melanómában eddig nem bizonyult igazán hatékonynak.</dd>
 </dl>
@@ -65,19 +65,19 @@ $lang["cancer_tumorType_melanomaOral_treatment"] =
 <dt>Oncept®</dt>
 <dd>A melanóma kifejezi a tirozináz nevű pigmentációs enzimet. Az Oncept® vakcina idegen (emberi) tirozinázt termel, amely segíti a kutya immunrendszerét a melanóma sejtek felismerésében és megtámadásában. Egy tanulmányban 58 kutyát kezeltek Oncept®-tel, és jobb eredményt értek el, mint a 53 kutyából álló történelmi kontrollcsoportban.</dd>
 <dt>Pet Biocell</dt>
-<dd>Német cég, amely személyre szabott daganatvakcinákat állít elő. Nagy vizsgálatok még nem állnak rendelkezésre.</dd>
+<dd>Német cég, amely személyre szabott daganatvakcinákat állít elő. Nagy populációkra kiterjedt vizsgálatok még nem állnak rendelkezésre.</dd>
 <dt>Elias Animal Health</dt>
 <dd>Amerikai cég, amely daganatvakcinát készít és a fehérvérsejteket visszaadja a kutyának a rákos sejtek hatékonyabb elpusztítása érdekében. Eddig melanoma vizsgálatok eredményei nem állnak rendelkezésre.</dd>
 </dl>"; 
 
 $lang["cancer_tumorType_melanomaOral_prognosis"] = 
-"<p>Az szájüregi melanómák rendkívül rosszindulatú daganatoknak számítanak nagy infiltráló képességük és erős áttétképző hajlamuk miatt. A kis, nem áttétes daganatok teljesen gyógyíthatók. Egy alacsony fokozatú, 0,5 cm átmérőjű, szőrrel borított bőrön elhelyezkedő daganat esetén a sebészet elegendő, de egy nagy, 5 cm átmérőjű, magas fokozatú szájüregi daganat esetén a prognózis rossz. Az átlagos túlélési idő a daganat stádiumától függ. Az I-II. stádiumban kb. 20 hónap, míg a III-IV. stádiumban csak 6 hónap várható.</p>
+"<p>Az szájüregi melanómák rendkívül rosszindulatú daganatoknak számítanak nagy infiltráló képességük és erős áttétképző hajlamuk miatt. A kis, nem áttétes tumorok teljesen gyógyíthatók. Egy alacsony fokozatú, 0,5 cm átmérőjű, szőrrel borított bőrön elhelyezkedő daganat esetén a sebészet elegendő, de egy nagy, 5 cm átmérőjű, magas fokozatú szájüregi daganat esetén a prognózis rossz. Az átlagos túlélési idő a daganat stádiumától függ. Az I-II. stádiumban kb. 20 hónap, míg a III-IV. stádiumban csak 6 hónap várható.</p>
 
 <h4>Stádiumok</h4>
 <ul>
-<li>I: ha a daganat átmérője ≤ 2 cm és nincsenek érintett helyi nyirokcsomók vagy áttétek</li>
-<li>II: ha a daganat átmérője 2-4 cm között van, és nincsenek érintett helyi nyirokcsomók vagy áttétek</li>
-<li>III: ha a daganat átmérője > 4 cm, nyirokcsomók vagy áttétek nélkül; ha a daganat átmérője 2-4 cm között van, és vannak érintett nyirokcsomók, de nincs áttét</li>
+<li>I: ha a daganat átmérője ≤ 2 cm és nincsenek érintett környéki nyirokcsomók vagy távoli áttétek</li>
+<li>II: ha a daganat átmérője 2-4 cm között van, és nincsenek érintett környéki nyirokcsomók vagy távoli áttétek</li>
+<li>III: ha a daganat átmérője > 4 cm, nyirokcsomók vagy áttétek nélkül; ha a daganat átmérője 2-4 cm között van, és vannak érintett nyirokcsomók, de nincs távoli áttét</li>
 <li>IV: amint áttétek jelen vannak</li>
 </ul>
 
@@ -90,8 +90,8 @@ $lang["cancer_tumorType_melanomaOral_prognosis"] =
 <li>és helyi kiújulás esetén</li>
 </ul>
 
-<h4>Histológia</h4>
-<p>Histopatológiai vizsgálattal meghatározható, hogy a rákos sejtek milyen gyorsan osztódnak (mitotikus index). Az 3 vagy annál alacsonyabb mitotikus indexű melanómák jobb prognózissal rendelkeznek, mint a 3 fölöttiek.</p>
+<h4>Kórszövettan</h4>
+<p>Histopatológiai vizsgálattal meghatározható, hogy a tumorsejtek milyen gyorsan osztódnak (mitotikus index). Az 3 vagy annál alacsonyabb mitotikus indexű melanómák jobb prognózissal rendelkeznek, mint a 3 fölöttiek.</p>
  
 <p>A medián túlélési idő a következőket tartalmazza:</p>
 <ul>
