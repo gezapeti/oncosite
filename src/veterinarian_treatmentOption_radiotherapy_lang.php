@@ -58,24 +58,24 @@ $lang["veterinarian_treatment_radiotherapy_tumorTypes_t"] = "Sugárérzékeny da
 $lang["veterinarian_treatment_radiotherapy_tumorTypes_c"] = 
 "<p>Azok a daganattípusok, amelyek általában érzékenyek a sugárzásra, a következők:</p>
 <ul>
-<li>agydaganatok (meningeoma, schwannoma, plexus choroideus daganat, astrocytoma, glioma, hipofízis makroadenoma és adenokarcinoma)</li>
-<li>orrüregi daganatok (főként limfóma, carcinoma)</li>
-<li>szájüregi daganatok (akantómás epulis, laphámsejtes carcinoma, melanoma)</li>
-<li>végtagokon/testen megjelenő daganatok (kis lágyrész-szarkóma, limfóma, hízósejtes daganat, cerumin mirigydaganat, pajzsmirigy carcinoma, hólyagdaganat, prosztata daganat, peri-anális adenoma, anális mirigy adenokarcinoma).</li>
+<li>agydaganatok (meningeóma, schwannóma, plexus choroideus daganat, astrocytóma, glióma, hipofízis makroadenóma és adenokarcinóma)</li>
+<li>orrüregi daganatok (főként limfóma, karcinóma)</li>
+<li>szájüregi daganatok (epulis, laphámsejtes karcinóma, melanóma)</li>
+<li>végtagokon/törzsön megjelenő daganatok (kis méretű lágyszöveti szarkóma, limfóma, hízósejtes daganat, cerumin mirigydaganat, pajzsmirigy karcinóma, hólyagdaganat, prosztata daganat, peri-anális mirigy adenóma vagy adenokarcinóma).</li>
 </ul>
-<p>A sugárzást palliatív terápiaként is alkalmazzák osteosarcoma esetén, mivel igen hatékony fájdalomcsillapító hatása van.</p>";
+<p>A sugárterápiát palliatív terápiaként is alkalmazzák oszteoszarkóma esetén, mivel igen effektív fájdalomcsillapító hatása van.</p>";
 
-$lang["veterinarian_treatment_radiotherapy_sideEffects_t"] = "A radioterápia mellékhatásai";
+$lang["veterinarian_treatment_radiotherapy_sideEffects_t"] = "A sugárterápia mellékhatásai";
 $lang["veterinarian_treatment_radiotherapy_sideEffects_c"] = 
-"<p>A radioterápia mellékhatásai gyorsan (akut) jelentkezhetnek, vagy késleltetetten is. A kezelés előtt a radioonkológussal meg kell beszélni az egyéni kockázatokat és előnyöket.</p>";
+"<p>A radioterápia mellékhatásai korán (akut) vagy késleltetetten (krónikus) is jelentkezhetnek. A kezelés előtt a radioonkológussal meg kell beszélni az egyéni kockázatokat és előnyöket.</p>";
 
 $lang["veterinarian_treatment_radiotherapy_sideEffects_acute_t"] = "Akut mellékhatások";
 $lang["veterinarian_treatment_radiotherapy_sideEffects_acute_c"] = 
-"<p><b>Az akut mellékhatások</b> főként gyorsan osztódó szövetekben jelentkeznek: csontvelőben, epidermiszben, a gyomor-bél traktus sejtjeiben, nyálkahártyákban (gyulladás), valamint a rákos sejtekben. A teljes beadott dózis, a dózis intenzitása, a kezelt szövet mennyisége és helye mind befolyásolja az egészséges szövetre gyakorolt mellékhatásokat. Ezek az akut hatások a kuratív céllal végzett sugárkezelés során jelentkeznek, de idővel, megfelelő gondozás mellett elmúlnak. A nyálkahártya-gyulladás általában a kezelés megkezdésétől számított 7–10 napon belül jelentkezik, a bőrgyulladás 12–14 nap múlva.</p>
+"<p><b>Az akut mellékhatások</b> főként gyorsan osztódó szövetekben jelentkeznek: csontvelőben, epidermiszben, a gyomor-bél traktus sejtjeiben, nyálkahártyákban (gyulladás hatására), valamint magában a tumoros szövetben. A teljes beadott dózismennyiség, a dózis intenzitása, a besugárzott terület kiterjedése, és helye mind befolyásolja az egészséges szövetre gyakorolt mellékhatásokat. Ezek az akut hatások jellemzően a kuratív céllal végzett sugárkezelés során jelentkeznek, de idővel, megfelelő gondozás mellett elmúlnak. A nyálkahártya-gyulladás általában a kezelés megkezdésétől számított 7–10 napon belül jelentkezik, a bőrgyulladás csak 12–14 nap múlva.</p>
 <ul>
-<li>Szájüregi sugárzás után az akut mellékhatások a nyálkahártya gyulladását jelenthetik, ami szájérzékenységben és sűrűbb nyálképződésben nyilvánulhat meg. Ez a kezelés befejezését követő két héten belül megszűnik. A sugárzott bőr kipirosodhat, valamint átmeneti szőrhullás, száraz és nedves hámlás és/vagy ajakduzzanat jelentkezhet.</li>
+<li>Szájüregi besugárzást követően az akut mellékhatások a nyálkahártya gyulladásában nyilvánulnak meg elsősorban, ami szájérzékenységet és sűrűbb nyálképződést jelent áltaban. Ez a kezelés befejezését követő két héten belül megszűnik. A sugárzott bőr kipirosodhat, valamint átmeneti szőrhullás, száraz és nedves hámlás és/vagy ajakduzzanat jelentkezhet.</li>
 <li>Orrüreg sugárzás után az akut mellékhatások hasonlóak lehetnek, de mivel a szem közelebb van a sugárzási zónához, a szemhéj és a nyálkahártyák gyulladása, valamint a száraz szem (csökkent könnytermelés) is előfordulhat.</li>
-<li>Agy sugárzása után az akut mellékhatások jelentkezhetnek a szájüreg hátsó részén, a szemen és a fülön. Az idegrendszeri tünetek enyhe vagy mérsékelt fokozódása gyakran átmeneti (a kezelés után 3–16 héttel), de a tünetek megszűnése időbe telhet.</li>
+<li>Agy sugárzása után az akut mellékhatások jelentkezhetnek a szájüreg hátsó részén, a szemen és a fülön. Az idegrendszeri tünetek enyhe vagy mérsékelt fokozódása gyakran átmeneti (a kezelés után 3–16 héttel), de a tünetek teljes megszűnése időbe telhet.</li>
 <li>Törzs vagy végtagok sugárzása után átmeneti szőrhullás, a szőr és/vagy bőr színének változása, száraz vagy nedves hámlás (fájdalommal és viszketéssel) jelentkezhet a kezelés kezdetétől számított 3–5 héten belül.</li>
 <li>Csont sugárzása után a bőr gyulladása és a törés kockázatának növekedése fordulhat elő. Mivel a csontdaganatok gyengítik a csontot, és a radioterápia fájdalomcsillapító hatású, a kutya többet használhatja az érintett mancsot, ami megnöveli a súlyterhelést és ezáltal a törés kockázatát.</li>
 <li>Has sugárzása után nyálkahártya-gyulladás jelentkezhet, például a bél gyulladása hasmenéshez vezethet.</li>
